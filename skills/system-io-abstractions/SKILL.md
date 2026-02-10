@@ -1,7 +1,10 @@
 ---
-description: Guidance for System.IO.Abstractions usage.
+name: system-io-abstractions
+description: Guidance for System.IO.Abstractions usage. Use when working with system io abstractions.
+license: MIT
 metadata:
-  displayName: System.IO.Abstractions
+  displayName: "System.IO.Abstractions"
+  author: "Tyler-R-Kendrick"
 ---
 
 # System.IO.Abstractions

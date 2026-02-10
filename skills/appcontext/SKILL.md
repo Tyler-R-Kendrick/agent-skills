@@ -1,7 +1,10 @@
 ---
-description: Guidance for AppContext switches and feature flags.
+name: appcontext
+description: Guidance for AppContext switches and feature flags. Use when working with appcontext.
+license: MIT
 metadata:
-  displayName: AppContext
+  displayName: "AppContext"
+  author: "Tyler-R-Kendrick"
 ---
 
 # AppContext

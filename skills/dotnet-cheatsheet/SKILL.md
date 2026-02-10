@@ -1,7 +1,10 @@
 ---
-description: Guidance for modern .NET code patterns and libraries.
-metadata: 
-  displayName: .NET Cheatsheet (Modern)
+name: dotnet-cheatsheet
+description: Guidance for modern .NET code patterns and libraries. Use when working with dotnet cheatsheet.
+license: MIT
+metadata:
+  displayName: ".NET Cheatsheet (Modern)"
+  author: "Tyler-R-Kendrick"
 ---
 
 # .NET Cheatsheet (Modern)

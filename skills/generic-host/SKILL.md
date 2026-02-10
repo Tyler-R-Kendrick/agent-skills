@@ -1,7 +1,10 @@
 ---
-description: Guidance for the .NET Generic Host.
+name: generic-host
+description: Guidance for the .NET Generic Host. Use when working with generic host.
+license: MIT
 metadata:
-  displayName: Generic Host
+  displayName: "Generic Host"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Generic Host

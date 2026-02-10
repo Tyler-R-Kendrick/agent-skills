@@ -1,7 +1,10 @@
 ---
-description: Guidance for ASP.NET Core Identity.
+name: aspnet-identity
+description: Guidance for ASP.NET Core Identity. Use when working with aspnet identity.
+license: MIT
 metadata:
-  displayName: ASP.NET Core Identity
+  displayName: "ASP.NET Core Identity"
+  author: "Tyler-R-Kendrick"
 ---
 
 # ASP.NET Core Identity

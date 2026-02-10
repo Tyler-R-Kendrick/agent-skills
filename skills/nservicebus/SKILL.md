@@ -1,7 +1,10 @@
 ---
-description: Guidance for NServiceBus usage.
+name: nservicebus
+description: Guidance for NServiceBus usage. Use when working with nservicebus.
+license: MIT
 metadata:
-  displayName: NServiceBus
+  displayName: "NServiceBus"
+  author: "Tyler-R-Kendrick"
 ---
 
 # NServiceBus

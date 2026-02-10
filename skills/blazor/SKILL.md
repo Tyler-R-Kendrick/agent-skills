@@ -1,7 +1,10 @@
 ---
-description: Guidance for Blazor usage.
+name: blazor
+description: Guidance for Blazor usage. Use when working with blazor.
+license: MIT
 metadata:
-  displayName: Blazor
+  displayName: "Blazor"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Blazor

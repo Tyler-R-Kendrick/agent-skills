@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.FileProviders usage.
+name: file-provider
+description: Guidance for Microsoft.Extensions.FileProviders usage. Use when working with file provider.
+license: MIT
 metadata:
-  displayName: File Providers
+  displayName: "File Providers"
+  author: "Tyler-R-Kendrick"
 ---
 
 # File Providers

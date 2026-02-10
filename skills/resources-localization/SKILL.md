@@ -1,7 +1,10 @@
 ---
-description: Guidance for resources and localization.
+name: resources-localization
+description: Guidance for resources and localization. Use when working with resources localization.
+license: MIT
 metadata:
-  displayName: Resources and Localization
+  displayName: "Resources and Localization"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Resources and Localization

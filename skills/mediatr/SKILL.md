@@ -1,7 +1,10 @@
 ---
-description: Guidance for MediatR usage.
+name: mediatr
+description: Guidance for MediatR usage. Use when working with mediatr.
+license: MIT
 metadata:
-  displayName: MediatR
+  displayName: "MediatR"
+  author: "Tyler-R-Kendrick"
 ---
 
 # MediatR

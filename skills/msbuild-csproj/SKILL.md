@@ -1,3 +1,11 @@
+---
+name: msbuild-csproj
+description: Guidance for MSBuild .csproj structuring with dotnet CLI. Use when creating or modifying .csproj files.
+license: MIT
+metadata:
+  author: "Tyler-R-Kendrick"
+---
+
 # MSBuild CSPROJ Structuring for Modern .NET/C#
 
 ## Overview

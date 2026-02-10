@@ -1,7 +1,10 @@
 ---
-description: Guidance for System.IO.Pipelines usage.
+name: system-io-pipelines
+description: Guidance for System.IO.Pipelines usage. Use when working with system io pipelines.
+license: MIT
 metadata:
-  displayName: System.IO.Pipelines
+  displayName: "System.IO.Pipelines"
+  author: "Tyler-R-Kendrick"
 ---
 
 # System.IO.Pipelines

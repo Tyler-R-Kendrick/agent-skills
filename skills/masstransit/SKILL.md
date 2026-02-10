@@ -1,7 +1,10 @@
 ---
-description: Guidance for MassTransit usage.
+name: masstransit
+description: Guidance for MassTransit usage. Use when working with masstransit.
+license: MIT
 metadata:
-  displayName: MassTransit
+  displayName: "MassTransit"
+  author: "Tyler-R-Kendrick"
 ---
 
 # MassTransit

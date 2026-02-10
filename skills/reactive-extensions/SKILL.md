@@ -1,7 +1,10 @@
 ---
-description: Guidance for Reactive Extensions usage.
+name: reactive-extensions
+description: Guidance for Reactive Extensions usage. Use when working with reactive extensions.
+license: MIT
 metadata:
-  displayName: Reactive Extensions
+  displayName: "Reactive Extensions"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Reactive Extensions

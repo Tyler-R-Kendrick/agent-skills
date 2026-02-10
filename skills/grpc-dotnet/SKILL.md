@@ -1,7 +1,10 @@
 ---
-description: Guidance for gRPC in .NET.
+name: grpc-dotnet
+description: Guidance for gRPC in .NET. Use when working with grpc dotnet.
+license: MIT
 metadata:
-  displayName: gRPC for .NET
+  displayName: "gRPC for .NET"
+  author: "Tyler-R-Kendrick"
 ---
 
 # gRPC for .NET

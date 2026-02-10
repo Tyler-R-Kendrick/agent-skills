@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Resilience pipelines.
+name: extensions-resilience
+description: Guidance for Microsoft.Extensions.Resilience pipelines. Use when working with extensions resilience.
+license: MIT
 metadata:
-  displayName: Resilience
+  displayName: "Resilience"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Resilience

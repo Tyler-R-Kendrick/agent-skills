@@ -1,7 +1,10 @@
 ---
-description: Guidance for the mcp package.
+name: mcp
+description: Guidance for the mcp package. Use when working with mcp.
+license: MIT
 metadata:
-  displayName: mcp
+  displayName: "mcp"
+  author: "Tyler-R-Kendrick"
 ---
 
 # mcp

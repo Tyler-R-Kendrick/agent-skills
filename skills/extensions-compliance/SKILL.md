@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Compliance.
+name: extensions-compliance
+description: Guidance for Microsoft.Extensions.Compliance. Use when working with extensions compliance.
+license: MIT
 metadata:
-  displayName: Compliance
+  displayName: "Compliance"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Compliance

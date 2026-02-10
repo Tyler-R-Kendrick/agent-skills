@@ -1,7 +1,10 @@
 ---
-description: Guidance for Wolverine usage.
+name: wolverine
+description: Guidance for Wolverine usage. Use when working with wolverine.
+license: MIT
 metadata:
-  displayName: Wolverine
+  displayName: "Wolverine"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Wolverine

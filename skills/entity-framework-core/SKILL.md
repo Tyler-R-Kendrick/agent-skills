@@ -1,7 +1,10 @@
 ---
-description: Guidance for Entity Framework Core usage.
+name: entity-framework-core
+description: Guidance for Entity Framework Core usage. Use when working with entity framework core.
+license: MIT
 metadata:
-  displayName: Entity Framework Core
+  displayName: "Entity Framework Core"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Entity Framework Core

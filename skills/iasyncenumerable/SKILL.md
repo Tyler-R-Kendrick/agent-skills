@@ -1,7 +1,10 @@
 ---
-description: Guidance for IAsyncEnumerable usage.
+name: iasyncenumerable
+description: Guidance for IAsyncEnumerable usage. Use when working with iasyncenumerable.
+license: MIT
 metadata:
-  displayName: IAsyncEnumerable
+  displayName: "IAsyncEnumerable"
+  author: "Tyler-R-Kendrick"
 ---
 
 # IAsyncEnumerable

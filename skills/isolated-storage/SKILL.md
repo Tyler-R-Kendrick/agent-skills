@@ -1,7 +1,10 @@
 ---
-description: Guidance for isolated storage usage.
+name: isolated-storage
+description: Guidance for isolated storage usage. Use when working with isolated storage.
+license: MIT
 metadata:
-  displayName: Isolated Storage
+  displayName: "Isolated Storage"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Isolated Storage

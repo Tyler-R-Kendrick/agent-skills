@@ -1,7 +1,10 @@
 ---
-description: Guidance for globalization and localization in .NET.
+name: globalization-localization
+description: Guidance for globalization and localization in .NET. Use when working with globalization localization.
+license: MIT
 metadata:
-  displayName: Globalization and Localization
+  displayName: "Globalization and Localization"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Globalization and Localization
