@@ -1,7 +1,10 @@
 ---
-description: Guidance for .NET MAUI usage.
+name: maui
+description: Guidance for .NET MAUI usage. Use when working with maui.
+license: MIT
 metadata:
-  displayName: MAUI
+  displayName: "MAUI"
+  author: "Tyler-R-Kendrick"
 ---
 
 # MAUI

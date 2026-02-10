@@ -1,7 +1,10 @@
 ---
-description: Guidance for Agent Framework usage.
+name: agent-framework
+description: Guidance for Agent Framework usage. Use when working with agent framework.
+license: MIT
 metadata:
-  displayName: Agent Framework
+  displayName: "Agent Framework"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Agent Framework

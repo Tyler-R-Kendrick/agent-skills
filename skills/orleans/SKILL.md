@@ -1,7 +1,10 @@
 ---
-description: Guidance for Orleans usage.
+name: orleans
+description: Guidance for Orleans usage. Use when working with orleans.
+license: MIT
 metadata:
-  displayName: Orleans
+  displayName: "Orleans"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Orleans

@@ -1,7 +1,10 @@
 ---
-description: Guidance for Azure.AI.Inference usage.
+name: azure-ai-inference
+description: Guidance for Azure.AI.Inference usage. Use when working with azure ai inference.
+license: MIT
 metadata:
-  displayName: Azure.AI.Inference
+  displayName: "Azure.AI.Inference"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Azure.AI.Inference

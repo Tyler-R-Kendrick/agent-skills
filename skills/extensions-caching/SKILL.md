@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Caching.
+name: extensions-caching
+description: Guidance for Microsoft.Extensions.Caching. Use when working with extensions caching.
+license: MIT
 metadata:
-  displayName: Caching
+  displayName: "Caching"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Caching

@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.AI usage.
+name: microsoft-extensions-ai
+description: Guidance for Microsoft.Extensions.AI usage. Use when working with microsoft extensions ai.
+license: MIT
 metadata:
-  displayName: Microsoft.Extensions.AI
+  displayName: "Microsoft.Extensions.AI"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Microsoft.Extensions.AI

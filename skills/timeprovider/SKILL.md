@@ -1,7 +1,10 @@
 ---
-description: Guidance for TimeProvider usage.
+name: timeprovider
+description: Guidance for TimeProvider usage. Use when working with timeprovider.
+license: MIT
 metadata:
-  displayName: TimeProvider
+  displayName: "TimeProvider"
+  author: "Tyler-R-Kendrick"
 ---
 
 # TimeProvider

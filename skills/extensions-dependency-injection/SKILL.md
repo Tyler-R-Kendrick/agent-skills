@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.DependencyInjection.
+name: extensions-dependency-injection
+description: Guidance for Microsoft.Extensions.DependencyInjection. Use when working with extensions dependency injection.
+license: MIT
 metadata:
-  displayName: Dependency Injection
+  displayName: "Dependency Injection"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Dependency Injection

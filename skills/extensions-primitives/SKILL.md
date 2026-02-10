@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Primitives and change tokens.
+name: extensions-primitives
+description: Guidance for Microsoft.Extensions.Primitives and change tokens. Use when working with extensions primitives.
+license: MIT
 metadata:
-  displayName: Microsoft.Extensions.Primitives
+  displayName: "Microsoft.Extensions.Primitives"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Microsoft.Extensions.Primitives

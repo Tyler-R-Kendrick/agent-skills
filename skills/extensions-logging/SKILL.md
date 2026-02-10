@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Logging and LoggerMessage.
+name: extensions-logging
+description: Guidance for Microsoft.Extensions.Logging and LoggerMessage. Use when working with extensions logging.
+license: MIT
 metadata:
-  displayName: Logging
+  displayName: "Logging"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Logging

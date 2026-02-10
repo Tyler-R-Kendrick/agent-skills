@@ -1,7 +1,10 @@
 ---
-description: Guidance for System.Threading.Channels usage.
+name: channels
+description: Guidance for System.Threading.Channels usage. Use when working with channels.
+license: MIT
 metadata:
-  displayName: System.Threading.Channels
+  displayName: "System.Threading.Channels"
+  author: "Tyler-R-Kendrick"
 ---
 
 # System.Threading.Channels

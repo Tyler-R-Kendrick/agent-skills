@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.ServiceDiscovery.
+name: extensions-service-discovery
+description: Guidance for Microsoft.Extensions.ServiceDiscovery. Use when working with extensions service discovery.
+license: MIT
 metadata:
-  displayName: Service Discovery
+  displayName: "Service Discovery"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Service Discovery

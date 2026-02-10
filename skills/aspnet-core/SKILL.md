@@ -1,7 +1,10 @@
 ---
-description: Guidance for ASP.NET Core usage.
+name: aspnet-core
+description: Guidance for ASP.NET Core usage. Use when working with aspnet core.
+license: MIT
 metadata:
-  displayName: ASP.NET Core
+  displayName: "ASP.NET Core"
+  author: "Tyler-R-Kendrick"
 ---
 
 # ASP.NET Core

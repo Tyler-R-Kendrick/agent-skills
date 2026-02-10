@@ -1,7 +1,10 @@
 ---
-description: Guidance for Humanizer usage.
+name: humanizer
+description: Guidance for Humanizer usage. Use when working with humanizer.
+license: MIT
 metadata:
-  displayName: Humanizer
+  displayName: "Humanizer"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Humanizer

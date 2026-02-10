@@ -1,7 +1,10 @@
 ---
-description: Guidance for Dapper usage.
+name: dapper
+description: Guidance for Dapper usage. Use when working with dapper.
+license: MIT
 metadata:
-  displayName: Dapper
+  displayName: "Dapper"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Dapper

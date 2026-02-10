@@ -1,7 +1,10 @@
 ---
-description: Guidance for SignalR usage.
+name: signalr
+description: Guidance for SignalR usage. Use when working with signalr.
+license: MIT
 metadata:
-  displayName: SignalR
+  displayName: "SignalR"
+  author: "Tyler-R-Kendrick"
 ---
 
 # SignalR

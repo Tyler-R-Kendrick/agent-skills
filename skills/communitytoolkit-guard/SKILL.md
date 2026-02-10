@@ -1,7 +1,10 @@
 ---
-description: Guidance for CommunityToolkit.Diagnostics Guard usage.
+name: communitytoolkit-guard
+description: Guidance for CommunityToolkit.Diagnostics Guard usage. Use when working with communitytoolkit guard.
+license: MIT
 metadata:
-  displayName: CommunityToolkit Guard
+  displayName: "CommunityToolkit Guard"
+  author: "Tyler-R-Kendrick"
 ---
 
 # CommunityToolkit Guard

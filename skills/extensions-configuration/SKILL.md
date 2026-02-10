@@ -1,7 +1,10 @@
 ---
-description: Guidance for Microsoft.Extensions.Configuration.
+name: extensions-configuration
+description: Guidance for Microsoft.Extensions.Configuration. Use when working with extensions configuration.
+license: MIT
 metadata:
-  displayName: Configuration
+  displayName: "Configuration"
+  author: "Tyler-R-Kendrick"
 ---
 
 # Configuration

@@ -1,7 +1,10 @@
 ---
-description: Guidance for the a2a package.
+name: a2a
+description: Guidance for the a2a package. Use when working with a2a.
+license: MIT
 metadata:
-  displayName: a2a
+  displayName: "a2a"
+  author: "Tyler-R-Kendrick"
 ---
 
 # a2a
