@@ -1,0 +1,24 @@
+{
+  "name": "agent-skills",
+  "version": "1.0.0",
+  "description": "My personal agent-skills marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyler-R-Kendrick/agent-skills.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "marketplace",
+    "ai-agents"
+  ],
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyler-R-Kendrick/agent-skills/issues"
+  },
+  "homepage": "https://github.com/Tyler-R-Kendrick/agent-skills#readme"
+}

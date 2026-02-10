@@ -1,0 +1,11 @@
+{
+  "name": "agent-skills",
+  "owner": {
+    "name": "Tyler-R-Kendrick"
+  },
+  "metadata": {
+    "description": "My personal agent-skills marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
