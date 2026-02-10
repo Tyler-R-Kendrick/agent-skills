@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(git pull:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git merge:*)",
+      "Bash(for f in skills/*/SKILL.md)",
+      "Bash(do head -8 \"$f\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(powershell -Command:*)",
+      "Bash(git mv:*)",
+      "Bash(test:*)",
+      "WebFetch(domain:agent-skills.io)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(ls:*)",
+      "Bash(findstr:*)",
+      "Bash(dir:*)",
+      "mcp__plugin_context7_context7__resolve-library-id",
+      "mcp__plugin_context7_context7__query-docs",
+      "Bash(skills-ref validate:*)",
+      "Bash(python -m skills_ref:*)",
+      "Bash(C:/Users/conta/AppData/Roaming/Python/Python313/Scripts/agentskills.exe validate:*)",
+      "Bash(python:*)",
+      "WebSearch",
+      "WebFetch(domain:skills.sh)",
+      "Bash(npx skills add:*)",
+      "WebFetch(domain:storybook.js.org)",
+      "WebFetch(domain:www.designtokens.org)",
+      "WebFetch(domain:styledictionary.com)",
+      "WebFetch(domain:mitosis.builder.io)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(agentskills validate:*)"
+    ]
+  }
+}

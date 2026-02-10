@@ -2,9 +2,9 @@
   "name": "agent-skills",
   "version": "1.0.0",
   "description": "My personal agent-skills marketplace",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "validate": "bash scripts/validate.sh",
+    "test": "bash scripts/validate.sh"
   },
   "repository": {
     "type": "git",
