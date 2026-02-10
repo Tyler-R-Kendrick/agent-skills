@@ -28,6 +28,7 @@ return (
 **Correct (a single function instance passed to each item):**
 
 ```typescript
+// Create a stable callback that accepts an id parameter
 const handleItemPress = useCallback((id: string) => {
   handlePress(id)
 }, [handlePress])
@@ -35,10 +36,14 @@ const handleItemPress = useCallback((id: string) => {
 return (
   <LegendList
     renderItem={({ item }) => (
-      <Item key={item.id} item={item} onPress={() => handleItemPress(item.id)} />
+      // Pass both the callback and the item's id as separate props
+      // The Item component calls onPress(itemId) internally
+      <Item key={item.id} item={item} itemId={item.id} onPress={handleItemPress} />
     )}
   />
 )
 ```
+
+Note: The `Item` component should be implemented to call `onPress(itemId)` when pressed.
 
 Reference: [Link to documentation or resource](https://example.com)
