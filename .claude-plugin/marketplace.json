@@ -1,0 +1,23 @@
+{
+  "name": "tyler-r-kendrick-skills",
+  "owner": {
+    "name": "Tyler-R-Kendrick",
+    "email": "contact.tylerkendrick@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace for Tyler-R-Kendrick agent skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "Collection of agent skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tyler-R-Kendrick",
+        "email": "contact.tylerkendrick@gmail.com"
+      }
+    }
+  ]
+}
