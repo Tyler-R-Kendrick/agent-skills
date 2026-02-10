@@ -5,9 +5,7 @@ impactDescription: Fewer re-renders and faster lists
 tags: tag1, tag2
 ---
 
-## List performance callbacks
-
-**Impact: HIGH (Fewer re-renders and faster lists)**
+## Hoist callbacks to the root of lists
 
 When passing callback functions to list items, create a single instance of the
 callback at the root of the list. Items should then call it with a unique
@@ -30,12 +28,14 @@ return (
 **Correct (a single function instance passed to each item):**
 
 ```typescript
-const onPress = useCallback(() => handlePress(item.id), [handlePress, item.id])
+const handleItemPress = useCallback((id: string) => {
+  handlePress(id)
+}, [handlePress])
 
 return (
   <LegendList
     renderItem={({ item }) => (
-      <Item key={item.id} item={item} onPress={onPress} />
+      <Item key={item.id} item={item} onPress={() => handleItemPress(item.id)} />
     )}
   />
 )
