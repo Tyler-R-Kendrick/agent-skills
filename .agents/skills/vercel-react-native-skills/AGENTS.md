@@ -339,8 +339,6 @@ return (
 
 Note: The `Item` component should be implemented to call `onPress(itemId)` when pressed.
 
-Reference: [https://example.com](https://example.com)
-
 ### 2.3 Keep List Items Lightweight
 
 **Impact: HIGH (reduces render time for visible items during scroll)**

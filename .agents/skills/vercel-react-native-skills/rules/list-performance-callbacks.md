@@ -45,5 +45,3 @@ return (
 ```
 
 Note: The `Item` component should be implemented to call `onPress(itemId)` when pressed.
-
-Reference: [Link to documentation or resource](https://example.com)
