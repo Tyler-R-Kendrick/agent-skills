@@ -5,9 +5,7 @@ impactDescription: Fewer re-renders and faster lists
 tags: tag1, tag2
 ---
 
-## List performance callbacks
-
-**Impact: HIGH (Fewer re-renders and faster lists)**
+## Hoist callbacks to the root of lists
 
 When passing callback functions to list items, create a single instance of the
 callback at the root of the list. Items should then call it with a unique
@@ -30,15 +28,20 @@ return (
 **Correct (a single function instance passed to each item):**
 
 ```typescript
-const onPress = useCallback(() => handlePress(item.id), [handlePress, item.id])
+// Create a stable callback that accepts an id parameter
+const handleItemPress = useCallback((id: string) => {
+  handlePress(id)
+}, [handlePress])
 
 return (
   <LegendList
     renderItem={({ item }) => (
-      <Item key={item.id} item={item} onPress={onPress} />
+      // Pass both the callback and the item's id as separate props
+      // The Item component calls onPress(itemId) internally
+      <Item key={item.id} item={item} itemId={item.id} onPress={handleItemPress} />
     )}
   />
 )
 ```
 
-Reference: [Link to documentation or resource](https://example.com)
+Note: The `Item` component should be implemented to call `onPress(itemId)` when pressed.

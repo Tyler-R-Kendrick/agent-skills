@@ -321,18 +321,23 @@ return (
 **Correct: a single function instance passed to each item**
 
 ```typescript
-const onPress = useCallback(() => handlePress(item.id), [handlePress, item.id])
+// Create a stable callback that accepts an id parameter
+const handleItemPress = useCallback((id: string) => {
+  handlePress(id)
+}, [handlePress])
 
 return (
   <LegendList
     renderItem={({ item }) => (
-      <Item key={item.id} item={item} onPress={onPress} />
+      // Pass both the callback and the item's id as separate props
+      // The Item component calls onPress(itemId) internally
+      <Item key={item.id} item={item} itemId={item.id} onPress={handleItemPress} />
     )}
   />
 )
 ```
 
-Reference: [https://example.com](https://example.com)
+Note: The `Item` component should be implemented to call `onPress(itemId)` when pressed.
 
 ### 2.3 Keep List Items Lightweight
 
