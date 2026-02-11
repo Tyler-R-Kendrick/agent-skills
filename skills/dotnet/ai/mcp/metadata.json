@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "mcp",
-  "displayName": "mcp",
-  "description": "Guidance for the mcp package. Use when working with mcp.",
+  "displayName": "MCP (Model Context Protocol)",
+  "description": "Use when building or consuming Model Context Protocol (MCP) servers and clients in .NET. Covers tool registration, resource providers, prompt templates, transport configuration, and integration with Microsoft.Extensions.AI.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

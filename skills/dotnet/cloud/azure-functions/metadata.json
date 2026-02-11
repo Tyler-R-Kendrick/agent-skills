@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "azure-functions",
   "displayName": "Azure Functions",
-  "description": "Guidance for Azure Functions serverless compute platform.",
+  "description": "Use when building serverless event-driven applications with Azure Functions in .NET. Covers the isolated worker model, HTTP/Timer/Queue/Blob triggers, dependency injection, Durable Functions orchestration, and deployment.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

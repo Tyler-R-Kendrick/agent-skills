@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "onnx",
-  "displayName": "ONNX",
-  "description": "Guidance for ONNX Runtime for machine learning inference.",
+  "displayName": "ONNX Runtime",
+  "description": "Use when running pre-trained ONNX models for inference in .NET with ONNX Runtime. Covers session management, tensor inputs/outputs, execution providers (CPU/GPU/DirectML), model optimization, and integration with ASP.NET Core.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

@@ -1,6 +1,6 @@
 # Olive
 
-Guidance for Olive library (likely referring to a specific .NET library).
+Guidance for Olive productivity framework for .NET. USE FOR: common string extensions (null-safe operations, validation), collection utilities, date/time helpers, file name sanitization, fluent API helpers, reducing boilerplate in business applications. DO NOT USE FOR: full web frameworks (use ASP.NET Core), ORM functionality (use EF Core), UI frameworks, large-scale enterprise architecture.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Olive library (likely referring to a specific .NET library).
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

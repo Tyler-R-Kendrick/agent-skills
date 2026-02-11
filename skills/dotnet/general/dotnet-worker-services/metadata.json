@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "dotnet-worker-services",
   "displayName": ".NET Worker Services",
-  "description": "Guidance for building .NET worker services and background tasks.",
+  "description": "Guidance for building .NET worker services and background tasks using BackgroundService and IHostedService. USE FOR: long-running background processing, message queue consumers, scheduled jobs, health monitoring services, data synchronization tasks, Windows services, Linux systemd daemons. DO NOT USE FOR: HTTP request handling (use ASP.NET Core), one-shot CLI tools (use console apps), UI applications, short-lived Azure Functions.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

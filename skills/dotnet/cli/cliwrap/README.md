@@ -1,6 +1,6 @@
 # CliWrap
 
-Guidance for CliWrap library for wrapping command-line processes.
+Use when executing external command-line processes from .NET with CliWrap. Covers fluent command building, output capturing, piping, streaming, cancellation, and environment variable configuration.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for CliWrap library for wrapping command-line processes.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 6 individual best practice rules |
+| `rules/` | 16 individual best practice rules |
 
 ## Usage
 

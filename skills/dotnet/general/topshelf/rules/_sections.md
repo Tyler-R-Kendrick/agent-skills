@@ -6,8 +6,13 @@ Best practices and rules for Topshelf.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Handle start/stop gracefully | MEDIUM | [`topshelf-handle-start-stop-gracefully.md`](topshelf-handle-start-stop-gracefully.md) |
-| 2 | Configure appropriate recovery options | MEDIUM | [`topshelf-configure-appropriate-recovery-options.md`](topshelf-configure-appropriate-recovery-options.md) |
-| 3 | Implement proper logging | MEDIUM | [`topshelf-implement-proper-logging.md`](topshelf-implement-proper-logging.md) |
-| 4 | Test as console app first | MEDIUM | [`topshelf-test-as-console-app-first.md`](topshelf-test-as-console-app-first.md) |
-| 5 | Consider modern alternatives (BackgroundService) | LOW | [`topshelf-consider-modern-alternatives-backgroundservice.md`](topshelf-consider-modern-alternatives-backgroundservice.md) |
+| 1 | Use Topshelf only for .NET Framework services or legacy maintenance | LOW | [`topshelf-use-topshelf-only-for-net-framework-services-or-legacy.md`](topshelf-use-topshelf-only-for-net-framework-services-or-legacy.md) |
+| 2 | Always return `true` from `Start` and `Stop` | CRITICAL | [`topshelf-always-return-true-from-start-and-stop.md`](topshelf-always-return-true-from-start-and-stop.md) |
+| 3 | Configure service recovery | MEDIUM | [`topshelf-configure-service-recovery.md`](topshelf-configure-service-recovery.md) |
+| 4 | Test as a console application first | MEDIUM | [`topshelf-test-as-a-console-application-first.md`](topshelf-test-as-a-console-application-first.md) |
+| 5 | Use `RunAsLocalSystem()` for services that do not need network access | CRITICAL | [`topshelf-use-runaslocalsystem-for-services-that-do-not-need-network.md`](topshelf-use-runaslocalsystem-for-services-that-do-not-need-network.md) |
+| 6 | Set `StartAutomatically()` | CRITICAL | [`topshelf-set-startautomatically.md`](topshelf-set-startautomatically.md) |
+| 7 | Enable `EnableShutdown()` | MEDIUM | [`topshelf-enable-enableshutdown.md`](topshelf-enable-enableshutdown.md) |
+| 8 | Use the `HostControl` parameter in `Start`/`Stop` | MEDIUM | [`topshelf-use-the-hostcontrol-parameter-in-start-stop.md`](topshelf-use-the-hostcontrol-parameter-in-start-stop.md) |
+| 9 | Integrate a DI container | MEDIUM | [`topshelf-integrate-a-di-container.md`](topshelf-integrate-a-di-container.md) |
+| 10 | Plan migration to BackgroundService | MEDIUM | [`topshelf-plan-migration-to-backgroundservice.md`](topshelf-plan-migration-to-backgroundservice.md) |

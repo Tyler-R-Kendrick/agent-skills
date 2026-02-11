@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "system-io-pipelines",
   "displayName": "System.IO.Pipelines",
-  "description": "Guidance for System.IO.Pipelines usage. Use when working with system io pipelines.",
+  "description": "Guidance for System.IO.Pipelines high-performance I/O in .NET. USE FOR: high-throughput stream parsing, zero-copy buffer management, PipeReader/PipeWriter patterns, network protocol parsing, ReadOnlySequence processing, replacing Stream-based I/O bottlenecks. DO NOT USE FOR: simple file reads (use Stream or File APIs), HTTP request handling (use ASP.NET Core), gRPC communication (use grpc-dotnet), email (use mimekit).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

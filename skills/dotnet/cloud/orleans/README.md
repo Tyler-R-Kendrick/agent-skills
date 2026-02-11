@@ -1,6 +1,6 @@
 # Orleans
 
-Guidance for Orleans usage. Use when working with orleans.
+Use when building distributed, stateful applications with Microsoft Orleans. Covers grain design, state persistence, streams, timers, reminders, clustering, and ASP.NET Core co-hosting for virtual actor workloads.
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for Orleans usage. Use when working with orleans.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

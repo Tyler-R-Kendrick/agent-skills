@@ -44,7 +44,12 @@
       "Bash(xargs:*)",
       "Bash(shuf:*)",
       "Bash(for dir in \"C:\\\\src\\\\agent-skills\\\\skills\\\\dotnet\"/{ai,cli,cloud,configuration,data,dependency-injection,documentation,eventing,functional,general,localization,logging,mapping,networking,observability,project-system,reactive,resilience,security,serialization,testing,ui,validation,web})",
-      "Bash(do [ -f \"$dir/SKILL.md\" ])"
+      "Bash(do [ -f \"$dir/SKILL.md\" ])",
+      "Bash(for subcat in ai cli cloud configuration data dependency-injection documentation eventing functional general localization logging mapping networking observability project-system reactive resilience security serialization testing ui validation web)",
+      "Bash(do)",
+      "Bash(if [ -f \"C:\\\\src\\\\agent-skills\\\\skills\\\\dotnet$subcat\\\\SKILL.md\" ])",
+      "Bash(then)",
+      "Bash(fi)"
     ]
   }
 }

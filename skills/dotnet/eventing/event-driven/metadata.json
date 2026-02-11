@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "event-driven",
   "displayName": "Event-Driven Architecture",
-  "description": "Guidance for event-driven architecture patterns and best practices.",
+  "description": "Use when designing event-driven architectures and patterns for loosely coupled, asynchronous .NET systems.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

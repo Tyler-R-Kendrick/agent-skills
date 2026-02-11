@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "redis",
   "displayName": "Redis",
-  "description": "Guidance for Redis distributed cache and data store.",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

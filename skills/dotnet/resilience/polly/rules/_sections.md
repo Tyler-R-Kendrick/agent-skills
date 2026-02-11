@@ -6,8 +6,13 @@ Best practices and rules for Polly.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Combine policies with PolicyWrap | MEDIUM | [`polly-combine-policies-with-policywrap.md`](polly-combine-policies-with-policywrap.md) |
-| 2 | Use circuit breakers for remote calls | MEDIUM | [`polly-use-circuit-breakers-for-remote-calls.md`](polly-use-circuit-breakers-for-remote-calls.md) |
-| 3 | Configure appropriate timeouts | MEDIUM | [`polly-configure-appropriate-timeouts.md`](polly-configure-appropriate-timeouts.md) |
-| 4 | Log policy events | MEDIUM | [`polly-log-policy-events.md`](polly-log-policy-events.md) |
-| 5 | Use Polly.Extensions | MEDIUM | [`polly-use-polly-extensions.md`](polly-use-polly-extensions.md) |
+| 1 | Use Polly v8's `ResiliencePipelineBuilder` API exclusively | CRITICAL | [`polly-use-polly-v8-s-resiliencepipelinebuilder-api-exclusively.md`](polly-use-polly-v8-s-resiliencepipelinebuilder-api-exclusively.md) |
+| 2 | Always enable `UseJitter = true` on retry strategies | CRITICAL | [`polly-always-enable-usejitter-true-on-retry-strategies.md`](polly-always-enable-usejitter-true-on-retry-strategies.md) |
+| 3 | Add strategies in order from outermost to innermost: total timeout, retry, circuit breaker, attempt timeout | MEDIUM | [`polly-add-strategies-in-order-from-outermost-to-innermost-total.md`](polly-add-strategies-in-order-from-outermost-to-innermost-total.md) |
+| 4 | Use `PredicateBuilder` with `Handle<TException>()` and `HandleResult()` to explicitly define which failures trigger resilience strategies | MEDIUM | [`polly-use-predicatebuilder-with-handle-texception-and.md`](polly-use-predicatebuilder-with-handle-texception-and.md) |
+| 5 | Set `MinimumThroughput` on circuit breakers to at least 10 | HIGH | [`polly-set-minimumthroughput-on-circuit-breakers-to-at-least-10.md`](polly-set-minimumthroughput-on-circuit-breakers-to-at-least-10.md) |
+| 6 | Build pipelines once and reuse them | MEDIUM | [`polly-build-pipelines-once-and-reuse-them.md`](polly-build-pipelines-once-and-reuse-them.md) |
+| 7 | Use the `OnRetry`, `OnOpened`, `OnClosed` lifecycle callbacks for logging and metrics | MEDIUM | [`polly-use-the-onretry-onopened-onclosed-lifecycle-callbacks-for.md`](polly-use-the-onretry-onopened-onclosed-lifecycle-callbacks-for.md) |
+| 8 | Handle `BrokenCircuitException` and `TimeoutRejectedException` at the caller level | MEDIUM | [`polly-handle-brokencircuitexception-and-timeoutrejectedexception.md`](polly-handle-brokencircuitexception-and-timeoutrejectedexception.md) |
+| 9 | Prefer `Microsoft.Extensions.Http.Resilience` with `AddStandardResilienceHandler` for HttpClient resilience | LOW | [`polly-prefer-microsoft-extensions-http-resilience-with.md`](polly-prefer-microsoft-extensions-http-resilience-with.md) |
+| 10 | Test resilience pipelines by injecting controlled failures | MEDIUM | [`polly-test-resilience-pipelines-by-injecting-controlled-failures.md`](polly-test-resilience-pipelines-by-injecting-controlled-failures.md) |

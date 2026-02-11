@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
   "name": "wave-engine",
-  "displayName": "Wave Engine",
-  "description": "Guidance for Wave Engine game development platform.",
+  "displayName": "Wave Engine (Evergine)",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

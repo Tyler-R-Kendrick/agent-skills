@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "mediatr",
   "displayName": "MediatR",
-  "description": "Guidance for MediatR usage. Use when working with mediatr.",
+  "description": "Use when implementing in-process mediator, CQRS, and pipeline behavior patterns with MediatR in .NET applications.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

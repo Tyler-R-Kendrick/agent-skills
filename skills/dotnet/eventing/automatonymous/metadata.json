@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "automatonymous",
   "displayName": "Automatonymous",
-  "description": "Guidance for Automatonymous state machine library.",
+  "description": "Use when building state machine workflows integrated with MassTransit for distributed sagas and long-running processes.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

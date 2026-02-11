@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "bdd-cheatsheet",
   "displayName": "BDD Cheatsheet",
-  "description": "Guidance for Behavior-Driven Development (BDD) patterns and practices.",
+  "description": "Guidance for Behavior-Driven Development (BDD) patterns and Gherkin syntax in .NET. USE FOR: writing Gherkin feature files, structuring Given-When-Then scenarios, creating scenario outlines with data tables, organizing BDD step definitions, mapping business requirements to executable specifications with Reqnroll or SpecFlow. DO NOT USE FOR: unit test design (use xUnit/NUnit directly), performance testing, API contract testing (use Pact), or end-to-end browser automation (use Playwright).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "humanizer",
   "displayName": "Humanizer",
-  "description": "Guidance for Humanizer usage. Use when working with humanizer.",
+  "description": "Guidance for Humanizer library for .NET string, date, number, and enum formatting. USE FOR: human-readable date/time formatting, pluralization, number-to-words conversion, enum display names, truncation, byte size formatting, casing transformations. DO NOT USE FOR: localization infrastructure (use IStringLocalizer), parsing human input back to types, business logic, data storage formatting.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

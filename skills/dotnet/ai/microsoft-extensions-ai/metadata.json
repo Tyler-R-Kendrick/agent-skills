@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "microsoft-extensions-ai",
   "displayName": "Microsoft.Extensions.AI",
-  "description": "Guidance for Microsoft.Extensions.AI usage. Use when working with microsoft extensions ai.",
+  "description": "Use when building provider-agnostic AI applications with Microsoft.Extensions.AI. Covers IChatClient, IEmbeddingGenerator, middleware pipelines, caching, telemetry, and DI integration for chat completions and embeddings.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

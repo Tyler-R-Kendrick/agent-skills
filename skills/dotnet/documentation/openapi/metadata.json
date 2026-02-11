@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "openapi",
   "displayName": "OpenAPI",
-  "description": "Guidance for OpenAPI (Swagger) documentation.",
+  "description": "Use when documenting .NET APIs with OpenAPI (Swagger) specifications, generating client SDKs, and configuring Swashbuckle or NSwag.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

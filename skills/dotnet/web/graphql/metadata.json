@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
   "name": "graphql",
-  "displayName": "GraphQL",
-  "description": "Guidance for GraphQL API development in .NET.",
+  "displayName": "GraphQL (Hot Chocolate)",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

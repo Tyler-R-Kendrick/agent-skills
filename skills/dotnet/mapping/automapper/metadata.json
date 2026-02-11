@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "automapper",
   "displayName": "AutoMapper",
-  "description": "Guidance for AutoMapper object mapping library.",
+  "description": "Guidance for AutoMapper convention-based object mapping library. USE FOR: convention-based object-to-object mapping, Profile-based mapping configuration, flattening/unflattening, ProjectTo with EF Core IQueryable, reverse mapping, value resolvers, type converters. DO NOT USE FOR: compile-time source-generated mapping (use mapperly), manual mapping in performance-critical paths, mapping that involves complex business logic.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

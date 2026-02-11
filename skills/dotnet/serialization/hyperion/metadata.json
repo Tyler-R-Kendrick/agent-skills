@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "hyperion",
   "displayName": "Hyperion",
-  "description": "Guidance for Hyperion polymorphic serialization library.",
+  "description": "Guidance for Hyperion high-performance polymorphic serializer for .NET. USE FOR: Akka.NET actor message serialization, polymorphic type handling, object graph serialization with circular references, high-throughput binary serialization, version-tolerant deserialization of actor system messages. DO NOT USE FOR: human-readable serialization (use System.Text.Json), cross-language interop (use protobuf-net or Bond), REST API payloads, or long-term data storage requiring schema evolution.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

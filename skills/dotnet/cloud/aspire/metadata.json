@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "aspire",
   "displayName": ".NET Aspire",
-  "description": "Guidance for .NET Aspire distributed application framework.",
+  "description": "Use when building cloud-native distributed applications with .NET Aspire. Covers the app host orchestration model, service defaults, built-in components (Redis, PostgreSQL, RabbitMQ), dashboard, health checks, and deployment to Azure Container Apps.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

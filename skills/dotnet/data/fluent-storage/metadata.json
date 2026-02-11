@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "fluent-storage",
   "displayName": "FluentStorage",
-  "description": "Guidance for FluentStorage library for cloud storage abstraction.",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

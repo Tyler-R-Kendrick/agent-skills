@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "command-query",
-  "displayName": "Command Query",
-  "description": "Guidance for Command Query Separation (CQS) pattern.",
+  "displayName": "Command Query Separation",
+  "description": "Use when implementing Command Query Separation (CQS) or CQRS patterns to separate read and write operations in .NET applications.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

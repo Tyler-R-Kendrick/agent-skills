@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "spectre-console",
   "displayName": "Spectre.Console",
-  "description": "Guidance for Spectre.Console library for beautiful console applications.",
+  "description": "Use when building rich terminal UIs in .NET with Spectre.Console. Covers tables, trees, progress bars, prompts, live rendering, markup formatting, and the Spectre.Console.Cli command framework.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

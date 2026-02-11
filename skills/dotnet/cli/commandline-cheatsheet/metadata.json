@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "commandline-cheatsheet",
   "displayName": "Command-Line Cheatsheet",
-  "description": "Guidance for command-line argument parsing patterns and libraries.",
+  "description": "Use when building command-line applications in .NET with System.CommandLine. Covers command/option/argument definitions, middleware, tab completion, parsing, and hosting integration for CLI tools.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

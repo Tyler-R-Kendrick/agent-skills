@@ -1,6 +1,6 @@
 # Akka.NET
 
-Guidance for Akka.NET actor model framework.
+Use when building concurrent, distributed, or fault-tolerant .NET applications with the actor model using Akka.NET.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Akka.NET actor model framework.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

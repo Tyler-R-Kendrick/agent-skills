@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "reqnroll",
   "displayName": "Reqnroll",
-  "description": "Guidance for Reqnroll BDD testing framework (SpecFlow successor).",
+  "description": "Guidance for Reqnroll BDD testing framework (SpecFlow successor) in .NET. USE FOR: behavior-driven development with Gherkin syntax, writing executable specifications, step definition bindings, scenario outlines with data tables, integrating BDD with xUnit/NUnit/MSTest, acceptance testing with natural language scenarios. DO NOT USE FOR: unit testing without BDD requirements (use xUnit directly), performance testing, API contract testing (use Pact), or browser automation (combine with Playwright).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

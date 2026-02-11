@@ -1,6 +1,6 @@
 # MassTransit
 
-Guidance for MassTransit usage. Use when working with masstransit.
+Use when building message-based distributed systems with MassTransit for pub/sub, request/response, sagas, and outbox patterns in .NET.
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for MassTransit usage. Use when working with masstransit.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

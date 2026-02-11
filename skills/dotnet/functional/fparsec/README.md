@@ -1,6 +1,6 @@
 # FParsec
 
-Guidance for FParsec parser combinator library for F#.
+Use when building high-performance text parsers in F# using FParsec parser combinators.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for FParsec parser combinator library for F#.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

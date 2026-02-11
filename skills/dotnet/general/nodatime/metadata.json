@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "nodatime",
   "displayName": "NodaTime",
-  "description": "Guidance for NodaTime date and time library.",
+  "description": "Guidance for NodaTime date and time library for .NET. USE FOR: precise date/time handling, time zone conversions, period and duration calculations, calendar-aware date arithmetic, replacing ambiguous DateTime usage, scheduling across time zones. DO NOT USE FOR: simple timestamp logging (use DateTimeOffset), timer-based scheduling (use PeriodicTimer), date formatting only (use standard .NET formatting), legacy .NET Framework DateTime interop without conversion.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

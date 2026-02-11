@@ -1,7 +1,5 @@
 # Peasy
 
-Guidance for Peasy business rules engine.
-
 ## Structure
 
 | File | Purpose |
@@ -10,7 +8,7 @@ Guidance for Peasy business rules engine.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 3 individual best practice rules |
+| `rules/` | 13 individual best practice rules |
 
 ## Usage
 

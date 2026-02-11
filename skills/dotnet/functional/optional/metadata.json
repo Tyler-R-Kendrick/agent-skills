@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "optional",
   "displayName": "Optional Pattern",
-  "description": "Guidance for Optional/Maybe pattern to handle null values.",
+  "description": "Use when implementing the Optional/Maybe pattern in C# to eliminate null reference exceptions and make value absence explicit in the type system.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

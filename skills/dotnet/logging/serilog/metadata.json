@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "serilog",
   "displayName": "Serilog",
-  "description": "Guidance for Serilog structured logging library.",
+  "description": "Guidance for Serilog structured logging library in .NET. USE FOR: Serilog sink configuration, structured event logging, log enrichment, ASP.NET Core request logging, Serilog expressions and filtering, Seq/Elasticsearch/Application Insights integration. DO NOT USE FOR: Microsoft.Extensions.Logging abstractions (use extensions-logging), NLog targets and routing (use nlog), OpenTelemetry log export (use otlp-logging).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

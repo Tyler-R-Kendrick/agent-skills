@@ -1,6 +1,4 @@
-# SideWaffle
-
-Guidance for SideWaffle template collection for Visual Studio.
+# SideWaffle / dotnet new Templates
 
 ## Structure
 
@@ -10,7 +8,7 @@ Guidance for SideWaffle template collection for Visual Studio.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

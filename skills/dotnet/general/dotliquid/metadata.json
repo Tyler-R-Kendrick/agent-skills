@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "dotliquid",
   "displayName": "DotLiquid",
-  "description": "Guidance for DotLiquid template engine.",
+  "description": "Guidance for DotLiquid template engine for .NET. USE FOR: safe user-generated templates, email templates, CMS content rendering, sandboxed template execution, report generation from data models. DO NOT USE FOR: Razor-based server-side views (use ASP.NET Razor), logic-heavy templates requiring full C# (use Scriban or Razor), compiled template performance-critical paths.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

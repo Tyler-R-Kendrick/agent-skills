@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "blazor",
   "displayName": "Blazor",
-  "description": "Guidance for Blazor usage. Use when working with blazor.",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

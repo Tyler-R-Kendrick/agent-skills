@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "pact",
   "displayName": "Pact",
-  "description": "Guidance for Pact contract testing framework.",
+  "description": "Guidance for Pact contract testing framework in .NET. USE FOR: consumer-driven contract testing, verifying API compatibility between microservices, preventing breaking API changes, generating and verifying Pact files, provider state management, CI/CD integration with Pact Broker. DO NOT USE FOR: end-to-end testing (use Playwright), unit testing (use xUnit with Moq), load testing, or testing internal implementation details.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

@@ -1,6 +1,6 @@
-# Currying
+# Currying & Partial Application
 
-Guidance for function currying patterns in .NET.
+Use when applying function currying and partial application patterns in C# to create specialized, reusable function compositions.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for function currying patterns in .NET.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

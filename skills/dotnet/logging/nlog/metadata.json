@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "nlog",
   "displayName": "NLog",
-  "description": "Guidance for NLog logging library.",
+  "description": "Guidance for NLog logging framework in .NET. USE FOR: NLog target configuration, layout renderers, structured logging with NLog, async logging, conditional routing, custom targets, NLog integration with ASP.NET Core. DO NOT USE FOR: Microsoft.Extensions.Logging abstractions (use extensions-logging), Serilog sinks and enrichers (use serilog), OpenTelemetry log export (use otlp-logging).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

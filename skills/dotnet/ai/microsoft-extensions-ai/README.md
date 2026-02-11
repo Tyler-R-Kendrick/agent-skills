@@ -1,6 +1,6 @@
 # Microsoft.Extensions.AI
 
-Guidance for Microsoft.Extensions.AI usage. Use when working with microsoft extensions ai.
+Use when building provider-agnostic AI applications with Microsoft.Extensions.AI. Covers IChatClient, IEmbeddingGenerator, middleware pipelines, caching, telemetry, and DI integration for chat completions and embeddings.
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for Microsoft.Extensions.AI usage. Use when working with microsoft exte
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

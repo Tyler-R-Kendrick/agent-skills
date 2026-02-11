@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "mathflow",
   "displayName": "MathFlow",
-  "description": "Guidance for mathematical expression evaluation in .NET.",
+  "description": "Guidance for mathematical expression parsing and evaluation in .NET using NCalc and related libraries. USE FOR: runtime mathematical expression evaluation, user-defined formulas, rule engines with math expressions, parameterized calculations, spreadsheet-style formula evaluation. DO NOT USE FOR: symbolic algebra (use AngouriMath), numerical linear algebra (use Math.NET), machine learning (use ML.NET), scientific computing with matrices.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

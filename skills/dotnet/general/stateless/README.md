@@ -1,6 +1,6 @@
 # Stateless
 
-Guidance for Stateless state machine library.
+Guidance for Stateless state machine library for .NET. USE FOR: modeling state transitions with guards and actions, workflow engines, order processing pipelines, device lifecycle management, protocol implementations, approval workflows. DO NOT USE FOR: distributed state machines (use Durable Functions or Temporal), event sourcing (use Marten), full BPMN workflow engines (use Elsa), simple boolean flags.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Stateless state machine library.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

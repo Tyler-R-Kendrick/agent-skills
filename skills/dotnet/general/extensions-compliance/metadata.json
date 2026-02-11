@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "extensions-compliance",
   "displayName": "Compliance",
-  "description": "Guidance for Microsoft.Extensions.Compliance. Use when working with extensions compliance.",
+  "description": "Guidance for Microsoft.Extensions.Compliance data classification and redaction. USE FOR: classifying sensitive data (PII, EUII, financial), redacting log output, enforcing data handling policies, compliance-aware telemetry, audit-safe logging pipelines. DO NOT USE FOR: encryption at rest (use Data Protection APIs), access control/authorization (use ASP.NET Identity), GDPR consent management, full DLP solutions.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

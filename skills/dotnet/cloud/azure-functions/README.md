@@ -1,6 +1,6 @@
 # Azure Functions
 
-Guidance for Azure Functions serverless compute platform.
+Use when building serverless event-driven applications with Azure Functions in .NET. Covers the isolated worker model, HTTP/Timer/Queue/Blob triggers, dependency injection, Durable Functions orchestration, and deployment.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Azure Functions serverless compute platform.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

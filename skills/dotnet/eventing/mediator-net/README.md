@@ -1,6 +1,6 @@
 # Mediator.NET
 
-Guidance for Mediator.NET implementation of mediator pattern.
+Use when implementing the mediator pattern with Mediator.NET (source-generated) for high-performance in-process command/query dispatch in .NET.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Mediator.NET implementation of mediator pattern.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

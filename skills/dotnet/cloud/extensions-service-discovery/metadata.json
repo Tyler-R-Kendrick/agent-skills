@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "extensions-service-discovery",
   "displayName": "Service Discovery",
-  "description": "Guidance for Microsoft.Extensions.ServiceDiscovery. Use when working with extensions service discovery.",
+  "description": "Use when resolving service endpoints dynamically with Microsoft.Extensions.ServiceDiscovery. Covers configuration-based, DNS-based, and Aspire-integrated service resolution for HttpClient, endpoint selection strategies, and health-aware routing.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

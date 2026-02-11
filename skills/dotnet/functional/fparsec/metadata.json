@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "fparsec",
   "displayName": "FParsec",
-  "description": "Guidance for FParsec parser combinator library for F#.",
+  "description": "Use when building high-performance text parsers in F# using FParsec parser combinators.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "curryfy",
-  "displayName": "Currying",
-  "description": "Guidance for function currying patterns in .NET.",
+  "displayName": "Currying & Partial Application",
+  "description": "Use when applying function currying and partial application patterns in C# to create specialized, reusable function compositions.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

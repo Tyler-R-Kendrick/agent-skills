@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "mediator-net",
   "displayName": "Mediator.NET",
-  "description": "Guidance for Mediator.NET implementation of mediator pattern.",
+  "description": "Use when implementing the mediator pattern with Mediator.NET (source-generated) for high-performance in-process command/query dispatch in .NET.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

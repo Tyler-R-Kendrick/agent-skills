@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "nservicebus",
   "displayName": "NServiceBus",
-  "description": "Guidance for NServiceBus usage. Use when working with nservicebus.",
+  "description": "Use when building enterprise-grade distributed systems with NServiceBus for reliable messaging, sagas, and recoverability in .NET.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

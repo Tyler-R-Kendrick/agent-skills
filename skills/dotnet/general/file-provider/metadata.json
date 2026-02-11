@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "file-provider",
   "displayName": "File Providers",
-  "description": "Guidance for Microsoft.Extensions.FileProviders usage. Use when working with file provider.",
+  "description": "Guidance for Microsoft.Extensions.FileProviders abstraction layer. USE FOR: abstracting file access over physical files, embedded resources, and composite sources, watching for file changes, serving static content, testable file access, configuration file providers. DO NOT USE FOR: high-throughput binary I/O (use System.IO directly), file upload handling (use ASP.NET form files), database-backed storage, cloud blob storage (use Azure SDK).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

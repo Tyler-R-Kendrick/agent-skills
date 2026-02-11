@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "playwright",
   "displayName": "Playwright",
-  "description": "Guidance for Playwright browser automation library.",
+  "description": "Guidance for Playwright browser automation and end-to-end testing in .NET. USE FOR: cross-browser end-to-end testing, UI automation, screenshot and visual regression testing, network request interception, mobile viewport emulation, testing SPAs and server-rendered pages, CI/CD browser testing in headless mode. DO NOT USE FOR: unit testing (use xUnit with Moq), API contract testing (use Pact), load testing (use k6 or NBomber), or testing non-web applications.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

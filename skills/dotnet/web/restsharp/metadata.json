@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "restsharp",
   "displayName": "RestSharp",
-  "description": "Guidance for RestSharp REST client library.",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

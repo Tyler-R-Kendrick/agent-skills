@@ -1,6 +1,6 @@
 # AspectCore
 
-Guidance for AspectCore AOP framework for .NET Core.
+Guidance for AspectCore AOP framework for .NET Core. USE FOR: cross-cutting concerns via interceptors, method-level AOP, dynamic proxies, logging/caching/authorization interception, decorating service interfaces. DO NOT USE FOR: compile-time weaving (use PostSharp), full IL rewriting, non-DI scenarios, .NET Framework-only projects.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for AspectCore AOP framework for .NET Core.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

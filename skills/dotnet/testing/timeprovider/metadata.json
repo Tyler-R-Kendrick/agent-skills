@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "timeprovider",
   "displayName": "TimeProvider",
-  "description": "Guidance for TimeProvider usage. Use when working with timeprovider.",
+  "description": "Guidance for TimeProvider abstraction for testable time-dependent code. USE FOR: making time-dependent code testable, replacing DateTime.UtcNow and DateTimeOffset.UtcNow with injectable abstractions, controlling time in unit tests with FakeTimeProvider, testing expiration logic, scheduling, token lifetimes, and time-based business rules. DO NOT USE FOR: high-precision timing or benchmarking (use Stopwatch), NTP synchronization, or scenarios running on .NET versions prior to .NET 8.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

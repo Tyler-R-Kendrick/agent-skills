@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "messageformat-net",
   "displayName": "MessageFormat.NET",
-  "description": "Guidance for MessageFormat.NET localization library.",
+  "description": "Guidance for MessageFormat.NET (Jeffijoe.MessageFormat) ICU message formatting library. USE FOR: ICU MessageFormat pluralization, gender/select patterns, complex parameterized localization messages, locale-aware plural rules. DO NOT USE FOR: basic resource file localization (use resources-localization), culture formatting of dates/numbers (use globalization-localization), general i18n architecture (use i18n).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

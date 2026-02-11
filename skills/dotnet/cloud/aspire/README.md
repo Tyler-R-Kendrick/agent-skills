@@ -1,6 +1,6 @@
 # .NET Aspire
 
-Guidance for .NET Aspire distributed application framework.
+Use when building cloud-native distributed applications with .NET Aspire. Covers the app host orchestration model, service defaults, built-in components (Redis, PostgreSQL, RabbitMQ), dashboard, health checks, and deployment to Azure Container Apps.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for .NET Aspire distributed application framework.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "orleans",
   "displayName": "Orleans",
-  "description": "Guidance for Orleans usage. Use when working with orleans.",
+  "description": "Use when building distributed, stateful applications with Microsoft Orleans. Covers grain design, state persistence, streams, timers, reminders, clustering, and ASP.NET Core co-hosting for virtual actor workloads.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

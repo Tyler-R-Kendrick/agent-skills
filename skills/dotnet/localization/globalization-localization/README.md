@@ -1,6 +1,6 @@
 # Globalization and Localization
 
-Guidance for globalization and localization in .NET. Use when working with globalization localization.
+Guidance for globalization and localization in .NET. USE FOR: culture-aware formatting, request localization middleware, date/number/currency formatting across cultures, locale-sensitive string comparison. DO NOT USE FOR: simple resource file lookup (use resources-localization), ICU message formatting (use messageformat-net), general i18n architecture (use i18n).
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for globalization and localization in .NET. Use when working with globa
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

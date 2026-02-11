@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "mlnet",
   "displayName": "ML.NET",
-  "description": "Guidance for ML.NET machine learning framework.",
+  "description": "Use when building custom machine learning models in .NET with ML.NET. Covers data loading, training pipelines, prediction engines, AutoML, model evaluation, and deployment for classification, regression, clustering, and anomaly detection.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

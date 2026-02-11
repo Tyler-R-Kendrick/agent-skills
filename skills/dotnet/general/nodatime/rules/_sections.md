@@ -6,8 +6,13 @@ Best practices and rules for NodaTime.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Use Instant for universal time | MEDIUM | [`nodatime-use-instant-for-universal-time.md`](nodatime-use-instant-for-universal-time.md) |
-| 2 | Use LocalDateTime for local time without zone | MEDIUM | [`nodatime-use-localdatetime-for-local-time-without-zone.md`](nodatime-use-localdatetime-for-local-time-without-zone.md) |
-| 3 | Use ZonedDateTime when zone matters | MEDIUM | [`nodatime-use-zoneddatetime-when-zone-matters.md`](nodatime-use-zoneddatetime-when-zone-matters.md) |
-| 4 | Avoid DateTime for new code | HIGH | [`nodatime-avoid-datetime-for-new-code.md`](nodatime-avoid-datetime-for-new-code.md) |
-| 5 | Store UTC in databases | MEDIUM | [`nodatime-store-utc-in-databases.md`](nodatime-store-utc-in-databases.md) |
+| 1 | Use `Instant` for timestamps | MEDIUM | [`nodatime-use-instant-for-timestamps.md`](nodatime-use-instant-for-timestamps.md) |
+| 2 | Use `LocalDate` for dates that have no time component | MEDIUM | [`nodatime-use-localdate-for-dates-that-have-no-time-component.md`](nodatime-use-localdate-for-dates-that-have-no-time-component.md) |
+| 3 | Use `ZonedDateTime` when you need to display or reason about time in a specific zone | MEDIUM | [`nodatime-use-zoneddatetime-when-you-need-to-display-or-reason-about.md`](nodatime-use-zoneddatetime-when-you-need-to-display-or-reason-about.md) |
+| 4 | Prefer IANA time zone IDs | LOW | [`nodatime-prefer-iana-time-zone-ids.md`](nodatime-prefer-iana-time-zone-ids.md) |
+| 5 | Use `InZoneStrictly` during development | CRITICAL | [`nodatime-use-inzonestrictly-during-development.md`](nodatime-use-inzonestrictly-during-development.md) |
+| 6 | Store `Instant` in databases and convert to `ZonedDateTime` at the presentation layer | MEDIUM | [`nodatime-store-instant-in-databases-and-convert-to-zoneddatetime-at.md`](nodatime-store-instant-in-databases-and-convert-to-zoneddatetime-at.md) |
+| 7 | Use `Period` for human-calendar calculations | MEDIUM | [`nodatime-use-period-for-human-calendar-calculations.md`](nodatime-use-period-for-human-calendar-calculations.md) |
+| 8 | Configure NodaTime JSON serialization | MEDIUM | [`nodatime-configure-nodatime-json-serialization.md`](nodatime-configure-nodatime-json-serialization.md) |
+| 9 | Inject `IClock` instead of using `SystemClock.Instance` directly | MEDIUM | [`nodatime-inject-iclock-instead-of-using-systemclock-instance-directly.md`](nodatime-inject-iclock-instead-of-using-systemclock-instance-directly.md) |
+| 10 | Update the TZDB data regularly | MEDIUM | [`nodatime-update-the-tzdb-data-regularly.md`](nodatime-update-the-tzdb-data-regularly.md) |

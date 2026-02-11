@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "pdfsharpcore",
   "displayName": "PdfSharpCore",
-  "description": "Guidance for PdfSharpCore PDF generation library.",
+  "description": "Guidance for PdfSharpCore PDF generation and modification library for .NET. USE FOR: creating PDF documents programmatically, drawing text/shapes/images on PDF pages, modifying existing PDFs, merging PDF files, generating reports and invoices as PDF, adding headers/footers/page numbers. DO NOT USE FOR: extracting text from PDFs (use PdfPig), PDF form filling with complex logic, high-volume HTML-to-PDF conversion (use a headless browser), PDF/A compliance.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

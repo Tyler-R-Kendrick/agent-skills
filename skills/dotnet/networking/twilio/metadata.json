@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "twilio",
   "displayName": "Twilio",
-  "description": "Guidance for Twilio communications API SDK.",
+  "description": "Guidance for Twilio .NET SDK for communications APIs. USE FOR: sending SMS and MMS, making voice calls, Twilio Verify for phone verification, WhatsApp messaging, webhook handling for incoming messages/calls, Twilio programmable video. DO NOT USE FOR: email sending (use mimekit), HTTP APIs (use ASP.NET Core), gRPC services (use grpc-dotnet), custom socket protocols (use dotnetty).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

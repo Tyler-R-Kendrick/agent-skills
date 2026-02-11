@@ -1,6 +1,6 @@
 # .NET
 
-Guidance for .NET development. Use when working with C#, F#, .NET libraries, ASP.NET, Blazor, Entity Framework, and the broader .NET ecosystem.
+Use when working with C#, F#, .NET libraries, ASP.NET Core, Blazor, Entity Framework Core, and the broader .NET ecosystem.
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for .NET development. Use when working with C#, F#, .NET libraries, ASP
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

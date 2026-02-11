@@ -1,6 +1,6 @@
 # gRPC for .NET
 
-Guidance for gRPC in .NET. Use when working with grpc dotnet.
+Guidance for gRPC in .NET using Grpc.AspNetCore and Grpc.Net.Client. USE FOR: gRPC service definitions, proto file compilation, unary and streaming RPCs, gRPC client factory, deadline/cancellation, interceptors, gRPC-Web for browser clients. DO NOT USE FOR: REST/HTTP APIs (use ASP.NET Core), real-time browser push (use SignalR), custom TCP protocols (use dotnetty), email protocols (use mimekit).
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for gRPC in .NET. Use when working with grpc dotnet.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

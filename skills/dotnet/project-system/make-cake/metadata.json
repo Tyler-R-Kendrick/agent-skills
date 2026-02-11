@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
   "name": "make-cake",
-  "displayName": "CAKE Build",
-  "description": "Guidance for CAKE (C# Make) build automation system.",
+  "displayName": "Cake Build",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

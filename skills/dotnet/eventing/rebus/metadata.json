@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "rebus",
   "displayName": "Rebus",
-  "description": "Guidance for Rebus service bus library.",
+  "description": "Use when building message-driven .NET applications with Rebus, a lean and extensible service bus supporting multiple transports.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

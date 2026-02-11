@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "masstransit",
   "displayName": "MassTransit",
-  "description": "Guidance for MassTransit usage. Use when working with masstransit.",
+  "description": "Use when building message-based distributed systems with MassTransit for pub/sub, request/response, sagas, and outbox patterns in .NET.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

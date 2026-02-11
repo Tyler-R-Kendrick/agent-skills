@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "jflepp-maybe",
   "displayName": "JFlepp.Maybe",
-  "description": "Guidance for JFlepp.Maybe library for handling optional values.",
+  "description": "Use when handling optional values with JFlepp.Maybe, a lightweight Maybe/Option monad library for C#.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

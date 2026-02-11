@@ -6,8 +6,13 @@ Best practices and rules for Serilog.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Use structured logging with message templates | MEDIUM | [`serilog-use-structured-logging-with-message-templates.md`](serilog-use-structured-logging-with-message-templates.md) |
-| 2 | Enrich with context (correlation IDs, user info) | MEDIUM | [`serilog-enrich-with-context-correlation-ids-user-info.md`](serilog-enrich-with-context-correlation-ids-user-info.md) |
-| 3 | Configure different sinks for different log levels | MEDIUM | [`serilog-configure-different-sinks-for-different-log-levels.md`](serilog-configure-different-sinks-for-different-log-levels.md) |
-| 4 | Use Serilog | MEDIUM | [`serilog-use-serilog.md`](serilog-use-serilog.md) |
-| 5 | Avoid string interpolation in log messages | HIGH | [`serilog-avoid-string-interpolation-in-log-messages.md`](serilog-avoid-string-interpolation-in-log-messages.md) |
+| 1 | Use message templates instead of string interpolation | MEDIUM | [`serilog-use-message-templates-instead-of-string-interpolation.md`](serilog-use-message-templates-instead-of-string-interpolation.md) |
+| 2 | Use the `@` destructuring operator | MEDIUM | [`serilog-use-the-destructuring-operator.md`](serilog-use-the-destructuring-operator.md) |
+| 3 | Call `Log.CloseAndFlush()` | HIGH | [`serilog-call-log-closeandflush.md`](serilog-call-log-closeandflush.md) |
+| 4 | Override framework log levels | CRITICAL | [`serilog-override-framework-log-levels.md`](serilog-override-framework-log-levels.md) |
+| 5 | Use `Serilog.AspNetCore`'s `UseSerilogRequestLogging()` | MEDIUM | [`serilog-use-serilog-aspnetcore-s-useserilogrequestlogging.md`](serilog-use-serilog-aspnetcore-s-useserilogrequestlogging.md) |
+| 6 | Enrich globally with `FromLogContext` | MEDIUM | [`serilog-enrich-globally-with-fromlogcontext.md`](serilog-enrich-globally-with-fromlogcontext.md) |
+| 7 | Configure sinks in `appsettings.json` | MEDIUM | [`serilog-configure-sinks-in-appsettings-json.md`](serilog-configure-sinks-in-appsettings-json.md) |
+| 8 | Wrap high-latency sinks | HIGH | [`serilog-wrap-high-latency-sinks.md`](serilog-wrap-high-latency-sinks.md) |
+| 9 | Avoid logging sensitive data | HIGH | [`serilog-avoid-logging-sensitive-data.md`](serilog-avoid-logging-sensitive-data.md) |
+| 10 | Use the two-stage initialization pattern | MEDIUM | [`serilog-use-the-two-stage-initialization-pattern.md`](serilog-use-the-two-stage-initialization-pattern.md) |

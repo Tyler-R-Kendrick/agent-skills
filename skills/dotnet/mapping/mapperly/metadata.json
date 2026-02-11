@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "mapperly",
   "displayName": "Mapperly",
-  "description": "Guidance for Mapperly source generator for object mapping.",
+  "description": "Guidance for Mapperly compile-time source-generated object mapper. USE FOR: high-performance object mapping via source generation, compile-time mapping validation, zero-reflection mapping, AOT-compatible mapping, enum mapping, collection mapping. DO NOT USE FOR: runtime convention-based mapping with ProjectTo (use automapper), mapping configurations that change at runtime, mapping that requires DI-injected services.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

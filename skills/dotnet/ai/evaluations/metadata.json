@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "evaluations",
   "displayName": "AI Evaluations",
-  "description": "Guidance for AI model evaluations and testing in .NET.",
+  "description": "Use when evaluating AI model outputs, prompts, and LLM application quality in .NET. Covers Microsoft.Extensions.AI.Evaluation for scoring, reporting, and automated test pipelines.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

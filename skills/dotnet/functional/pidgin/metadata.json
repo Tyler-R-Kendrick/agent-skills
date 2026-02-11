@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "pidgin",
   "displayName": "Pidgin",
-  "description": "Guidance for Pidgin parser combinator library.",
+  "description": "Use when building high-performance parsers in C# using Pidgin's parser combinator library for structured text, DSLs, and expression grammars.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

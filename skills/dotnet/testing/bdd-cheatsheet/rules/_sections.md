@@ -6,9 +6,13 @@ Best practices and rules for BDD Cheatsheet.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Write scenarios from user perspective | MEDIUM | [`bdd-cheatsheet-write-scenarios-from-user-perspective.md`](bdd-cheatsheet-write-scenarios-from-user-perspective.md) |
-| 2 | Use Given-When-Then structure | MEDIUM | [`bdd-cheatsheet-use-given-when-then-structure.md`](bdd-cheatsheet-use-given-when-then-structure.md) |
-| 3 | Keep scenarios focused and independent | MEDIUM | [`bdd-cheatsheet-keep-scenarios-focused-and-independent.md`](bdd-cheatsheet-keep-scenarios-focused-and-independent.md) |
-| 4 | Use scenario outlines for data variations | MEDIUM | [`bdd-cheatsheet-use-scenario-outlines-for-data-variations.md`](bdd-cheatsheet-use-scenario-outlines-for-data-variations.md) |
-| 5 | Avoid technical implementation details | HIGH | [`bdd-cheatsheet-avoid-technical-implementation-details.md`](bdd-cheatsheet-avoid-technical-implementation-details.md) |
-| 6 | Make steps reusable | MEDIUM | [`bdd-cheatsheet-make-steps-reusable.md`](bdd-cheatsheet-make-steps-reusable.md) |
+| 1 | Write scenarios in business language, not technical language | MEDIUM | [`bdd-cheatsheet-write-scenarios-in-business-language-not-technical-language.md`](bdd-cheatsheet-write-scenarios-in-business-language-not-technical-language.md) |
+| 2 | Keep scenarios independent and self-contained | CRITICAL | [`bdd-cheatsheet-keep-scenarios-independent-and-self-contained.md`](bdd-cheatsheet-keep-scenarios-independent-and-self-contained.md) |
+| 3 | Use Background for shared Given steps across a feature | MEDIUM | [`bdd-cheatsheet-use-background-for-shared-given-steps-across-a-feature.md`](bdd-cheatsheet-use-background-for-shared-given-steps-across-a-feature.md) |
+| 4 | Prefer Scenario Outlines over copy-pasted scenarios | LOW | [`bdd-cheatsheet-prefer-scenario-outlines-over-copy-pasted-scenarios.md`](bdd-cheatsheet-prefer-scenario-outlines-over-copy-pasted-scenarios.md) |
+| 5 | Write reusable step definitions with regex capture groups | MEDIUM | [`bdd-cheatsheet-write-reusable-step-definitions-with-regex-capture-groups.md`](bdd-cheatsheet-write-reusable-step-definitions-with-regex-capture-groups.md) |
+| 6 | Use context injection instead of static state | CRITICAL | [`bdd-cheatsheet-use-context-injection-instead-of-static-state.md`](bdd-cheatsheet-use-context-injection-instead-of-static-state.md) |
+| 7 | Tag scenarios for selective execution | MEDIUM | [`bdd-cheatsheet-tag-scenarios-for-selective-execution.md`](bdd-cheatsheet-tag-scenarios-for-selective-execution.md) |
+| 8 | Limit scenarios to one When step | MEDIUM | [`bdd-cheatsheet-limit-scenarios-to-one-when-step.md`](bdd-cheatsheet-limit-scenarios-to-one-when-step.md) |
+| 9 | Name feature files after the feature, not the implementation | MEDIUM | [`bdd-cheatsheet-name-feature-files-after-the-feature-not-the-implementation.md`](bdd-cheatsheet-name-feature-files-after-the-feature-not-the-implementation.md) |
+| 10 | Review feature files with business stakeholders | CRITICAL | [`bdd-cheatsheet-review-feature-files-with-business-stakeholders.md`](bdd-cheatsheet-review-feature-files-with-business-stakeholders.md) |

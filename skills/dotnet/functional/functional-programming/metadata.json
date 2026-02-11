@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "functional-programming",
-  "displayName": "Functional Programming",
-  "description": "Guidance for functional programming patterns in .NET.",
+  "displayName": "Functional Programming in C#",
+  "description": "Use when applying functional programming patterns and principles in C# including immutability, pure functions, higher-order functions, and monadic patterns.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

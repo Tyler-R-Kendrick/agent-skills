@@ -1,6 +1,6 @@
 # Dapr
 
-Use when working with Dapr (Distributed Application Runtime) to build microservices with service invocation, state management, pub/sub, bindings, actors, and secrets.
+Use when building microservices with Dapr (Distributed Application Runtime) in .NET. Covers service invocation, state management, pub/sub messaging, bindings, actors, secrets, and sidecar configuration.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Use when working with Dapr (Distributed Application Runtime) to build microservi
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 7 individual best practice rules |
+| `rules/` | 16 individual best practice rules |
 
 ## Usage
 

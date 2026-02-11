@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "language-ext",
   "displayName": "language-ext",
-  "description": "Guidance for language-ext functional programming library.",
+  "description": "Use when applying comprehensive functional programming patterns in C# with language-ext, including Option, Either, Try, immutable collections, and monadic composition.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

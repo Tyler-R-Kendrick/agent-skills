@@ -1,7 +1,5 @@
 # AppContext
 
-Guidance for AppContext switches and feature flags. Use when working with appcontext.
-
 ## Structure
 
 | File | Purpose |
@@ -10,6 +8,7 @@ Guidance for AppContext switches and feature flags. Use when working with appcon
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

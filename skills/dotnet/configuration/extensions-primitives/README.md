@@ -1,7 +1,5 @@
 # Microsoft.Extensions.Primitives
 
-Guidance for Microsoft.Extensions.Primitives and change tokens. Use when working with extensions primitives.
-
 ## Structure
 
 | File | Purpose |
@@ -10,6 +8,7 @@ Guidance for Microsoft.Extensions.Primitives and change tokens. Use when working
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

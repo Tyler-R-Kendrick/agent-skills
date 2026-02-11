@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "migrant",
   "displayName": "Migrant",
-  "description": "Guidance for Migrant fast binary serialization library.",
+  "description": "Guidance for Migrant fast binary serialization library for .NET. USE FOR: fast binary serialization of complex object graphs, version-tolerant deserialization, simulation state snapshots, game save/load systems, deep object cloning via serialization, internal data persistence with circular reference support. DO NOT USE FOR: cross-language interop (use protobuf-net), REST API responses (use System.Text.Json), human-readable data formats, or long-term archival storage with strict schema guarantees.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

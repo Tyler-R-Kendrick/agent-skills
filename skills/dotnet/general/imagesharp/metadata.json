@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "imagesharp",
   "displayName": "ImageSharp",
-  "description": "Guidance for ImageSharp image processing library.",
+  "description": "Guidance for SixLabors ImageSharp cross-platform image processing library. USE FOR: image resizing, cropping, format conversion, watermarking, thumbnail generation, applying filters and effects, drawing text and shapes on images, metadata reading. DO NOT USE FOR: video processing, real-time computer vision (use OpenCV), GPU-accelerated rendering, PDF generation (use PdfSharpCore), 3D graphics.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

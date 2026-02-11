@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "dapr",
   "displayName": "Dapr",
-  "description": "Use when working with Dapr (Distributed Application Runtime) to build microservices with service invocation, state management, pub/sub, bindings, actors, and secrets.",
+  "description": "Use when building microservices with Dapr (Distributed Application Runtime) in .NET. Covers service invocation, state management, pub/sub messaging, bindings, actors, secrets, and sidecar configuration.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

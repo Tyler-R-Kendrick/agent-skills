@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "mardig",
   "displayName": "Markdig",
-  "description": "Guidance for Markdig Markdown processor.",
+  "description": "Guidance for Markdig Markdown processor for .NET. USE FOR: converting Markdown to HTML, building custom Markdown pipelines, parsing Markdown AST, supporting CommonMark and extensions (tables, task lists, emoji, math), generating documentation from Markdown sources. DO NOT USE FOR: rich text editing UI (use a WYSIWYG editor), PDF generation from Markdown (convert to HTML first then use a PDF library), plain text formatting.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

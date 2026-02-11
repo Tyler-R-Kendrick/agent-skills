@@ -1,6 +1,6 @@
 # Testcontainers
 
-Guidance for Testcontainers integration testing library.
+Guidance for Testcontainers integration testing library for .NET. USE FOR: spinning up real databases in Docker for integration tests, testing against PostgreSQL/SQL Server/Redis/RabbitMQ containers, verifying EF Core migrations against a real database, testing message broker consumers, replacing in-memory test doubles with real infrastructure in CI/CD pipelines. DO NOT USE FOR: unit testing (use Moq/AutoFixture), production container orchestration (use Kubernetes), load testing, or scenarios where Docker is unavailable.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Testcontainers integration testing library.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

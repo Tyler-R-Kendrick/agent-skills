@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "autofixture",
   "displayName": "AutoFixture",
-  "description": "Guidance for AutoFixture test data generation library.",
+  "description": "Guidance for AutoFixture test data generation library. USE FOR: auto-generating test data for unit tests, reducing boilerplate in the Arrange phase, creating anonymous objects and collections, customizing test data generation rules, integrating with Moq (AutoMoq) and xUnit for fully automated test setup. DO NOT USE FOR: integration test data seeding, production data generation, load testing data, or replacing dedicated faker libraries when realistic domain data is required.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

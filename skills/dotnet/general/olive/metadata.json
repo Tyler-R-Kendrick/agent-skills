@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "olive",
   "displayName": "Olive",
-  "description": "Guidance for Olive library (likely referring to a specific .NET library).",
+  "description": "Guidance for Olive productivity framework for .NET. USE FOR: common string extensions (null-safe operations, validation), collection utilities, date/time helpers, file name sanitization, fluent API helpers, reducing boilerplate in business applications. DO NOT USE FOR: full web frameworks (use ASP.NET Core), ORM functionality (use EF Core), UI frameworks, large-scale enterprise architecture.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

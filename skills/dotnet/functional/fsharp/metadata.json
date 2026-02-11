@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "fsharp",
   "displayName": "F#",
-  "description": "Guidance for F# functional-first programming language.",
+  "description": "Use when writing F# code on .NET, leveraging functional-first programming with discriminated unions, pattern matching, computation expressions, and type inference.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

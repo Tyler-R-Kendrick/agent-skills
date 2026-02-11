@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "handlebars-net",
   "displayName": "Handlebars.NET",
-  "description": "Guidance for Handlebars.NET template engine.",
+  "description": "Guidance for Handlebars.NET template engine for .NET. USE FOR: logic-less HTML templating, email template rendering, code generation templates, report formatting, Mustache-compatible templates with helpers and partials. DO NOT USE FOR: sandboxed user-generated templates (use DotLiquid), full C# expression templates (use Razor), complex data transformations, server-side view rendering in ASP.NET.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

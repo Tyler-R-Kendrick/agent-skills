@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
   "name": "a2a",
-  "displayName": "a2a",
-  "description": "Guidance for the a2a package. Use when working with a2a.",
+  "displayName": "A2A Protocol",
+  "description": "Use when building agent-to-agent communication in .NET with the A2A (Agent-to-Agent) protocol. Covers agent cards, task lifecycle, streaming, push notifications, and multi-agent orchestration.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

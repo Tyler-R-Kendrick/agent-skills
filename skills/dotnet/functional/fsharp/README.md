@@ -1,6 +1,6 @@
 # F#
 
-Guidance for F# functional-first programming language.
+Use when writing F# code on .NET, leveraging functional-first programming with discriminated unions, pattern matching, computation expressions, and type inference.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for F# functional-first programming language.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

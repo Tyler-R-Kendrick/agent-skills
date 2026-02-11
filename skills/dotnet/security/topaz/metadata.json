@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "topaz",
   "displayName": "Topaz",
-  "description": "Guidance for Topaz fine-grained authorization.",
+  "description": "Guidance for Topaz fine-grained, relationship-based authorization. USE FOR: fine-grained permissions, relationship-based access control (ReBAC), Google Zanzibar-style authorization, directory-based identity resolution, policy-as-code with OPA/Rego, hierarchical permission models (owner > editor > viewer). DO NOT USE FOR: simple RBAC (use Casbin/Enforcer), authentication (use ASP.NET Core Identity), input sanitization (use Hygiene), or encryption (use CryptoNet).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

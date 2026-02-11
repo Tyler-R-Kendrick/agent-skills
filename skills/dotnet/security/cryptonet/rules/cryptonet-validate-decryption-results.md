@@ -1,10 +1,10 @@
 ---
 title: "Validate decryption results"
-impact: HIGH
-impactDescription: "significant quality or reliability improvement"
-tags: cryptonet, dotnet, security
+impact: CRITICAL
+impactDescription: "essential for correctness or security"
+tags: cryptonet, dotnet, security, rsa-encryptiondecryption, symmetric-aes-encryption, x509-certificate-based-crypto
 ---
 
 ## Validate decryption results
 
-Validate decryption results
+Validate decryption results: always handle `CryptographicException` during decryption to detect tampered or corrupted ciphertext instead of returning garbage data.

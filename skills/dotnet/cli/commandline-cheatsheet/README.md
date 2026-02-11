@@ -1,6 +1,6 @@
 # Command-Line Cheatsheet
 
-Guidance for command-line argument parsing patterns and libraries.
+Use when building command-line applications in .NET with System.CommandLine. Covers command/option/argument definitions, middleware, tab completion, parsing, and hosting integration for CLI tools.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for command-line argument parsing patterns and libraries.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "ncrontab",
   "displayName": "NCrontab",
-  "description": "Guidance for NCrontab cron expression parser.",
+  "description": "Guidance for NCrontab cron expression parser and scheduler for .NET. USE FOR: parsing cron expressions, calculating next/previous occurrences, validating cron syntax, scheduling background tasks with cron patterns, generating occurrence lists for display. DO NOT USE FOR: full job scheduling frameworks (use Quartz.NET or Hangfire), distributed task scheduling, Windows Task Scheduler integration, real-time event processing.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

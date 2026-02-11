@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "bond",
   "displayName": "Bond",
-  "description": "Guidance for Bond schematized data serialization framework.",
+  "description": "Guidance for Microsoft Bond schematized data serialization framework. USE FOR: cross-platform schema-first serialization, Compact Binary and Fast Binary wire formats, schema evolution with backward/forward compatibility, high-performance RPC data contracts, strongly typed data interchange between .NET, C++, Python, and Java services. DO NOT USE FOR: JSON REST APIs (use System.Text.Json), human-readable config files, simple key-value storage, or when schema-less flexibility is required.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

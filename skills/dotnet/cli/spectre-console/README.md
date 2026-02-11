@@ -1,6 +1,6 @@
 # Spectre.Console
 
-Guidance for Spectre.Console library for beautiful console applications.
+Use when building rich terminal UIs in .NET with Spectre.Console. Covers tables, trees, progress bars, prompts, live rendering, markup formatting, and the Spectre.Console.Cli command framework.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Spectre.Console library for beautiful console applications.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

@@ -1,6 +1,6 @@
 # Community Toolkit
 
-Guidance for .NET Community Toolkit libraries.
+Guidance for .NET Community Toolkit libraries including MVVM Toolkit, Diagnostics, and HighPerformance. USE FOR: MVVM source-generated view models, observable properties, relay commands, messenger pattern, guard clauses, high-performance array pooling, string pooling. DO NOT USE FOR: UI framework specifics (use WPF/MAUI/WinUI skills), full reactive programming (use Rx), dependency injection container logic.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for .NET Community Toolkit libraries.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

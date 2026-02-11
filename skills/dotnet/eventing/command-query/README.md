@@ -1,6 +1,6 @@
-# Command Query
+# Command Query Separation
 
-Guidance for Command Query Separation (CQS) pattern.
+Use when implementing Command Query Separation (CQS) or CQRS patterns to separate read and write operations in .NET applications.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Command Query Separation (CQS) pattern.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 3 individual best practice rules |
+| `rules/` | 13 individual best practice rules |
 
 ## Usage
 

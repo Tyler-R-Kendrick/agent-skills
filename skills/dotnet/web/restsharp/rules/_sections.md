@@ -6,9 +6,13 @@ Best practices and rules for RestSharp.
 
 | # | Rule | Impact | File |
 |---|------|--------|------|
-| 1 | Reuse RestClient instances | MEDIUM | [`restsharp-reuse-restclient-instances.md`](restsharp-reuse-restclient-instances.md) |
-| 2 | Configure timeout appropriately | MEDIUM | [`restsharp-configure-timeout-appropriately.md`](restsharp-configure-timeout-appropriately.md) |
-| 3 | Handle errors properly | MEDIUM | [`restsharp-handle-errors-properly.md`](restsharp-handle-errors-properly.md) |
-| 4 | Use authenticators for auth | MEDIUM | [`restsharp-use-authenticators-for-auth.md`](restsharp-use-authenticators-for-auth.md) |
-| 5 | Consider HttpClient for new projects | LOW | [`restsharp-consider-httpclient-for-new-projects.md`](restsharp-consider-httpclient-for-new-projects.md) |
-| 6 | Add retry policies with Polly | MEDIUM | [`restsharp-add-retry-policies-with-polly.md`](restsharp-add-retry-policies-with-polly.md) |
+| 1 | Create `RestClient` instances through `HttpClientFactory` | HIGH | [`restsharp-create-restclient-instances-through-httpclientfactory.md`](restsharp-create-restclient-instances-through-httpclientfactory.md) |
+| 2 | Use `AddUrlSegment()` for path parameters | MEDIUM | [`restsharp-use-addurlsegment-for-path-parameters.md`](restsharp-use-addurlsegment-for-path-parameters.md) |
+| 3 | Use `ExecuteGetAsync<T>()` / `ExecutePostAsync<T>()` instead of `GetAsync<T>()` / `PostAsync<T>()` | MEDIUM | [`restsharp-use-executegetasync-t-executepostasync-t-instead-of.md`](restsharp-use-executegetasync-t-executepostasync-t-instead-of.md) |
+| 4 | Configure serialization explicitly | MEDIUM | [`restsharp-configure-serialization-explicitly.md`](restsharp-configure-serialization-explicitly.md) |
+| 5 | Use built-in authenticators | MEDIUM | [`restsharp-use-built-in-authenticators.md`](restsharp-use-built-in-authenticators.md) |
+| 6 | Pass `CancellationToken` to all async methods | HIGH | [`restsharp-pass-cancellationtoken-to-all-async-methods.md`](restsharp-pass-cancellationtoken-to-all-async-methods.md) |
+| 7 | Use interceptors for cross-cutting concerns | HIGH | [`restsharp-use-interceptors-for-cross-cutting-concerns.md`](restsharp-use-interceptors-for-cross-cutting-concerns.md) |
+| 8 | Use `AddJsonBody()` for JSON payloads and `AddFile()` for file uploads | MEDIUM | [`restsharp-use-addjsonbody-for-json-payloads-and-addfile-for-file.md`](restsharp-use-addjsonbody-for-json-payloads-and-addfile-for-file.md) |
+| 9 | Handle errors by checking `response.IsSuccessful` before accessing `response.Data` | MEDIUM | [`restsharp-handle-errors-by-checking-response-issuccessful-before.md`](restsharp-handle-errors-by-checking-response-issuccessful-before.md) |
+| 10 | Set `MaxTimeout` on `RestClientOptions` | MEDIUM | [`restsharp-set-maxtimeout-on-restclientoptions.md`](restsharp-set-maxtimeout-on-restclientoptions.md) |

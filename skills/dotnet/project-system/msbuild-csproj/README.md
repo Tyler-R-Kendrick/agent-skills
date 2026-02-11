@@ -1,6 +1,4 @@
-# Msbuild Csproj
-
-Guidance for MSBuild .csproj structuring with dotnet CLI. Use when creating or modifying .csproj files.
+# MSBuild CSPROJ
 
 ## Structure
 

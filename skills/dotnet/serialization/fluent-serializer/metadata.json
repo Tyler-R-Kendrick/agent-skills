@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "fluent-serializer",
   "displayName": "Fluent Serializer",
-  "description": "Guidance for fluent API serialization patterns in .NET.",
+  "description": "Guidance for fluent API serialization configuration patterns in .NET. USE FOR: building configurable serialization pipelines, wrapping System.Text.Json or Newtonsoft.Json with fluent APIs, custom serialization profiles, convention-based JSON configuration, reusable serialization presets across multiple services. DO NOT USE FOR: binary serialization (use protobuf-net or Bond), schema-first serialization, high-throughput hot-path serialization where configuration overhead matters.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

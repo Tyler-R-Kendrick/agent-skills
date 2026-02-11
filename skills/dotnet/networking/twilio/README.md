@@ -1,6 +1,6 @@
 # Twilio
 
-Guidance for Twilio communications API SDK.
+Guidance for Twilio .NET SDK for communications APIs. USE FOR: sending SMS and MMS, making voice calls, Twilio Verify for phone verification, WhatsApp messaging, webhook handling for incoming messages/calls, Twilio programmable video. DO NOT USE FOR: email sending (use mimekit), HTTP APIs (use ASP.NET Core), gRPC services (use grpc-dotnet), custom socket protocols (use dotnetty).
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Twilio communications API SDK.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

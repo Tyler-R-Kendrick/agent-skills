@@ -1,6 +1,6 @@
 # Azure.AI.Inference
 
-Guidance for Azure.AI.Inference usage. Use when working with azure ai inference.
+Use when calling Azure-hosted AI models via the Azure.AI.Inference SDK. Covers chat completions, embeddings, streaming, model selection, and Azure AI model catalog integration.
 
 ## Structure
 
@@ -10,6 +10,7 @@ Guidance for Azure.AI.Inference usage. Use when working with azure ai inference.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

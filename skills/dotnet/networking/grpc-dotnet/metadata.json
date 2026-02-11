@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "grpc-dotnet",
   "displayName": "gRPC for .NET",
-  "description": "Guidance for gRPC in .NET. Use when working with grpc dotnet.",
+  "description": "Guidance for gRPC in .NET using Grpc.AspNetCore and Grpc.Net.Client. USE FOR: gRPC service definitions, proto file compilation, unary and streaming RPCs, gRPC client factory, deadline/cancellation, interceptors, gRPC-Web for browser clients. DO NOT USE FOR: REST/HTTP APIs (use ASP.NET Core), real-time browser push (use SignalR), custom TCP protocols (use dotnetty), email protocols (use mimekit).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

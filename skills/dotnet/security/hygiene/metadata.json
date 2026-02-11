@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
   "name": "hygiene",
-  "displayName": "Hygiene & Sanitizers",
-  "description": "Guidance for input sanitization and hygiene best practices.",
+  "displayName": "Security Hygiene & Sanitization",
+  "description": "Guidance for input sanitization, output encoding, and security hygiene in .NET. USE FOR: preventing XSS attacks, SQL injection prevention, HTML/URL/JavaScript encoding, input validation, Content Security Policy headers, CSRF protection, secure HTTP headers. DO NOT USE FOR: authentication flows (use ASP.NET Core Identity), encryption at rest (use CryptoNet), authorization policies (use Casbin/Enforcer), or certificate management.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

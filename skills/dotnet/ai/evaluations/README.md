@@ -1,6 +1,6 @@
 # AI Evaluations
 
-Guidance for AI model evaluations and testing in .NET.
+Use when evaluating AI model outputs, prompts, and LLM application quality in .NET. Covers Microsoft.Extensions.AI.Evaluation for scoring, reporting, and automated test pipelines.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for AI model evaluations and testing in .NET.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

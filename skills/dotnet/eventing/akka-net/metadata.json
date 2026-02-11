@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "akka-net",
   "displayName": "Akka.NET",
-  "description": "Guidance for Akka.NET actor model framework.",
+  "description": "Use when building concurrent, distributed, or fault-tolerant .NET applications with the actor model using Akka.NET.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

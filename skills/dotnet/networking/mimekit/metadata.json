@@ -1,11 +1,15 @@
 {
   "version": "1.0.0",
   "name": "mimekit",
-  "displayName": "MimeKit",
-  "description": "Guidance for MimeKit email message library.",
+  "displayName": "MimeKit and MailKit",
+  "description": "Guidance for MimeKit and MailKit email libraries in .NET. USE FOR: creating and parsing MIME email messages, sending email via SMTP with MailKit, reading email via IMAP/POP3, attachments, HTML email, S/MIME and PGP signing/encryption. DO NOT USE FOR: SMS/voice messaging (use twilio), HTTP APIs (use ASP.NET Core), custom TCP protocols (use dotnetty), gRPC services (use grpc-dotnet).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

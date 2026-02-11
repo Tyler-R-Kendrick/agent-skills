@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "testcontainers",
   "displayName": "Testcontainers",
-  "description": "Guidance for Testcontainers integration testing library.",
+  "description": "Guidance for Testcontainers integration testing library for .NET. USE FOR: spinning up real databases in Docker for integration tests, testing against PostgreSQL/SQL Server/Redis/RabbitMQ containers, verifying EF Core migrations against a real database, testing message broker consumers, replacing in-memory test doubles with real infrastructure in CI/CD pipelines. DO NOT USE FOR: unit testing (use Moq/AutoFixture), production container orchestration (use Kubernetes), load testing, or scenarios where Docker is unavailable.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

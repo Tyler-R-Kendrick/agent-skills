@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "dotnetty",
   "displayName": "DotNetty",
-  "description": "Guidance for DotNetty event-driven network framework.",
+  "description": "Guidance for DotNetty event-driven asynchronous network application framework. USE FOR: high-performance TCP/UDP servers and clients, custom binary protocol implementations, Netty-style channel pipelines, event loop groups, codec handlers, TLS/SSL socket connections. DO NOT USE FOR: HTTP APIs (use ASP.NET Core), gRPC services (use grpc-dotnet), email sending (use mimekit), high-level stream processing (use system-io-pipelines).",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }

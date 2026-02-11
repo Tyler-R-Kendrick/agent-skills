@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "name": "agent-framework",
   "displayName": "Agent Framework",
-  "description": "Guidance for Agent Framework usage. Use when working with agent framework.",
+  "description": "Use when building AI agents with Microsoft.SemanticKernel or Microsoft.Extensions.AI.Agent frameworks. Covers agent creation, tool/plugin registration, multi-agent orchestration, chat completion agents, and OpenAI Assistants integration.",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": "claude, copilot, cursor",
   "references": []
 }

@@ -1,6 +1,6 @@
 # Automatonymous
 
-Guidance for Automatonymous state machine library.
+Use when building state machine workflows integrated with MassTransit for distributed sagas and long-running processes.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for Automatonymous state machine library.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 4 individual best practice rules |
+| `rules/` | 14 individual best practice rules |
 
 ## Usage
 

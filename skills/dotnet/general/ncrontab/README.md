@@ -1,6 +1,6 @@
 # NCrontab
 
-Guidance for NCrontab cron expression parser.
+Guidance for NCrontab cron expression parser and scheduler for .NET. USE FOR: parsing cron expressions, calculating next/previous occurrences, validating cron syntax, scheduling background tasks with cron patterns, generating occurrence lists for display. DO NOT USE FOR: full job scheduling frameworks (use Quartz.NET or Hangfire), distributed task scheduling, Windows Task Scheduler integration, real-time event processing.
 
 ## Structure
 
@@ -10,7 +10,7 @@ Guidance for NCrontab cron expression parser.
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
-| `rules/` | 5 individual best practice rules |
+| `rules/` | 15 individual best practice rules |
 
 ## Usage
 

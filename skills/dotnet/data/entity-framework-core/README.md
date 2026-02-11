@@ -1,7 +1,5 @@
 # Entity Framework Core
 
-Guidance for Entity Framework Core usage. Use when working with entity framework core.
-
 ## Structure
 
 | File | Purpose |
@@ -10,6 +8,7 @@ Guidance for Entity Framework Core usage. Use when working with entity framework
 | `metadata.json` | Machine-readable metadata and versioning |
 | `AGENTS.md` | Agent-optimized quick reference (generated) |
 | `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
 
 ## Usage
 

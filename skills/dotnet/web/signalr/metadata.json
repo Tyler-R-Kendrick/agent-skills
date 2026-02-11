@@ -2,10 +2,14 @@
   "version": "1.0.0",
   "name": "signalr",
   "displayName": "SignalR",
-  "description": "Guidance for SignalR usage. Use when working with signalr.",
+  "description": "",
   "author": "Tyler-R-Kendrick",
   "license": "MIT",
   "date": "February 2026",
-  "compatibility": "",
+  "compatibility": [
+    "claude",
+    "copilot",
+    "cursor"
+  ],
   "references": []
 }
