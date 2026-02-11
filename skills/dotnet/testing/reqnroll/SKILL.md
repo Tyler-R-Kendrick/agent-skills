@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Reqnroll Official Documentation"
+    url: "https://docs.reqnroll.net/"
+  - title: "Reqnroll GitHub Repository"
+    url: "https://github.com/reqnroll/Reqnroll"
+  - title: "Reqnroll Official Site"
+    url: "https://reqnroll.net/"
 ---
 
 # Reqnroll

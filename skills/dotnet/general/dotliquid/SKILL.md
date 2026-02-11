@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "DotLiquid Official Website"
+    url: "https://www.dotliquid.org"
+  - title: "DotLiquid GitHub Repository"
+    url: "https://github.com/dotliquid/dotliquid"
+  - title: "DotLiquid NuGet Package"
+    url: "https://www.nuget.org/packages/DotLiquid"
 ---
 
 # DotLiquid

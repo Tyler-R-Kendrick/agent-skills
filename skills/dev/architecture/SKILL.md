@@ -9,6 +9,11 @@ metadata:
   displayName: "Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Software Architecture Guide"
+    url: "https://martinfowler.com/architecture/"
+  - title: "Software Architecture — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Software_architecture"
 ---
 
 # Software Architecture

@@ -9,6 +9,11 @@ metadata:
   displayName: "RFC (Request for Comments)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "IETF — Request for Comments (RFC)"
+    url: "https://www.ietf.org/process/rfcs/"
+  - title: "Request for Comments — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Request_for_Comments"
 ---
 
 # RFC (Request for Comments) / Design Documents

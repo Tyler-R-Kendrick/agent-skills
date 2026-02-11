@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Uniform Commercial Code (UCC) — Cornell Law Institute",
+      "url": "https://www.law.cornell.edu/ucc"
+    },
+    {
+      "title": "GDPR Data Processing Agreement Requirements (Article 28)",
+      "url": "https://gdpr-info.eu/art-28-gdpr/"
+    }
+  ]
 }

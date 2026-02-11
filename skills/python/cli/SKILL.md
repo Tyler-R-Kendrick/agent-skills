@@ -19,6 +19,15 @@ metadata:
     - textual
     - tui
 compatibility: claude, copilot, cursor
+references:
+  - title: "Typer Documentation"
+    url: "https://typer.tiangolo.com/"
+  - title: "Click Documentation"
+    url: "https://click.palletsprojects.com/"
+  - title: "Rich Documentation"
+    url: "https://rich.readthedocs.io/"
+  - title: "Python argparse Documentation"
+    url: "https://docs.python.org/3/library/argparse.html"
 ---
 
 # Python CLI Development

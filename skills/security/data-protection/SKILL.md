@@ -9,6 +9,13 @@ metadata:
   displayName: "Data Protection"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GDPR Official Text"
+    url: "https://gdpr-info.eu"
+  - title: "NIST SP 800-122 Guide to Protecting PII"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-122/final"
+  - title: "OWASP Data Protection Cheat Sheet"
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/User_Privacy_Protection_Cheat_Sheet.html"
 ---
 
 # Data Protection

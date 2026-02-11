@@ -9,6 +9,11 @@ metadata:
   displayName: "PlantUML"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "PlantUML Official Documentation"
+    url: "https://plantuml.com/"
+  - title: "PlantUML — GitHub Repository"
+    url: "https://github.com/plantuml/plantuml"
 ---
 
 # PlantUML

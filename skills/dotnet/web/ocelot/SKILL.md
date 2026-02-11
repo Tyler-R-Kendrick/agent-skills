@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Ocelot Documentation"
+    url: "https://ocelot.readthedocs.io/"
+  - title: "Ocelot GitHub Repository"
+    url: "https://github.com/ThreeMammals/Ocelot"
+  - title: "Ocelot NuGet Package"
+    url: "https://www.nuget.org/packages/Ocelot"
 ---
 
 # Ocelot

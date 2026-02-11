@@ -9,6 +9,11 @@ metadata:
   displayName: "ACP (Agent Communication Protocol)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "ACP (Agent Communication Protocol) GitHub Repository"
+    url: "https://github.com/i-am-bee/acp"
+  - title: "ACP SDK GitHub Repository"
+    url: "https://github.com/i-am-bee/acp-sdk"
 ---
 
 # ACP — Agent Communication Protocol

@@ -9,6 +9,11 @@ metadata:
   displayName: "Micro-Frontend Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Micro Frontends"
+    url: "https://martinfowler.com/articles/micro-frontends.html"
+  - title: "Micro-Frontends — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Microfrontend"
 ---
 
 # Micro-Frontend Architecture

@@ -9,6 +9,11 @@ metadata:
   displayName: "Design System"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "W3C Design Tokens Community Group"
+    url: "https://www.w3.org/community/design-tokens/"
+  - title: "Design Tokens Specification"
+    url: "https://www.designtokens.org/"
 ---
 
 # Design System

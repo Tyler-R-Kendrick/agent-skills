@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Orchard Core Documentation"
+    url: "https://docs.orchardcore.net/"
+  - title: "Orchard Core GitHub Repository"
+    url: "https://github.com/OrchardCMS/OrchardCore"
+  - title: "OrchardCore.Application.Cms.Targets NuGet Package"
+    url: "https://www.nuget.org/packages/OrchardCore.Application.Cms.Targets"
 ---
 
 # Orchard CMS

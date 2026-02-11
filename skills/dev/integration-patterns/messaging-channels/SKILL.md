@@ -9,6 +9,11 @@ metadata:
   displayName: "Messaging Channels"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Messaging Channels"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingChannelsIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # Messaging Channels

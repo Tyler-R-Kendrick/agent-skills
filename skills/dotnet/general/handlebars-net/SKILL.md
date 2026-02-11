@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Handlebars.Net GitHub Repository"
+    url: "https://github.com/Handlebars-Net/Handlebars.Net"
+  - title: "Handlebars.Net NuGet Package"
+    url: "https://www.nuget.org/packages/Handlebars.Net"
 ---
 
 # Handlebars.NET

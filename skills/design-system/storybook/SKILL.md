@@ -9,6 +9,11 @@ metadata:
   displayName: "Storybook"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Storybook Official Documentation"
+    url: "https://storybook.js.org/docs"
+  - title: "Storybook — GitHub Repository"
+    url: "https://github.com/storybookjs/storybook"
 ---
 
 # Storybook

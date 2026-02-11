@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Bond GitHub Repository"
+    url: "https://github.com/microsoft/bond"
+  - title: "Bond C# Documentation"
+    url: "https://microsoft.github.io/bond/manual/bond_cs.html"
+  - title: "Bond.Runtime.CSharp NuGet Package"
+    url: "https://www.nuget.org/packages/Bond.Runtime.CSharp"
 ---
 
 # Bond

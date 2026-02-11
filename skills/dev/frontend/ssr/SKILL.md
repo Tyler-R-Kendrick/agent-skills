@@ -9,6 +9,11 @@ metadata:
   displayName: "Server-Side Rendering"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "web.dev — Rendering on the Web"
+    url: "https://web.dev/articles/rendering-on-the-web"
+  - title: "Next.js Documentation"
+    url: "https://nextjs.org/docs"
 ---
 
 # Server-Side Rendering (SSR)

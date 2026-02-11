@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: ".NET AI Documentation"
+    url: "https://learn.microsoft.com/dotnet/ai"
+  - title: "Microsoft.Extensions.AI.Evaluation NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.AI.Evaluation"
+  - title: ".NET Extensions GitHub Repository"
+    url: "https://github.com/dotnet/extensions"
 ---
 
 # AI Evaluations

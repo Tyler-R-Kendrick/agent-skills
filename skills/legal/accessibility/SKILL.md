@@ -9,6 +9,13 @@ metadata:
   displayName: "Accessibility"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "W3C Web Content Accessibility Guidelines (WCAG)"
+    url: "https://www.w3.org/WAI/standards-guidelines/wcag/"
+  - title: "Section 508 Standards (U.S. Access Board)"
+    url: "https://www.access-board.gov/ict/"
+  - title: "European Accessibility Act (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/dir/2019/882/oj"
 ---
 
 # Accessibility

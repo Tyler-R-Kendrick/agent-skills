@@ -9,6 +9,11 @@ metadata:
   displayName: "Messaging Endpoints"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Messaging Endpoints"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingEndpointsIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # Messaging Endpoints

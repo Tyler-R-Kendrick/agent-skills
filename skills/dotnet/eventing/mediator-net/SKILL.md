@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Mediator.NET GitHub Repository"
+    url: "https://github.com/martinothamar/Mediator"
+  - title: "Mediator.SourceGenerator NuGet Package"
+    url: "https://www.nuget.org/packages/Mediator.SourceGenerator"
+  - title: "Mediator.Abstractions NuGet Package"
+    url: "https://www.nuget.org/packages/Mediator.Abstractions"
 ---
 
 # Mediator.NET

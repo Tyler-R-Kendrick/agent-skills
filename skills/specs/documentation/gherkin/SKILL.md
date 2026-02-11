@@ -9,6 +9,11 @@ metadata:
   displayName: "Gherkin"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Cucumber — Gherkin Reference"
+    url: "https://cucumber.io/docs/gherkin/reference/"
+  - title: "Cucumber Official Documentation"
+    url: "https://cucumber.io/docs/"
 ---
 
 # Gherkin

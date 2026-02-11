@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "U.S. Bureau of Industry and Security — Export Administration Regulations (EAR)",
+      "url": "https://www.bis.gov/regulations"
+    },
+    {
+      "title": "The Wassenaar Arrangement",
+      "url": "https://www.wassenaar.org"
+    },
+    {
+      "title": "OFAC Sanctions Programs and Information",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-information"
+    }
+  ]
 }

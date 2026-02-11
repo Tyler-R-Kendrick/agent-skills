@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Rebus Official Website",
+      "url": "https://rebus.fm/"
+    },
+    {
+      "title": "Rebus GitHub Repository",
+      "url": "https://github.com/rebus-org/Rebus"
+    },
+    {
+      "title": "Rebus NuGet Package",
+      "url": "https://www.nuget.org/packages/Rebus"
+    }
+  ]
 }

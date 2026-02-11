@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "WebAPIContrib.Core GitHub Repository"
+    url: "https://github.com/WebApiContrib/WebAPIContrib.Core"
+  - title: "WebApiContrib.Core NuGet Package"
+    url: "https://www.nuget.org/packages/WebApiContrib.Core"
 ---
 
 # WebApiContrib

@@ -20,6 +20,15 @@ metadata:
     - virtualenv
     - dependencies
 compatibility: claude, copilot, cursor
+references:
+  - title: "pip Documentation"
+    url: "https://pip.pypa.io/en/stable/"
+  - title: "uv Documentation"
+    url: "https://docs.astral.sh/uv/"
+  - title: "Poetry Documentation"
+    url: "https://python-poetry.org/"
+  - title: "Python Packaging User Guide"
+    url: "https://packaging.python.org/en/latest/"
 ---
 
 # Python Package Management

@@ -9,6 +9,11 @@ metadata:
   displayName: "Documentation & Requirements"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Architectural Decision Records"
+    url: "https://adr.github.io/"
+  - title: "Cucumber — Gherkin Reference"
+    url: "https://cucumber.io/docs/gherkin/reference/"
 ---
 
 # Documentation & Requirements

@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET MAUI Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/maui/"
+  - title: ".NET MAUI GitHub Repository"
+    url: "https://github.com/dotnet/maui"
 ---
 
 # .NET MAUI

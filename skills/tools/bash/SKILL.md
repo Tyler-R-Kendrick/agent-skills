@@ -9,6 +9,13 @@ metadata:
   displayName: "Bash & Shell Scripting"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GNU Bash Reference Manual"
+    url: "https://www.gnu.org/software/bash/manual/bash.html"
+  - title: "Zsh Documentation"
+    url: "https://zsh.sourceforge.io/Doc/"
+  - title: "POSIX Shell Command Language Specification"
+    url: "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html"
 ---
 
 # Bash & Shell Scripting

@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Dapper GitHub Repository"
+    url: "https://github.com/DapperLib/Dapper"
+  - title: "Dapper NuGet Package"
+    url: "https://www.nuget.org/packages/Dapper"
+  - title: "Dapper Documentation"
+    url: "https://www.learndapper.com/"
 ---
 
 # Dapper

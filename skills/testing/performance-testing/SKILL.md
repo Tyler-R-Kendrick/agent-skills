@@ -9,6 +9,15 @@ metadata:
   displayName: "Performance Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "k6 Documentation (Grafana)"
+    url: "https://grafana.com/docs/k6/latest/"
+  - title: "Apache JMeter"
+    url: "https://jmeter.apache.org"
+  - title: "Gatling Documentation"
+    url: "https://docs.gatling.io"
+  - title: "Lighthouse Documentation (Chrome Developers)"
+    url: "https://developer.chrome.com/docs/lighthouse/"
 ---
 
 # Performance Testing

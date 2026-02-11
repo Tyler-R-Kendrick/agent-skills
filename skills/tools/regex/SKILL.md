@@ -9,6 +9,11 @@ metadata:
   displayName: "Regular Expressions"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Regular-Expressions.info"
+    url: "https://www.regular-expressions.info"
+  - title: "PCRE2 Specification"
+    url: "https://www.pcre.org/current/doc/html/"
 ---
 
 # Regular Expressions

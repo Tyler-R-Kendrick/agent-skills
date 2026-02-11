@@ -11,5 +11,10 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "Plastic GitHub Repository",
+      "url": "https://github.com/sang-hyeon/Plastic"
+    }
+  ]
 }

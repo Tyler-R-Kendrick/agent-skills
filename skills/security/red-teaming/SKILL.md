@@ -9,6 +9,13 @@ metadata:
   displayName: "Red Teaming"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MITRE ATT&CK Framework"
+    url: "https://attack.mitre.org"
+  - title: "Lockheed Martin Cyber Kill Chain"
+    url: "https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html"
+  - title: "NIST SP 800-53 Security and Privacy Controls"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final"
 ---
 
 # Red Teaming

@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Stripe API Reference (.NET)"
+    url: "https://docs.stripe.com/api?lang=dotnet"
+  - title: "Stripe .NET SDK GitHub Repository"
+    url: "https://github.com/stripe/stripe-dotnet"
+  - title: "Stripe.net NuGet Package"
+    url: "https://www.nuget.org/packages/Stripe.net"
 ---
 
 # Stripe

@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Evergine Official Site"
+    url: "https://evergine.com/"
+  - title: "Evergine GitHub Organization"
+    url: "https://github.com/EvergineTeam"
+  - title: "Evergine.Framework NuGet Package"
+    url: "https://www.nuget.org/packages/Evergine.Framework"
 ---
 
 # Wave Engine (Evergine)

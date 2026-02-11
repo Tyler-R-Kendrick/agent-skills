@@ -9,6 +9,11 @@ metadata:
   displayName: "SSH"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OpenSSH Documentation"
+    url: "https://www.openssh.com/manual.html"
+  - title: "SSH Protocol (RFC 4253)"
+    url: "https://datatracker.ietf.org/doc/html/rfc4253"
 ---
 
 # SSH

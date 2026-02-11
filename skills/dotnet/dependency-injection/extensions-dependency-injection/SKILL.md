@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET Dependency Injection Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection"
+  - title: "Microsoft.Extensions.DependencyInjection NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # Microsoft.Extensions.DependencyInjection

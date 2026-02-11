@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "C# Functional Programming Documentation on Microsoft Learn",
+      "url": "https://learn.microsoft.com/dotnet/csharp/fundamentals/functional/pattern-matching"
+    },
+    {
+      "title": "C# Language Reference on Microsoft Learn",
+      "url": "https://learn.microsoft.com/dotnet/csharp/"
+    }
+  ]
 }

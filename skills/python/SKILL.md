@@ -17,6 +17,13 @@ metadata:
     - pyproject
     - cli
 compatibility: claude, copilot, cursor
+references:
+  - title: "Python Official Documentation"
+    url: "https://docs.python.org/3/"
+  - title: "CPython GitHub Repository"
+    url: "https://github.com/python/cpython"
+  - title: "Python Packaging User Guide"
+    url: "https://packaging.python.org/en/latest/"
 ---
 
 # Python Skills

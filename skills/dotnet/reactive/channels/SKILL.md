@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "System.Threading.Channels Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/channels"
+  - title: "System.Threading.Channels NuGet Package"
+    url: "https://www.nuget.org/packages/System.Threading.Channels"
 ---
 
 # System.Threading.Channels

@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Topshelf Documentation"
+    url: "https://topshelf.readthedocs.io/en/latest/"
+  - title: "Topshelf GitHub Repository"
+    url: "https://github.com/Topshelf/Topshelf"
+  - title: "Topshelf NuGet Package"
+    url: "https://www.nuget.org/packages/Topshelf"
 ---
 
 # Topshelf

@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Model Context Protocol Documentation",
+      "url": "https://modelcontextprotocol.io"
+    },
+    {
+      "title": "MCP C# SDK GitHub Repository",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk"
+    },
+    {
+      "title": "ModelContextProtocol NuGet Package",
+      "url": "https://www.nuget.org/packages/ModelContextProtocol"
+    }
+  ]
 }

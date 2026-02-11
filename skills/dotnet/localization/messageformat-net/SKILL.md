@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "MessageFormat.NET GitHub Repository"
+    url: "https://github.com/jeffijoe/messageformat.net"
+  - title: "MessageFormat NuGet Package"
+    url: "https://www.nuget.org/packages/MessageFormat"
 ---
 
 # MessageFormat.NET

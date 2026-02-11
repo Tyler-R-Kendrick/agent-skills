@@ -9,6 +9,11 @@ metadata:
   displayName: "TOGAF"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "TOGAF — The Open Group"
+    url: "https://www.opengroup.org/togaf"
+  - title: "TOGAF Standard — Digital Edition"
+    url: "https://pubs.opengroup.org/togaf-standard/"
 ---
 
 # TOGAF - The Open Group Architecture Framework

@@ -9,6 +9,11 @@ metadata:
   displayName: "Progressive Web Apps"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "web.dev — Learn PWA"
+    url: "https://web.dev/learn/pwa"
+  - title: "MDN Web Docs — Progressive Web Apps"
+    url: "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
 ---
 
 # Progressive Web Apps (PWA)

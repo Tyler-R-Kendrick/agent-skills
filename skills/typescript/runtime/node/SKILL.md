@@ -9,6 +9,13 @@ metadata:
   displayName: "Node.js"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Node.js Documentation"
+    url: "https://nodejs.org"
+  - title: "Node.js GitHub Repository"
+    url: "https://github.com/nodejs/node"
+  - title: "Node.js API Documentation"
+    url: "https://nodejs.org/docs/latest/api/"
 ---
 
 # Node.js

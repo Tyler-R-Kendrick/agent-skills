@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MassTransit Documentation (includes Automatonymous)"
+    url: "https://masstransit.io/"
+  - title: "Automatonymous GitHub Repository"
+    url: "https://github.com/MassTransit/Automatonymous"
+  - title: "MassTransit NuGet Package"
+    url: "https://www.nuget.org/packages/MassTransit"
 ---
 
 # Automatonymous

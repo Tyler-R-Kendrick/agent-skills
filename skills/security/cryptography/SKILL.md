@@ -9,6 +9,13 @@ metadata:
   displayName: "Cryptography"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "NIST SP 800-57 Recommendation for Key Management"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final"
+  - title: "OWASP Cryptographic Storage Cheat Sheet"
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html"
+  - title: "NIST SP 800-175B Guide to Secure Web Services"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final"
 ---
 
 # Cryptography

@@ -9,6 +9,11 @@ metadata:
   displayName: "Design Patterns (GoF)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.Guru — Design Patterns"
+    url: "https://refactoring.guru/design-patterns"
+  - title: "Design Patterns: Elements of Reusable Object-Oriented Software — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Design_Patterns"
 ---
 
 # Design Patterns (Gang of Four)

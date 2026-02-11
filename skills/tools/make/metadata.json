@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "GNU Make Manual",
+      "url": "https://www.gnu.org/software/make/manual/"
+    },
+    {
+      "title": "Just GitHub Repository",
+      "url": "https://github.com/casey/just"
+    },
+    {
+      "title": "Task (Taskfile) Documentation",
+      "url": "https://taskfile.dev"
+    }
+  ]
 }

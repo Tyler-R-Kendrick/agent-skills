@@ -9,6 +9,11 @@ metadata:
   displayName: "AP2 (Agent Payments Protocol)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "AP2 (Agent Payments Protocol) GitHub Repository"
+    url: "https://github.com/google/anthropic-agent-payments-protocol"
+  - title: "Google A2A Protocol (AP2 Extension)"
+    url: "https://github.com/google/A2A"
 ---
 
 # AP2 — Agent Payments Protocol

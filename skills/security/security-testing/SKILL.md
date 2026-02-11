@@ -9,6 +9,13 @@ metadata:
   displayName: "Security Testing Tools"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Web Security Testing Guide"
+    url: "https://owasp.org/www-project-web-security-testing-guide/"
+  - title: "NIST SP 800-115 Technical Guide to Information Security Testing"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-115/final"
+  - title: "Semgrep Documentation"
+    url: "https://semgrep.dev/docs/"
 ---
 
 # Security Testing Tools

@@ -11,5 +11,10 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "Population.NET GitHub Repository",
+      "url": "https://github.com/Authentic199/Population.NET"
+    }
+  ]
 }

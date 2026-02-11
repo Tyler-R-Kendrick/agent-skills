@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "ONNX Runtime Documentation",
+      "url": "https://onnxruntime.ai"
+    },
+    {
+      "title": "ONNX Runtime GitHub Repository",
+      "url": "https://github.com/microsoft/onnxruntime"
+    },
+    {
+      "title": "Microsoft.ML.OnnxRuntime NuGet Package",
+      "url": "https://www.nuget.org/packages/Microsoft.ML.OnnxRuntime"
+    }
+  ]
 }

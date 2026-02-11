@@ -9,6 +9,11 @@ metadata:
   displayName: "A2A (Agent-to-Agent Protocol)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "A2A Protocol GitHub Repository"
+    url: "https://github.com/google/A2A"
+  - title: "A2A Protocol Specification"
+    url: "https://google.github.io/A2A/"
 ---
 
 # A2A — Agent-to-Agent Protocol

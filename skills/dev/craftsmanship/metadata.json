@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Manifesto for Software Craftsmanship",
+      "url": "http://manifesto.softwarecraftsmanship.org/"
+    },
+    {
+      "title": "The Pragmatic Programmer — pragprog.com",
+      "url": "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/"
+    }
+  ]
 }

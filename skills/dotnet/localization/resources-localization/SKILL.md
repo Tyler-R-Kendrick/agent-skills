@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET Localization Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/localization"
+  - title: "Globalization and Localization in ASP.NET Core"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization"
+  - title: "Globalize and Localize .NET Applications"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/globalization-and-localization"
 ---
 
 # Resources and Localization

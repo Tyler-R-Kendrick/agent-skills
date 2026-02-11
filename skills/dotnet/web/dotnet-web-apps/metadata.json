@@ -11,5 +11,18 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "ASP.NET Core Documentation",
+      "url": "https://learn.microsoft.com/en-us/aspnet/core/"
+    },
+    {
+      "title": "Common Web Application Architectures",
+      "url": "https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures"
+    },
+    {
+      "title": "ASP.NET Core GitHub Repository",
+      "url": "https://github.com/dotnet/aspnetcore"
+    }
+  ]
 }

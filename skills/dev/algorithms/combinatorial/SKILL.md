@@ -9,6 +9,11 @@ metadata:
   displayName: "Combinatorial Algorithms"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Art of Computer Programming, Vol. 4A: Combinatorial Algorithms — Donald Knuth"
+    url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  - title: "Combinatorial Optimization — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Combinatorial_optimization"
 ---
 
 # Combinatorial Algorithms

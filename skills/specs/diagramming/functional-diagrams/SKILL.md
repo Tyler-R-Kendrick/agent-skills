@@ -9,6 +9,11 @@ metadata:
   displayName: "Functional Diagrams"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OMG Business Process Model and Notation (BPMN) Specification"
+    url: "https://www.omg.org/spec/BPMN/"
+  - title: "Data-Flow Diagram — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Data-flow_diagram"
 ---
 
 # Functional Diagrams

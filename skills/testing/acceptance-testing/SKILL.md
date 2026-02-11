@@ -9,6 +9,13 @@ metadata:
   displayName: "Acceptance Testing (BDD)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Cucumber Documentation"
+    url: "https://cucumber.io/docs"
+  - title: "SpecFlow Documentation"
+    url: "https://docs.specflow.org"
+  - title: "Gauge Documentation (ThoughtWorks)"
+    url: "https://docs.gauge.org"
 ---
 
 # Acceptance Testing (BDD)

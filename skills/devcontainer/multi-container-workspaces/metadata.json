@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Dev Containers Specification",
+      "url": "https://containers.dev/"
+    },
+    {
+      "title": "Docker Compose Official Documentation",
+      "url": "https://docs.docker.com/compose/"
+    }
+  ]
 }

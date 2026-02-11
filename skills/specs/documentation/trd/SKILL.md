@@ -9,6 +9,9 @@ metadata:
   displayName: "TRD (Technical Requirements Document)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Software Requirements Specification — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Software_requirements_specification"
 ---
 
 # Technical Requirements Document (TRD)

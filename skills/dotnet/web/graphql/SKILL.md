@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Hot Chocolate Documentation"
+    url: "https://chillicream.com/docs/hotchocolate/v13/"
+  - title: "Hot Chocolate GitHub Repository"
+    url: "https://github.com/ChilliCream/graphql-platform"
+  - title: "HotChocolate.AspNetCore NuGet Package"
+    url: "https://www.nuget.org/packages/HotChocolate.AspNetCore"
 ---
 
 # GraphQL (Hot Chocolate)

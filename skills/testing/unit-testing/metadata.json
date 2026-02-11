@@ -7,5 +7,22 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Vitest Documentation",
+      "url": "https://vitest.dev"
+    },
+    {
+      "title": "Jest Documentation",
+      "url": "https://jestjs.io/docs/getting-started"
+    },
+    {
+      "title": "pytest Documentation",
+      "url": "https://docs.pytest.org"
+    },
+    {
+      "title": "xUnit.net Documentation",
+      "url": "https://xunit.net/#documentation"
+    }
+  ]
 }

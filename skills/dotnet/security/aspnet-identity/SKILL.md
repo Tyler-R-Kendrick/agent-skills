@@ -15,6 +15,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Introduction to Identity on ASP.NET Core"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity"
+  - title: "Microsoft.AspNetCore.Identity.EntityFrameworkCore NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore"
 ---
 
 # ASP.NET Core Identity

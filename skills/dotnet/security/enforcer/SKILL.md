@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Casbin Official Documentation"
+    url: "https://www.casbin.org/"
+  - title: "Casbin.NET GitHub Repository"
+    url: "https://github.com/casbin/Casbin.NET"
+  - title: "Casbin.NET NuGet Package"
+    url: "https://www.nuget.org/packages/Casbin.NET"
 ---
 
 # Enforcer (Casbin.NET)

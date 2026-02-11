@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "OpenTelemetry .NET Documentation"
+    url: "https://opentelemetry.io/docs/languages/dotnet/"
+  - title: "OpenTelemetry .NET GitHub Repository"
+    url: "https://github.com/open-telemetry/opentelemetry-dotnet"
+  - title: "OpenTelemetry NuGet Package"
+    url: "https://www.nuget.org/packages/OpenTelemetry"
 ---
 
 # OTLP Logging and Observability

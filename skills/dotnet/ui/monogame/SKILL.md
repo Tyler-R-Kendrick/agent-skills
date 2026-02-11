@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "MonoGame Official Documentation"
+    url: "https://docs.monogame.net/"
+  - title: "MonoGame GitHub Repository"
+    url: "https://github.com/MonoGame/MonoGame"
+  - title: "MonoGame Official Site"
+    url: "https://monogame.net/"
 ---
 
 # MonoGame

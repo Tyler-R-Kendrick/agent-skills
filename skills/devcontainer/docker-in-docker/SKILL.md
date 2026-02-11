@@ -9,6 +9,11 @@ metadata:
   displayName: "Docker-in-Docker"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Container Features — Docker-in-Docker"
+    url: "https://github.com/devcontainers/features/tree/main/src/docker-in-docker"
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
 ---
 
 # Docker-in-Docker

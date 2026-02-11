@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "OpenFeature Official Website"
+    url: "https://openfeature.dev"
+  - title: "OpenFeature .NET SDK GitHub Repository"
+    url: "https://github.com/open-feature/dotnet-sdk"
+  - title: "OpenFeature NuGet Package"
+    url: "https://www.nuget.org/packages/OpenFeature"
 ---
 
 # OpenFeature

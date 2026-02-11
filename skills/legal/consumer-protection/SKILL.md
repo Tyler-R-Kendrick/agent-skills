@@ -9,6 +9,13 @@ metadata:
   displayName: "Consumer Protection"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Federal Trade Commission (FTC) — Consumer Protection"
+    url: "https://www.ftc.gov/about-ftc/bureaus-offices/bureau-consumer-protection"
+  - title: "EU Digital Markets Act (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2022/1925/oj"
+  - title: "EU Digital Services Act (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
 ---
 
 # Consumer Protection

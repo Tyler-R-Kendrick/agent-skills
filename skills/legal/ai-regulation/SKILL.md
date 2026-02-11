@@ -9,6 +9,13 @@ metadata:
   displayName: "AI Regulation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "EU AI Act Official Text (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+  - title: "NIST AI Risk Management Framework"
+    url: "https://www.nist.gov/artificial-intelligence"
+  - title: "OECD AI Principles"
+    url: "https://oecd.ai/en/ai-principles"
 ---
 
 # AI Regulation

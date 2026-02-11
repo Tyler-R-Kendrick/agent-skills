@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Curryfy GitHub Repository"
+    url: "https://github.com/leandromoh/Curryfy"
+  - title: "Curryfy NuGet Package"
+    url: "https://www.nuget.org/packages/Curryfy"
 ---
 
 # Currying & Partial Application in C#

@@ -9,6 +9,11 @@ metadata:
   displayName: "Agent Skills Standard"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Agent Skills GitHub Repository"
+    url: "https://github.com/anthropics/agent-skills"
+  - title: "Anthropic Documentation"
+    url: "https://docs.anthropic.com"
 ---
 
 # Agent Skills

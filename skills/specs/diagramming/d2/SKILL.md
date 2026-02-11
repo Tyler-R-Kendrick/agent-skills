@@ -9,6 +9,11 @@ metadata:
   displayName: "D2"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "D2 Language Documentation"
+    url: "https://d2lang.com/"
+  - title: "D2 — GitHub Repository (Terrastruct)"
+    url: "https://github.com/terrastruct/d2"
 ---
 
 # D2 — Declarative Diagramming

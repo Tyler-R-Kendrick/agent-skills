@@ -9,6 +9,9 @@ metadata:
   displayName: "PRD (Product Requirements Document)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Product Requirements Document — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Product_requirements_document"
 ---
 
 # Product Requirements Document (PRD)

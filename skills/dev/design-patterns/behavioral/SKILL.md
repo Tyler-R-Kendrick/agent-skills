@@ -9,6 +9,11 @@ metadata:
   displayName: "Behavioral Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.Guru — Behavioral Design Patterns"
+    url: "https://refactoring.guru/design-patterns/behavioral-patterns"
+  - title: "Behavioral Pattern — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Behavioral_pattern"
 ---
 
 # Behavioral Design Patterns

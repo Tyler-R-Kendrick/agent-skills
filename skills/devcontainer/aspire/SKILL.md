@@ -9,6 +9,11 @@ metadata:
   displayName: "Dev Container — Aspire"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: ".NET Aspire Official Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/aspire/"
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
 ---
 
 # Dev Container — Aspire

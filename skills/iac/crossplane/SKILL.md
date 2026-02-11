@@ -9,6 +9,11 @@ metadata:
   displayName: "Crossplane"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Crossplane Documentation"
+    url: "https://docs.crossplane.io"
+  - title: "Crossplane GitHub Repository"
+    url: "https://github.com/crossplane/crossplane"
 ---
 
 # Crossplane

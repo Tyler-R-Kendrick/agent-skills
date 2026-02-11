@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "PdfPig Documentation"
+    url: "https://uglytoad.github.io/PdfPig/"
+  - title: "PdfPig GitHub Repository"
+    url: "https://github.com/UglyToad/PdfPig"
+  - title: "PdfPig NuGet Package"
+    url: "https://www.nuget.org/packages/PdfPig"
 ---
 
 # PdfPig

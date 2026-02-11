@@ -9,6 +9,13 @@ metadata:
   displayName: "Kubernetes"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Kubernetes Documentation"
+    url: "https://kubernetes.io/docs/home/"
+  - title: "Kubernetes API Reference"
+    url: "https://kubernetes.io/docs/reference/kubernetes-api/"
+  - title: "Kubernetes GitHub Repository"
+    url: "https://github.com/kubernetes/kubernetes"
 ---
 
 # Kubernetes

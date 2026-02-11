@@ -9,6 +9,11 @@ metadata:
   displayName: "ADR (Architecture Decision Records)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Architectural Decision Records"
+    url: "https://adr.github.io/"
+  - title: "ADR Tools — GitHub Repository"
+    url: "https://github.com/npryce/adr-tools"
 ---
 
 # Architecture Decision Records (ADR)

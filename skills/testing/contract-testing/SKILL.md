@@ -9,6 +9,13 @@ metadata:
   displayName: "Contract Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Pact Documentation"
+    url: "https://docs.pact.io"
+  - title: "PactFlow Documentation"
+    url: "https://docs.pactflow.io"
+  - title: "Spring Cloud Contract Documentation"
+    url: "https://spring.io/projects/spring-cloud-contract"
 ---
 
 # Contract Testing — Verifying API Compatibility Between Services

@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "protobuf-net GitHub Repository"
+    url: "https://github.com/protobuf-net/protobuf-net"
+  - title: "protobuf-net Documentation"
+    url: "https://protobuf-net.github.io/protobuf-net/"
+  - title: "protobuf-net NuGet Package"
+    url: "https://www.nuget.org/packages/protobuf-net"
 ---
 
 # protobuf-net

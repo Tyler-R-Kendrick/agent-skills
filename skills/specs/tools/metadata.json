@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "GitHub Spec Kit",
+      "url": "https://github.com/github/spec-kit"
+    },
+    {
+      "title": "Spec Kit — Official Documentation",
+      "url": "https://speckit.org/"
+    }
+  ]
 }

@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Node.js Documentation",
+      "url": "https://nodejs.org"
+    },
+    {
+      "title": "Node.js GitHub Repository",
+      "url": "https://github.com/nodejs/node"
+    },
+    {
+      "title": "Node.js API Documentation",
+      "url": "https://nodejs.org/docs/latest/api/"
+    }
+  ]
 }

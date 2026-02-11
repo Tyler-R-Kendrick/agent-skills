@@ -12,6 +12,9 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Plastic GitHub Repository"
+    url: "https://github.com/sang-hyeon/Plastic"
 ---
 
 # Plastic

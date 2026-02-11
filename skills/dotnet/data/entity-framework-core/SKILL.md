@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Entity Framework Core Documentation"
+    url: "https://learn.microsoft.com/en-us/ef/core/"
+  - title: "Entity Framework Core GitHub Repository"
+    url: "https://github.com/dotnet/efcore"
+  - title: "Microsoft.EntityFrameworkCore NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.EntityFrameworkCore"
 ---
 
 # Entity Framework Core

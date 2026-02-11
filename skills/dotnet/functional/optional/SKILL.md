@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Optional GitHub Repository"
+    url: "https://github.com/nlkl/Optional"
+  - title: "Optional NuGet Package"
+    url: "https://www.nuget.org/packages/Optional"
 ---
 
 # Optional Pattern in C#

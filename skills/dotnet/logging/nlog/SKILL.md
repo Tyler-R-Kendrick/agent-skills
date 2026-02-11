@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "NLog Official Website"
+    url: "https://nlog-project.org/"
+  - title: "NLog GitHub Repository"
+    url: "https://github.com/NLog/NLog"
+  - title: "NLog NuGet Package"
+    url: "https://www.nuget.org/packages/NLog"
 ---
 
 # NLog

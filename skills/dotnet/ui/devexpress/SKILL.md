@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "DevExpress Documentation"
+    url: "https://docs.devexpress.com/"
+  - title: "DevExpress Official Site"
+    url: "https://www.devexpress.com/"
 ---
 
 # DevExpress

@@ -9,6 +9,11 @@ metadata:
   displayName: "Multi-Container Workspaces"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
+  - title: "Docker Compose Official Documentation"
+    url: "https://docs.docker.com/compose/"
 ---
 
 # Multi-Container Workspaces

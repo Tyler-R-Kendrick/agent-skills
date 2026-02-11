@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "EditorConfig Official Website"
+    url: "https://editorconfig.org/"
+  - title: "EditorConfig Specification"
+    url: "https://spec.editorconfig.org/"
+  - title: "Code Style Rule Options in .NET"
+    url: "https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options"
 ---
 
 # EditorConfig for .NET

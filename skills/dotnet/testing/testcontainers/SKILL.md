@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Testcontainers for .NET Documentation"
+    url: "https://dotnet.testcontainers.org/"
+  - title: "Testcontainers .NET GitHub Repository"
+    url: "https://github.com/testcontainers/testcontainers-dotnet"
+  - title: "Testcontainers NuGet Package"
+    url: "https://www.nuget.org/packages/Testcontainers"
 ---
 
 # Testcontainers

@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Cucumber Documentation",
+      "url": "https://cucumber.io/docs"
+    },
+    {
+      "title": "SpecFlow Documentation",
+      "url": "https://docs.specflow.org"
+    },
+    {
+      "title": "Gauge Documentation (ThoughtWorks)",
+      "url": "https://docs.gauge.org"
+    }
+  ]
 }

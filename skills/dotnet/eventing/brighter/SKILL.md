@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Brighter Official Website"
+    url: "https://www.goparamore.io/"
+  - title: "Brighter GitHub Repository"
+    url: "https://github.com/BrighterCommand/Brighter"
+  - title: "Paramore.Brighter NuGet Package"
+    url: "https://www.nuget.org/packages/Paramore.Brighter"
 ---
 
 # Brighter (Paramore.Brighter)

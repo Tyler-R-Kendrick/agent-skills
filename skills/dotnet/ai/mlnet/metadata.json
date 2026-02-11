@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "ML.NET Documentation",
+      "url": "https://learn.microsoft.com/dotnet/machine-learning"
+    },
+    {
+      "title": "ML.NET GitHub Repository",
+      "url": "https://github.com/dotnet/machinelearning"
+    },
+    {
+      "title": "Microsoft.ML NuGet Package",
+      "url": "https://www.nuget.org/packages/Microsoft.ML"
+    }
+  ]
 }

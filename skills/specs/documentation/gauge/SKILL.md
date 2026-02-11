@@ -9,6 +9,11 @@ metadata:
   displayName: "Gauge"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Gauge Official Documentation"
+    url: "https://docs.gauge.org/"
+  - title: "Gauge — GitHub Repository"
+    url: "https://github.com/getgauge/gauge"
 ---
 
 # Gauge

@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "JFlepp.Maybe GitHub Repository",
+      "url": "https://github.com/fl3pp/JFlepp.Maybe"
+    },
+    {
+      "title": "JFlepp.Maybe NuGet Package",
+      "url": "https://www.nuget.org/packages/JFlepp.Maybe"
+    }
+  ]
 }

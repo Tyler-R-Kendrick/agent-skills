@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET Community Toolkit Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/introduction"
+  - title: ".NET Community Toolkit GitHub Repository"
+    url: "https://github.com/CommunityToolkit/dotnet"
+  - title: "CommunityToolkit.Diagnostics NuGet Package"
+    url: "https://www.nuget.org/packages/CommunityToolkit.Diagnostics"
 ---
 
 # CommunityToolkit Guard

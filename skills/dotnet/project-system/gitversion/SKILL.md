@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "GitVersion Documentation"
+    url: "https://gitversion.net/docs/"
+  - title: "GitVersion GitHub Repository"
+    url: "https://github.com/GitTools/GitVersion"
+  - title: "GitVersion.Tool NuGet Package"
+    url: "https://www.nuget.org/packages/GitVersion.Tool"
 ---
 
 # GitVersion

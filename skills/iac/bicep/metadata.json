@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Azure Bicep Documentation",
+      "url": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/"
+    },
+    {
+      "title": "Bicep GitHub Repository",
+      "url": "https://github.com/Azure/bicep"
+    }
+  ]
 }

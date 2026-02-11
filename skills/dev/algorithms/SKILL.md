@@ -9,6 +9,11 @@ metadata:
   displayName: "Algorithms & Data Structures"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Art of Computer Programming — Donald Knuth"
+    url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  - title: "Algorithm — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Algorithm"
 ---
 
 # Algorithms & Data Structures

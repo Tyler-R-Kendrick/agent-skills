@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Service Discovery in .NET Documentation",
+      "url": "https://learn.microsoft.com/dotnet/core/extensions/service-discovery"
+    },
+    {
+      "title": "Microsoft.Extensions.ServiceDiscovery NuGet Package",
+      "url": "https://www.nuget.org/packages/Microsoft.Extensions.ServiceDiscovery"
+    },
+    {
+      "title": ".NET Aspire GitHub Repository",
+      "url": "https://github.com/dotnet/aspire"
+    }
+  ]
 }

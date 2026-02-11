@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Telerik UI for Blazor Documentation"
+    url: "https://www.telerik.com/blazor-ui/documentation/introduction"
+  - title: "Telerik UI for Blazor Official Site"
+    url: "https://www.telerik.com/blazor-ui"
 ---
 
 # Telerik UI

@@ -9,6 +9,11 @@ metadata:
   displayName: "Twelve-Factor App"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Twelve-Factor App"
+    url: "https://12factor.net/"
+  - title: "Twelve-Factor App Methodology — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology"
 ---
 
 # The Twelve-Factor App

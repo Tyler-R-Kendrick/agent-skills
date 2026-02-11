@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "A2A Protocol GitHub Repository"
+    url: "https://github.com/a2aproject/A2A"
+  - title: "SharpA2A.Core NuGet Package"
+    url: "https://www.nuget.org/packages/SharpA2A.Core"
+  - title: "SharpA2A GitHub Repository"
+    url: "https://github.com/darrelmiller/sharpa2a"
 ---
 
 # A2A Protocol

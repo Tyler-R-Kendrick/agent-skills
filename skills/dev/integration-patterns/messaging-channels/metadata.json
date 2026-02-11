@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Enterprise Integration Patterns — Messaging Channels",
+      "url": "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingChannelsIntro.html"
+    },
+    {
+      "title": "Enterprise Integration Patterns — Hohpe & Woolf",
+      "url": "https://www.enterpriseintegrationpatterns.com/"
+    }
+  ]
 }

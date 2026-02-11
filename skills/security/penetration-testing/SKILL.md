@@ -9,6 +9,13 @@ metadata:
   displayName: "Penetration Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Web Security Testing Guide"
+    url: "https://owasp.org/www-project-web-security-testing-guide/"
+  - title: "Penetration Testing Execution Standard (PTES)"
+    url: "http://www.pentest-standard.org"
+  - title: "NIST SP 800-115 Technical Guide to Information Security Testing"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-115/final"
 ---
 
 # Penetration Testing

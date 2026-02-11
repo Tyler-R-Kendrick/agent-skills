@@ -9,6 +9,11 @@ metadata:
   displayName: "Testing Strategy"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Kent C. Dodds — Write Tests. Not Too Many. Mostly Integration."
+    url: "https://kentcdodds.com/blog/write-tests"
+  - title: "Martin Fowler — Test Pyramid"
+    url: "https://martinfowler.com/articles/practical-test-pyramid.html"
 ---
 
 # Testing Strategy — The Test Trophy

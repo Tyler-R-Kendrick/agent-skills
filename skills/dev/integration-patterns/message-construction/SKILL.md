@@ -9,6 +9,11 @@ metadata:
   displayName: "Message Construction"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Message Construction"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageConstructionIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # Message Construction

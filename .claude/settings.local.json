@@ -49,7 +49,8 @@
       "Bash(do)",
       "Bash(if [ -f \"C:\\\\src\\\\agent-skills\\\\skills\\\\dotnet$subcat\\\\SKILL.md\" ])",
       "Bash(then)",
-      "Bash(fi)"
+      "Bash(fi)",
+      "Bash(python3:*)"
     ]
   }
 }

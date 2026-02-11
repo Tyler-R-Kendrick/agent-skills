@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Topaz Official Documentation"
+    url: "https://www.topaz.sh/docs/intro"
+  - title: "Topaz GitHub Repository"
+    url: "https://github.com/aserto-dev/topaz"
+  - title: "Aserto .NET SDK GitHub Repository"
+    url: "https://github.com/aserto-dev/aserto-dotnet"
 ---
 
 # Topaz

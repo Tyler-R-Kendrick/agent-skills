@@ -9,6 +9,13 @@ metadata:
   displayName: "Event-Driven Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Event Sourcing"
+    url: "https://martinfowler.com/eaaDev/EventSourcing.html"
+  - title: "Martin Fowler — CQRS"
+    url: "https://martinfowler.com/bliki/CQRS.html"
+  - title: "Martin Fowler — What Do You Mean by Event-Driven?"
+    url: "https://martinfowler.com/articles/201701-event-driven.html"
 ---
 
 # Event-Driven Architecture, Event Sourcing & CQRS

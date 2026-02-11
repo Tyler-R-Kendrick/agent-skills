@@ -9,6 +9,13 @@ metadata:
   displayName: "Git"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Git Documentation"
+    url: "https://git-scm.com/doc"
+  - title: "Pro Git Book (Official)"
+    url: "https://git-scm.com/book/en/v2"
+  - title: "Git GitHub Repository"
+    url: "https://github.com/git/git"
 ---
 
 # Git

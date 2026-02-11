@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Martin Fowler — Micro Frontends",
+      "url": "https://martinfowler.com/articles/micro-frontends.html"
+    },
+    {
+      "title": "Micro-Frontends — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Microfrontend"
+    }
+  ]
 }

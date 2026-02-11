@@ -9,6 +9,13 @@ metadata:
   displayName: "TypeScript"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "TypeScript Documentation"
+    url: "https://www.typescriptlang.org"
+  - title: "TypeScript GitHub Repository"
+    url: "https://github.com/microsoft/TypeScript"
+  - title: "typescript npm Package"
+    url: "https://www.npmjs.com/package/typescript"
 ---
 
 # TypeScript

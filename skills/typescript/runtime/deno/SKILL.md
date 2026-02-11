@@ -9,6 +9,13 @@ metadata:
   displayName: "Deno"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Deno Documentation"
+    url: "https://docs.deno.com"
+  - title: "Deno GitHub Repository"
+    url: "https://github.com/denoland/deno"
+  - title: "Deno Standard Library"
+    url: "https://jsr.io/@std"
 ---
 
 # Deno

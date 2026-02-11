@@ -5,6 +5,11 @@ license: MIT
 metadata:
   displayName: ".NET Cheatsheet (Modern)"
   author: "Tyler-R-Kendrick"
+references:
+  - title: ".NET Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/"
+  - title: ".NET GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # .NET Cheatsheet (Modern)

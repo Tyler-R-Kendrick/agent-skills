@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Introduction to Resilient App Development"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/resilience/"
+  - title: "Build Resilient HTTP Apps"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience"
+  - title: "Microsoft.Extensions.Resilience NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Resilience"
 ---
 
 # Microsoft.Extensions.Resilience

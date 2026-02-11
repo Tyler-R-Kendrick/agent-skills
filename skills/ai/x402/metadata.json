@@ -7,5 +7,14 @@
   "license": "Apache-2.0",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "x402 Protocol GitHub Repository",
+      "url": "https://github.com/coinbase/x402"
+    },
+    {
+      "title": "x402 Documentation",
+      "url": "https://www.x402.org"
+    }
+  ]
 }

@@ -9,6 +9,11 @@ metadata:
   displayName: "Creational Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.Guru — Creational Design Patterns"
+    url: "https://refactoring.guru/design-patterns/creational-patterns"
+  - title: "Creational Pattern — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Creational_pattern"
 ---
 
 # Creational Design Patterns

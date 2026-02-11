@@ -9,6 +9,13 @@ metadata:
   displayName: "Dev Container — TypeScript"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
+  - title: "TypeScript Official Documentation"
+    url: "https://www.typescriptlang.org/docs/"
+  - title: "Node.js Official Documentation"
+    url: "https://nodejs.org/docs/latest/api/"
 ---
 
 # Dev Container — TypeScript

@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Stateless GitHub Repository"
+    url: "https://github.com/dotnet-state-machine/stateless"
+  - title: "Stateless NuGet Package"
+    url: "https://www.nuget.org/packages/Stateless"
 ---
 
 # Stateless

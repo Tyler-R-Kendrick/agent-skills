@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "TimeProvider Class Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/standard/datetime/timeprovider-overview"
+  - title: "Microsoft.Extensions.TimeProvider.Testing NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.TimeProvider.Testing"
 ---
 
 # TimeProvider

@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Twilio Documentation"
+    url: "https://www.twilio.com/docs"
+  - title: "Twilio C#/.NET SDK GitHub Repository"
+    url: "https://github.com/twilio/twilio-csharp"
+  - title: "Twilio NuGet Package"
+    url: "https://www.nuget.org/packages/Twilio"
 ---
 
 # Twilio

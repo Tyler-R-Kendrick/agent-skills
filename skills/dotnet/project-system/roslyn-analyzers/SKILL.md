@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Roslyn Analyzers Overview"
+    url: "https://learn.microsoft.com/en-us/visualstudio/code-quality/roslyn-analyzers-overview"
+  - title: "dotnet/roslyn-analyzers GitHub Repository"
+    url: "https://github.com/dotnet/roslyn-analyzers"
+  - title: "Microsoft.CodeAnalysis.NetAnalyzers NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.CodeAnalysis.NetAnalyzers"
 ---
 
 # Roslyn Analyzers

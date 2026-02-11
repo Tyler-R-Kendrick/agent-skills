@@ -9,6 +9,13 @@ metadata:
   displayName: "Pulumi"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Pulumi Documentation"
+    url: "https://www.pulumi.com/docs/"
+  - title: "Pulumi GitHub Repository"
+    url: "https://github.com/pulumi/pulumi"
+  - title: "Pulumi Registry"
+    url: "https://www.pulumi.com/registry/"
 ---
 
 # Pulumi

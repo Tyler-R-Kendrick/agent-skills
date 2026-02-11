@@ -9,6 +9,11 @@ metadata:
   displayName: "Style Dictionary"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Style Dictionary Official Documentation"
+    url: "https://styledictionary.com/"
+  - title: "Style Dictionary — GitHub Repository"
+    url: "https://github.com/amzn/style-dictionary"
 ---
 
 # Style Dictionary

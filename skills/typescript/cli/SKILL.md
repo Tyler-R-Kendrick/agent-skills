@@ -9,6 +9,15 @@ metadata:
   displayName: "TypeScript CLI Development"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Commander.js GitHub Repository"
+    url: "https://github.com/tj/commander.js"
+  - title: "Yargs Documentation"
+    url: "https://yargs.js.org"
+  - title: "oclif Documentation"
+    url: "https://oclif.io"
+  - title: "Ink GitHub Repository"
+    url: "https://github.com/vadimdemedes/ink"
 ---
 
 # TypeScript CLI Development

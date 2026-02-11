@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "The Art of Computer Programming — Donald Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+    },
+    {
+      "title": "Algorithm — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Algorithm"
+    }
+  ]
 }

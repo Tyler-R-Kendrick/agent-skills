@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Wolverine Official Documentation"
+    url: "https://wolverinefx.net/"
+  - title: "Wolverine GitHub Repository"
+    url: "https://github.com/JasperFx/wolverine"
+  - title: "WolverineFx NuGet Package"
+    url: "https://www.nuget.org/packages/WolverineFx"
 ---
 
 # Wolverine

@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Avalonia UI Official Documentation"
+    url: "https://docs.avaloniaui.net/"
+  - title: "Avalonia GitHub Repository"
+    url: "https://github.com/AvaloniaUI/Avalonia"
+  - title: "Avalonia NuGet Package"
+    url: "https://www.nuget.org/packages/Avalonia"
 ---
 
 # Avalonia

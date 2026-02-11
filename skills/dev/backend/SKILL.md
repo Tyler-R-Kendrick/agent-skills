@@ -9,6 +9,11 @@ metadata:
   displayName: "Backend Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Patterns of Enterprise Application Architecture"
+    url: "https://martinfowler.com/eaaCatalog/"
+  - title: "OpenAPI Specification"
+    url: "https://www.openapis.org/"
 ---
 
 # Backend Architecture

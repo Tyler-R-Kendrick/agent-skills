@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Dev Containers Specification",
+      "url": "https://containers.dev/"
+    },
+    {
+      "title": "TypeScript Official Documentation",
+      "url": "https://www.typescriptlang.org/docs/"
+    },
+    {
+      "title": "Node.js Official Documentation",
+      "url": "https://nodejs.org/docs/latest/api/"
+    }
+  ]
 }

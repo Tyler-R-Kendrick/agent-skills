@@ -9,6 +9,11 @@ metadata:
   displayName: "Helm"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Helm Documentation"
+    url: "https://helm.sh/docs/"
+  - title: "Helm GitHub Repository"
+    url: "https://github.com/helm/helm"
 ---
 
 # Helm

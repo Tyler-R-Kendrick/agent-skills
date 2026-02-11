@@ -9,6 +9,13 @@ metadata:
   displayName: "Financial Regulation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "PCI Security Standards Council"
+    url: "https://www.pcisecuritystandards.org"
+  - title: "PSD2 Directive Official Text (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/dir/2015/2366/oj"
+  - title: "U.S. Securities and Exchange Commission (SEC)"
+    url: "https://www.sec.gov"
 ---
 
 # Financial Regulation

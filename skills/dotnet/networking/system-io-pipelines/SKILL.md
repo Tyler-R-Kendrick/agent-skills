@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "System.IO.Pipelines Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/standard/io/pipelines"
+  - title: "System.IO.Pipelines NuGet Package"
+    url: "https://www.nuget.org/packages/System.IO.Pipelines"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # System.IO.Pipelines

@@ -9,6 +9,13 @@ metadata:
   displayName: "AI Security"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Top 10 for LLM Applications"
+    url: "https://owasp.org/www-project-top-10-for-large-language-model-applications/"
+  - title: "NIST AI Risk Management Framework"
+    url: "https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence"
+  - title: "MITRE ATLAS (Adversarial Threat Landscape for AI Systems)"
+    url: "https://atlas.mitre.org"
 ---
 
 # AI Security

@@ -9,6 +9,13 @@ metadata:
   displayName: "End-to-End Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Playwright Documentation"
+    url: "https://playwright.dev/docs/intro"
+  - title: "Cypress Documentation"
+    url: "https://docs.cypress.io"
+  - title: "Selenium Documentation"
+    url: "https://www.selenium.dev/documentation/"
 ---
 
 # End-to-End Testing — Testing Full User Flows

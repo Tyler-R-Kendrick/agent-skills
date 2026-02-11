@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "language-ext GitHub Repository"
+    url: "https://github.com/louthy/language-ext"
+  - title: "LanguageExt.Core NuGet Package"
+    url: "https://www.nuget.org/packages/LanguageExt.Core"
+  - title: "language-ext Wiki"
+    url: "https://github.com/louthy/language-ext/wiki"
 ---
 
 # language-ext

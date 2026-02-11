@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Kent C. Dodds — Write Tests. Not Too Many. Mostly Integration.",
+      "url": "https://kentcdodds.com/blog/write-tests"
+    },
+    {
+      "title": "Martin Fowler — Test Pyramid",
+      "url": "https://martinfowler.com/articles/practical-test-pyramid.html"
+    }
+  ]
 }

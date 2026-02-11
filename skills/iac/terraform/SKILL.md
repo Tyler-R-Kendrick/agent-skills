@@ -9,6 +9,13 @@ metadata:
   displayName: "Terraform"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Terraform Documentation"
+    url: "https://developer.hashicorp.com/terraform/docs"
+  - title: "Terraform GitHub Repository"
+    url: "https://github.com/hashicorp/terraform"
+  - title: "Terraform Registry"
+    url: "https://registry.terraform.io"
 ---
 
 # Terraform

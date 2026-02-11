@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "ASP.NET Core Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/"
+  - title: "ASP.NET Core GitHub Repository"
+    url: "https://github.com/dotnet/aspnetcore"
 ---
 
 # ASP.NET Core

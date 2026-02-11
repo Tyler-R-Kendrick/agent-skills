@@ -9,6 +9,11 @@ metadata:
   displayName: "Caching Strategies & Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MDN Web Docs — HTTP Caching"
+    url: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching"
+  - title: "Cache (Computing) — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Cache_(computing)"
 ---
 
 # Caching Strategies & Patterns

@@ -9,6 +9,11 @@ metadata:
   displayName: "Legal & Compliance"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GDPR Official Text"
+    url: "https://gdpr-info.eu"
+  - title: "NIST Privacy Framework"
+    url: "https://www.nist.gov/privacy-framework"
 ---
 
 # Legal & Compliance

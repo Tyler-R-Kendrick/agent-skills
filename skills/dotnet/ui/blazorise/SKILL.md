@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Blazorise Official Documentation"
+    url: "https://blazorise.com/docs/start"
+  - title: "Blazorise GitHub Repository"
+    url: "https://github.com/Megabit/Blazorise"
+  - title: "Blazorise NuGet Package"
+    url: "https://www.nuget.org/packages/Blazorise"
 ---
 
 # Blazorise

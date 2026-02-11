@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "AGENTS.md Specification GitHub Repository",
+      "url": "https://github.com/anthropics/agent-skills"
+    },
+    {
+      "title": "Claude Code Documentation",
+      "url": "https://docs.anthropic.com/en/docs/claude-code"
+    }
+  ]
 }

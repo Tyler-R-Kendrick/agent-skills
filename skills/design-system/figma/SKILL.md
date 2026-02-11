@@ -9,6 +9,11 @@ metadata:
   displayName: "Figma"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Figma Developer Documentation"
+    url: "https://developers.figma.com/"
+  - title: "Figma — Official Website"
+    url: "https://www.figma.com/developers"
 ---
 
 # Figma — Design-to-Code

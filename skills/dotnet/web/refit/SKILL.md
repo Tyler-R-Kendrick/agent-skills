@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Refit GitHub Repository"
+    url: "https://github.com/reactiveui/refit"
+  - title: "Refit NuGet Package"
+    url: "https://www.nuget.org/packages/Refit"
 ---
 
 # Refit

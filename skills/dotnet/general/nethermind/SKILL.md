@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Nethermind Documentation"
+    url: "https://docs.nethermind.io/"
+  - title: "Nethermind GitHub Repository"
+    url: "https://github.com/NethermindEth/nethermind"
+  - title: "Nethermind Official Website"
+    url: "https://www.nethermind.io/"
 ---
 
 # Nethermind

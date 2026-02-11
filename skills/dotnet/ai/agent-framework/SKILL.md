@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Semantic Kernel Documentation"
+    url: "https://learn.microsoft.com/semantic-kernel"
+  - title: "Semantic Kernel GitHub Repository"
+    url: "https://github.com/microsoft/semantic-kernel"
+  - title: "Microsoft.SemanticKernel NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.SemanticKernel"
 ---
 
 # Agent Framework

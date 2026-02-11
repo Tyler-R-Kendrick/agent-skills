@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Playwright .NET Documentation"
+    url: "https://playwright.dev/dotnet/docs/intro"
+  - title: "Playwright .NET GitHub Repository"
+    url: "https://github.com/microsoft/playwright-dotnet"
+  - title: "Microsoft.Playwright NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Playwright"
 ---
 
 # Playwright

@@ -9,6 +9,11 @@ metadata:
   displayName: "PowerShell Core"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "PowerShell Documentation (Microsoft)"
+    url: "https://learn.microsoft.com/en-us/powershell/"
+  - title: "PowerShell GitHub Repository"
+    url: "https://github.com/PowerShell/PowerShell"
 ---
 
 # PowerShell Core

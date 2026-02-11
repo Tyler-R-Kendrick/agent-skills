@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Worker Services in .NET Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/workers"
+  - title: "Background Tasks with Hosted Services in ASP.NET Core"
+    url: "https://learn.microsoft.com/aspnet/core/fundamentals/host/hosted-services"
 ---
 
 # .NET Worker Services

@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET Generic Host Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/generic-host"
+  - title: "Microsoft.Extensions.Hosting NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Hosting"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # .NET Generic Host

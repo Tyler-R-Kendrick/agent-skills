@@ -9,6 +9,11 @@ metadata:
   displayName: "AWS CloudFormation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "AWS CloudFormation Documentation"
+    url: "https://docs.aws.amazon.com/cloudformation/"
+  - title: "AWS CloudFormation Resource and Property Types Reference"
+    url: "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html"
 ---
 
 # AWS CloudFormation

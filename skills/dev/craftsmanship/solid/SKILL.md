@@ -9,6 +9,11 @@ metadata:
   displayName: "SOLID Principles"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Robert C. Martin — The Principles of OOD"
+    url: "http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod"
+  - title: "SOLID — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/SOLID"
 ---
 
 # SOLID Principles

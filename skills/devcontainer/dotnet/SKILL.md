@@ -9,6 +9,11 @@ metadata:
   displayName: "Dev Container — .NET"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
+  - title: ".NET Official Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/"
 ---
 
 # Dev Container — .NET

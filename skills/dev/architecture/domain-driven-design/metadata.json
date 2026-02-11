@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Martin Fowler — Domain-Driven Design",
+      "url": "https://martinfowler.com/bliki/DomainDrivenDesign.html"
+    },
+    {
+      "title": "Domain-Driven Design — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Domain-driven_design"
+    }
+  ]
 }

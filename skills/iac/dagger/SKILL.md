@@ -9,6 +9,11 @@ metadata:
   displayName: "Dagger"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dagger Documentation"
+    url: "https://docs.dagger.io"
+  - title: "Dagger GitHub Repository"
+    url: "https://github.com/dagger/dagger"
 ---
 
 # Dagger

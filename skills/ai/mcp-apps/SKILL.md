@@ -9,6 +9,11 @@ metadata:
   displayName: "MCP Apps"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Model Context Protocol Specification"
+    url: "https://modelcontextprotocol.io"
+  - title: "MCP GitHub Repository"
+    url: "https://github.com/modelcontextprotocol"
 ---
 
 # MCP Apps

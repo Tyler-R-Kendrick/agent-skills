@@ -16,6 +16,13 @@ metadata:
     - aspnet
     - nuget
 compatibility: claude, copilot, cursor
+references:
+  - title: ".NET Documentation"
+    url: "https://learn.microsoft.com/dotnet"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
+  - title: "NuGet Package Gallery"
+    url: "https://www.nuget.org"
 ---
 
 # .NET

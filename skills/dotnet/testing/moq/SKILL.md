@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Moq GitHub Repository"
+    url: "https://github.com/devlooped/moq"
+  - title: "Moq Quickstart Guide"
+    url: "https://github.com/devlooped/moq/wiki/Quickstart"
+  - title: "Moq NuGet Package"
+    url: "https://www.nuget.org/packages/Moq"
 ---
 
 # Moq

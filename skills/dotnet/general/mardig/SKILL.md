@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Markdig GitHub Repository"
+    url: "https://github.com/xoofx/markdig"
+  - title: "Markdig NuGet Package"
+    url: "https://www.nuget.org/packages/Markdig"
 ---
 
 # Markdig

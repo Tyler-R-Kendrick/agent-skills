@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Pidgin GitHub Repository"
+    url: "https://github.com/benjamin-hodgson/Pidgin"
+  - title: "Pidgin NuGet Package"
+    url: "https://www.nuget.org/packages/Pidgin"
 ---
 
 # Pidgin

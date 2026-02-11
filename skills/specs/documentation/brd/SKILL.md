@@ -9,6 +9,9 @@ metadata:
   displayName: "BRD (Business Requirements Document)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Business Requirements — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Business_requirements"
 ---
 
 # Business Requirements Document (BRD)

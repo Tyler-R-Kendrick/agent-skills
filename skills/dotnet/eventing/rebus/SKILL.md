@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Rebus Official Website"
+    url: "https://rebus.fm/"
+  - title: "Rebus GitHub Repository"
+    url: "https://github.com/rebus-org/Rebus"
+  - title: "Rebus NuGet Package"
+    url: "https://www.nuget.org/packages/Rebus"
 ---
 
 # Rebus

@@ -9,6 +9,11 @@ metadata:
   displayName: "Azure Bicep"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Azure Bicep Documentation"
+    url: "https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/"
+  - title: "Bicep GitHub Repository"
+    url: "https://github.com/Azure/bicep"
 ---
 
 # Azure Bicep

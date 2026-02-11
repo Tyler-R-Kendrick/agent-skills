@@ -9,6 +9,13 @@ metadata:
   displayName: "Development Fundamentals"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.Guru — Design Patterns"
+    url: "https://refactoring.guru/design-patterns"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
+  - title: "Martin Fowler — Software Architecture Guide"
+    url: "https://martinfowler.com/architecture/"
 ---
 
 # Development Fundamentals

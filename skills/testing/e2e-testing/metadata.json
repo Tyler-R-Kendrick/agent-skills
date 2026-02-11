@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Playwright Documentation",
+      "url": "https://playwright.dev/docs/intro"
+    },
+    {
+      "title": "Cypress Documentation",
+      "url": "https://docs.cypress.io"
+    },
+    {
+      "title": "Selenium Documentation",
+      "url": "https://www.selenium.dev/documentation/"
+    }
+  ]
 }

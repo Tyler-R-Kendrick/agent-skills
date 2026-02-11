@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Stl.Fusion GitHub Repository"
+    url: "https://github.com/servicetitan/Stl.Fusion"
+  - title: "Stl.Fusion NuGet Package"
+    url: "https://www.nuget.org/packages/Stl.Fusion"
 ---
 
 # Blazor Fusion (Stl.Fusion)

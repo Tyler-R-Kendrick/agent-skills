@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: ".NET Aspire Documentation"
+    url: "https://learn.microsoft.com/dotnet/aspire"
+  - title: ".NET Aspire GitHub Repository"
+    url: "https://github.com/dotnet/aspire"
 ---
 
 # .NET Aspire

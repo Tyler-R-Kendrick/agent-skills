@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MediatR GitHub Repository"
+    url: "https://github.com/jbogard/MediatR"
+  - title: "MediatR NuGet Package"
+    url: "https://www.nuget.org/packages/MediatR"
 ---
 
 # MediatR

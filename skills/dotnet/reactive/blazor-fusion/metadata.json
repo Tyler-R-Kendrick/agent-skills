@@ -11,5 +11,14 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "Stl.Fusion GitHub Repository",
+      "url": "https://github.com/servicetitan/Stl.Fusion"
+    },
+    {
+      "title": "Stl.Fusion NuGet Package",
+      "url": "https://www.nuget.org/packages/Stl.Fusion"
+    }
+  ]
 }

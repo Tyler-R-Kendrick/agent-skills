@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "M31.FluentAPI GitHub Repository"
+    url: "https://github.com/m31coding/M31.FluentAPI"
+  - title: "M31.FluentAPI NuGet Package"
+    url: "https://www.nuget.org/packages/M31.FluentAPI"
 ---
 
 # M31.FluentAPI

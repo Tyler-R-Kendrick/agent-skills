@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Model Context Protocol Specification",
+      "url": "https://modelcontextprotocol.io"
+    },
+    {
+      "title": "MCP GitHub Repository",
+      "url": "https://github.com/modelcontextprotocol"
+    },
+    {
+      "title": "Anthropic MCP Documentation",
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/mcp"
+    }
+  ]
 }

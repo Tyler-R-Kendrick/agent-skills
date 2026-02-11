@@ -9,6 +9,13 @@ metadata:
   displayName: "Export Controls"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "U.S. Bureau of Industry and Security — Export Administration Regulations (EAR)"
+    url: "https://www.bis.gov/regulations"
+  - title: "The Wassenaar Arrangement"
+    url: "https://www.wassenaar.org"
+  - title: "OFAC Sanctions Programs and Information"
+    url: "https://ofac.treasury.gov/sanctions-programs-and-information"
 ---
 
 # Export Controls

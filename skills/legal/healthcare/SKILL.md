@@ -9,6 +9,13 @@ metadata:
   displayName: "Healthcare Regulation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "U.S. Department of Health & Human Services — HIPAA"
+    url: "https://www.hhs.gov/hipaa/index.html"
+  - title: "FDA Digital Health Center of Excellence"
+    url: "https://www.fda.gov/medical-devices/digital-health-center-excellence"
+  - title: "EU Medical Devices Regulation (MDR) (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2017/745/oj"
 ---
 
 # Healthcare Regulation

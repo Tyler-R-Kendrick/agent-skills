@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Feature Management Documentation"
+    url: "https://learn.microsoft.com/azure/azure-app-configuration/concept-feature-management"
+  - title: "FeatureManagement-Dotnet GitHub Repository"
+    url: "https://github.com/microsoft/FeatureManagement-Dotnet"
+  - title: "Microsoft.FeatureManagement NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.FeatureManagement"
 ---
 
 # Microsoft.FeatureManagement

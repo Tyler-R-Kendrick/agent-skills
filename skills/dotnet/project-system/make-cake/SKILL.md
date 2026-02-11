@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Cake Build Documentation"
+    url: "https://cakebuild.net/docs/"
+  - title: "Cake Build GitHub Repository"
+    url: "https://github.com/cake-build/cake"
+  - title: "Cake.Tool NuGet Package"
+    url: "https://www.nuget.org/packages/Cake.Tool"
 ---
 
 # Cake Build (C# Make)

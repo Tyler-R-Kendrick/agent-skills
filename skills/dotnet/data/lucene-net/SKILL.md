@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Apache Lucene.NET Official Website"
+    url: "https://lucenenet.apache.org/"
+  - title: "Lucene.NET GitHub Repository"
+    url: "https://github.com/apache/lucenenet"
+  - title: "Lucene.Net NuGet Package"
+    url: "https://www.nuget.org/packages/Lucene.Net"
 ---
 
 # Lucene.NET

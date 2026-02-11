@@ -9,6 +9,11 @@ metadata:
   displayName: "Single Page Applications"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MDN Web Docs — Single-Page Applications"
+    url: "https://developer.mozilla.org/en-US/docs/Glossary/SPA"
+  - title: "Single-Page Application — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Single-page_application"
 ---
 
 # Single Page Applications (SPA)

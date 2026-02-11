@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Serilog Official Website"
+    url: "https://serilog.net/"
+  - title: "Serilog GitHub Repository"
+    url: "https://github.com/serilog/serilog"
+  - title: "Serilog NuGet Package"
+    url: "https://www.nuget.org/packages/Serilog"
 ---
 
 # Serilog

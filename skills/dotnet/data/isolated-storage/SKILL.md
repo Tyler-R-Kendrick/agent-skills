@@ -15,6 +15,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Isolated Storage Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/standard/io/isolated-storage"
+  - title: "IsolatedStorageFile Class API Reference"
+    url: "https://learn.microsoft.com/en-us/dotnet/api/system.io.isolatedstorage.isolatedstoragefile"
 ---
 
 # Isolated Storage

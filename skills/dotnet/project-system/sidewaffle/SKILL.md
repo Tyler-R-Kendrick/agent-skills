@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Custom Templates for dotnet new"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/tools/custom-templates"
+  - title: "dotnet/templating GitHub Repository"
+    url: "https://github.com/dotnet/templating"
+  - title: "dotnet new CLI Reference"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-new"
 ---
 
 # SideWaffle / dotnet new Templates

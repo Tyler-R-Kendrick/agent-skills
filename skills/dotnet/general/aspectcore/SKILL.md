@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "AspectCore Framework GitHub Repository"
+    url: "https://github.com/dotnetcore/AspectCore-Framework"
+  - title: "AspectCore.Core NuGet Package"
+    url: "https://www.nuget.org/packages/AspectCore.Core"
 ---
 
 # AspectCore

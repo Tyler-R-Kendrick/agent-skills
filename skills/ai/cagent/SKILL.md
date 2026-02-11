@@ -9,6 +9,11 @@ metadata:
   displayName: "cagent (Docker Agent Runtime)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "cagent GitHub Repository"
+    url: "https://github.com/docker/cagent"
+  - title: "Docker Documentation"
+    url: "https://docs.docker.com"
 ---
 
 # cagent — Docker Agent Runtime

@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Enterprise Integration Patterns — Hohpe & Woolf",
+      "url": "https://www.enterpriseintegrationpatterns.com/"
+    },
+    {
+      "title": "Enterprise Integration Patterns — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns"
+    }
+  ]
 }

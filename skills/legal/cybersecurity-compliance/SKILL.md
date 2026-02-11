@@ -9,6 +9,13 @@ metadata:
   displayName: "Cybersecurity Compliance"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "NIS2 Directive Official Text (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/dir/2022/2555/oj"
+  - title: "ISO/IEC 27001 Information Security Management"
+    url: "https://www.iso.org/standard/27001"
+  - title: "NIST Cybersecurity Framework"
+    url: "https://www.nist.gov/cyberframework"
 ---
 
 # Cybersecurity Compliance

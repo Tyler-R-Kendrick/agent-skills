@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Azure AI Model Inference API Documentation"
+    url: "https://learn.microsoft.com/azure/ai-studio/reference/reference-model-inference-api"
+  - title: "Azure SDK for .NET GitHub Repository"
+    url: "https://github.com/Azure/azure-sdk-for-net"
+  - title: "Azure.AI.Inference NuGet Package"
+    url: "https://www.nuget.org/packages/Azure.AI.Inference"
 ---
 
 # Azure.AI.Inference

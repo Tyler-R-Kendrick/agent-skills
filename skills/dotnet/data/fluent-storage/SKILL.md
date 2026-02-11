@@ -15,6 +15,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "FluentStorage GitHub Repository"
+    url: "https://github.com/robinrodricks/FluentStorage"
+  - title: "FluentStorage NuGet Package"
+    url: "https://www.nuget.org/packages/FluentStorage"
 ---
 
 # FluentStorage

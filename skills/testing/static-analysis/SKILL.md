@@ -9,6 +9,13 @@ metadata:
   displayName: "Static Analysis"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Semgrep Documentation"
+    url: "https://semgrep.dev/docs/"
+  - title: "ESLint Documentation"
+    url: "https://eslint.org/docs/latest/"
+  - title: "SonarQube Documentation"
+    url: "https://docs.sonarsource.com/sonarqube/latest/"
 ---
 
 # Static Analysis — Catching Bugs at Write Time

@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "GNU Bash Reference Manual",
+      "url": "https://www.gnu.org/software/bash/manual/bash.html"
+    },
+    {
+      "title": "Zsh Documentation",
+      "url": "https://zsh.sourceforge.io/Doc/"
+    },
+    {
+      "title": "POSIX Shell Command Language Specification",
+      "url": "https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html"
+    }
+  ]
 }

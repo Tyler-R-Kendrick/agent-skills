@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Refactoring.Guru — Design Patterns",
+      "url": "https://refactoring.guru/design-patterns"
+    },
+    {
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Design_Patterns"
+    }
+  ]
 }

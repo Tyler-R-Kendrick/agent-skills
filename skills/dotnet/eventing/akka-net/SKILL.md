@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Akka.NET Official Documentation"
+    url: "https://getakka.net/"
+  - title: "Akka.NET GitHub Repository"
+    url: "https://github.com/akkadotnet/akka.net"
+  - title: "Akka NuGet Package"
+    url: "https://www.nuget.org/packages/Akka"
 ---
 
 # Akka.NET

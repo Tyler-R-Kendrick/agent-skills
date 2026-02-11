@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Uno Platform Official Site"
+    url: "https://platform.uno/"
+  - title: "Uno Platform GitHub Repository"
+    url: "https://github.com/unoplatform/uno"
+  - title: "Uno.UI NuGet Package"
+    url: "https://www.nuget.org/packages/Uno.UI"
 ---
 
 # Uno Platform

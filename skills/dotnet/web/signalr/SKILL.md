@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "ASP.NET Core SignalR Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction"
+  - title: "ASP.NET Core GitHub Repository"
+    url: "https://github.com/dotnet/aspnetcore"
+  - title: "Real-time ASP.NET with SignalR"
+    url: "https://dotnet.microsoft.com/en-us/apps/aspnet/signalr"
 ---
 
 # SignalR

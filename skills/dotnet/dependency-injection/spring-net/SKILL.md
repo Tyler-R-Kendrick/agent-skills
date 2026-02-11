@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Spring.NET Official Website"
+    url: "https://springframework.net/"
+  - title: "Spring.NET GitHub Repository"
+    url: "https://github.com/spring-projects/spring-net"
+  - title: "Spring.Core NuGet Package"
+    url: "https://www.nuget.org/packages/Spring.Core"
 ---
 
 # Spring.NET

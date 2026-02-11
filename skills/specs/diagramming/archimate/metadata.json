@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "ArchiMate Specification — The Open Group",
+      "url": "https://pubs.opengroup.org/architecture/archimate3-doc/"
+    },
+    {
+      "title": "ArchiMate — The Open Group Overview",
+      "url": "https://www.opengroup.org/archimate-forum/archimate-overview"
+    }
+  ]
 }

@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "ASP.NET Core Blazor Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/blazor/"
+  - title: "ASP.NET Core GitHub Repository"
+    url: "https://github.com/dotnet/aspnetcore"
 ---
 
 # Blazor

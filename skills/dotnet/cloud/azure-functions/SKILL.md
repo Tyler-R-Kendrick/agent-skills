@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Azure Functions Documentation"
+    url: "https://learn.microsoft.com/azure/azure-functions"
+  - title: "Azure Functions .NET Worker GitHub Repository"
+    url: "https://github.com/Azure/azure-functions-dotnet-worker"
+  - title: "Microsoft.Azure.Functions.Worker NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker"
 ---
 
 # Azure Functions

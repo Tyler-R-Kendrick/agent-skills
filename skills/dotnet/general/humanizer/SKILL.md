@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Humanizer GitHub Repository"
+    url: "https://github.com/Humanizr/Humanizer"
+  - title: "Humanizer NuGet Package"
+    url: "https://www.nuget.org/packages/Humanizer"
+  - title: "Humanizer.Core NuGet Package"
+    url: "https://www.nuget.org/packages/Humanizer.Core"
 ---
 
 # Humanizer

@@ -9,6 +9,11 @@ metadata:
   displayName: "Software Craftsmanship"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Manifesto for Software Craftsmanship"
+    url: "http://manifesto.softwarecraftsmanship.org/"
+  - title: "The Pragmatic Programmer — pragprog.com"
+    url: "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/"
 ---
 
 # Software Craftsmanship

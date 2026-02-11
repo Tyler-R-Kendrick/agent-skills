@@ -9,6 +9,11 @@ metadata:
   displayName: "Entity-Relationship Diagrams"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Entity-Relationship Model — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"
+  - title: "Peter Chen — The Entity-Relationship Model (Original Paper)"
+    url: "https://dl.acm.org/doi/10.1145/320434.320440"
 ---
 
 # Entity-Relationship Diagrams (ERD)

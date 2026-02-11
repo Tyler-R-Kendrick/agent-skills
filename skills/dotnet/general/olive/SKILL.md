@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Olive Documentation"
+    url: "https://geeksltd.github.io/Olive/"
+  - title: "Olive GitHub Repository"
+    url: "https://github.com/Geeksltd/Olive"
+  - title: "Olive NuGet Package"
+    url: "https://www.nuget.org/packages/Olive"
 ---
 
 # Olive

@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "IETF — Request for Comments (RFC)",
+      "url": "https://www.ietf.org/process/rfcs/"
+    },
+    {
+      "title": "Request for Comments — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Request_for_Comments"
+    }
+  ]
 }

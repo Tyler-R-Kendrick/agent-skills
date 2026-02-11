@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Logging in .NET Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/logging"
+  - title: "Microsoft.Extensions.Logging NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Logging"
+  - title: "Compile-Time Logging Source Generation"
+    url: "https://learn.microsoft.com/en-us/dotnet/core/extensions/logger-message-generator"
 ---
 
 # Microsoft.Extensions.Logging

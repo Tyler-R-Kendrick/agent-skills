@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Homebrew Documentation",
+      "url": "https://docs.brew.sh"
+    },
+    {
+      "title": "Chocolatey Documentation",
+      "url": "https://docs.chocolatey.org"
+    },
+    {
+      "title": "winget Documentation (Microsoft)",
+      "url": "https://learn.microsoft.com/en-us/windows/package-manager/winget/"
+    }
+  ]
 }

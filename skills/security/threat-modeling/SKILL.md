@@ -9,6 +9,13 @@ metadata:
   displayName: "Threat Modeling"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Threat Modeling"
+    url: "https://owasp.org/www-community/Threat_Modeling"
+  - title: "Microsoft Threat Modeling Tool"
+    url: "https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool"
+  - title: "NIST SP 800-154 Guide to Data-Centric System Threat Modeling"
+    url: "https://csrc.nist.gov/publications/detail/sp/800-154/draft"
 ---
 
 # Threat Modeling

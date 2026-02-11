@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Mapperly Documentation"
+    url: "https://mapperly.riok.app/"
+  - title: "Mapperly GitHub Repository"
+    url: "https://github.com/riok/mapperly"
+  - title: "Riok.Mapperly NuGet Package"
+    url: "https://www.nuget.org/packages/Riok.Mapperly"
 ---
 
 # Mapperly

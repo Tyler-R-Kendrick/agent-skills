@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Jot GitHub Repository"
+    url: "https://github.com/anakic/Jot"
+  - title: "Jot NuGet Package"
+    url: "https://www.nuget.org/packages/Jot"
 ---
 
 # Jot

@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "AppContext Class API Reference"
+    url: "https://learn.microsoft.com/dotnet/api/system.appcontext"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # AppContext

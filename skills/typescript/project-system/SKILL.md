@@ -9,6 +9,13 @@ metadata:
   displayName: "TypeScript Project System"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "TypeScript TSConfig Reference"
+    url: "https://www.typescriptlang.org/tsconfig"
+  - title: "TypeScript Documentation"
+    url: "https://www.typescriptlang.org"
+  - title: "TypeScript GitHub Repository"
+    url: "https://github.com/microsoft/TypeScript"
 ---
 
 # TypeScript Project System

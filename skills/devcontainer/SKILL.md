@@ -9,6 +9,13 @@ metadata:
   displayName: "Dev Containers"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
+  - title: "Dev Containers — GitHub Repository"
+    url: "https://github.com/devcontainers/spec"
+  - title: "VS Code — Developing Inside a Container"
+    url: "https://code.visualstudio.com/docs/devcontainers/containers"
 ---
 
 # Dev Containers

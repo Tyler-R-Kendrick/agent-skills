@@ -11,5 +11,18 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "MSBuild Reference",
+      "url": "https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-reference"
+    },
+    {
+      "title": ".NET Project SDK Overview",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/project-sdk/overview"
+    },
+    {
+      "title": "Central Package Management Documentation",
+      "url": "https://learn.microsoft.com/en-us/nuget/consume-packages/central-package-management"
+    }
+  ]
 }

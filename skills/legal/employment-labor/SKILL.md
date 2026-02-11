@@ -9,6 +9,13 @@ metadata:
   displayName: "Employment & Labor"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "U.S. Department of Labor"
+    url: "https://www.dol.gov"
+  - title: "IRS Independent Contractor vs Employee Classification"
+    url: "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee"
+  - title: "EU Employment Law (European Commission)"
+    url: "https://ec.europa.eu/social/main.jsp?catId=157&langId=en"
 ---
 
 # Employment & Labor

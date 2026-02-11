@@ -9,6 +9,11 @@ metadata:
   displayName: "Monoliths"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Monolith First"
+    url: "https://martinfowler.com/bliki/MonolithFirst.html"
+  - title: "Monolithic Application — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Monolithic_application"
 ---
 
 # Monolithic Architecture

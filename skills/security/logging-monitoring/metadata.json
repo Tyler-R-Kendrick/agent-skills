@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "OWASP Logging Cheat Sheet",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html"
+    },
+    {
+      "title": "NIST SP 800-92 Guide to Computer Security Log Management",
+      "url": "https://csrc.nist.gov/publications/detail/sp/800-92/final"
+    },
+    {
+      "title": "OWASP Top Ten A09:2021 Security Logging and Monitoring Failures",
+      "url": "https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/"
+    }
+  ]
 }

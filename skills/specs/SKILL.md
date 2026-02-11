@@ -9,6 +9,11 @@ metadata:
   displayName: "Specifications & Architecture Documentation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "arc42 — Architecture Documentation Template"
+    url: "https://arc42.org/"
+  - title: "Documenting Software Architectures — SEI"
+    url: "https://www.sei.cmu.edu/our-work/software-architecture/tools/documenting/"
 ---
 
 # Specifications & Architecture Documentation

@@ -9,6 +9,11 @@ metadata:
   displayName: "Diagramming"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "C4 Model — Simon Brown"
+    url: "https://c4model.com/"
+  - title: "Mermaid.js Official Documentation"
+    url: "https://mermaid.js.org/"
 ---
 
 # Diagramming

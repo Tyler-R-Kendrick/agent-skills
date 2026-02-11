@@ -9,6 +9,11 @@ metadata:
   displayName: "Message Routing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Message Routing"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRoutingIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # Message Routing

@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "PdfSharpCore GitHub Repository"
+    url: "https://github.com/ststeiger/PdfSharpCore"
+  - title: "PdfSharpCore NuGet Package"
+    url: "https://www.nuget.org/packages/PdfSharpCore"
 ---
 
 # PdfSharpCore

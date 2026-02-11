@@ -9,6 +9,11 @@ metadata:
   displayName: "Hygiene"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Input Validation Cheat Sheet"
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html"
+  - title: "OWASP Cheat Sheet Series"
+    url: "https://cheatsheetseries.owasp.org"
 ---
 
 # Hygiene — Trust No Data

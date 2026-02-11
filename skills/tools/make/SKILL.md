@@ -9,6 +9,13 @@ metadata:
   displayName: "Make & Task Runners"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GNU Make Manual"
+    url: "https://www.gnu.org/software/make/manual/"
+  - title: "Just GitHub Repository"
+    url: "https://github.com/casey/just"
+  - title: "Task (Taskfile) Documentation"
+    url: "https://taskfile.dev"
 ---
 
 # Make & Task Runners

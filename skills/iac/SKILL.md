@@ -9,6 +9,13 @@ metadata:
   displayName: "Infrastructure as Code"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Terraform Documentation"
+    url: "https://developer.hashicorp.com/terraform/docs"
+  - title: "Kubernetes Documentation"
+    url: "https://kubernetes.io/docs/home/"
+  - title: "Pulumi Documentation"
+    url: "https://www.pulumi.com/docs/"
 ---
 
 # Infrastructure as Code

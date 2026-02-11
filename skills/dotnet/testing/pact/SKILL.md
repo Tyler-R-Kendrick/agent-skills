@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Pact Documentation"
+    url: "https://docs.pact.io/"
+  - title: "PactNet GitHub Repository"
+    url: "https://github.com/pact-foundation/pact-net"
+  - title: "PactNet NuGet Package"
+    url: "https://www.nuget.org/packages/PactNet"
 ---
 
 # Pact

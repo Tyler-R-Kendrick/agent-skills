@@ -9,6 +9,11 @@ metadata:
   displayName: "Message Transformation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Message Transformation"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTransformationIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # Message Transformation

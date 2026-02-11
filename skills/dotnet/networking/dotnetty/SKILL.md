@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "DotNetty GitHub Repository"
+    url: "https://github.com/Azure/DotNetty"
+  - title: "DotNetty.Transport NuGet Package"
+    url: "https://www.nuget.org/packages/DotNetty.Transport"
+  - title: "DotNetty.Common NuGet Package"
+    url: "https://www.nuget.org/packages/DotNetty.Common"
 ---
 
 # DotNetty

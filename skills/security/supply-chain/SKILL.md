@@ -9,6 +9,13 @@ metadata:
   displayName: "Supply Chain Security"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "SLSA (Supply-chain Levels for Software Artifacts) Specification"
+    url: "https://slsa.dev"
+  - title: "OWASP CycloneDX SBOM Standard"
+    url: "https://cyclonedx.org"
+  - title: "SPDX (Software Package Data Exchange) Specification"
+    url: "https://spdx.dev"
 ---
 
 # Supply Chain Security

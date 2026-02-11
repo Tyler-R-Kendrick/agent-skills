@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "FParsec Documentation"
+    url: "https://www.quanttec.com/fparsec/"
+  - title: "FParsec GitHub Repository"
+    url: "https://github.com/stephan-tolksdorf/fparsec"
+  - title: "FParsec NuGet Package"
+    url: "https://www.nuget.org/packages/FParsec"
 ---
 
 # FParsec

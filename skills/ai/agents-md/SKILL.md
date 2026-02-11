@@ -9,6 +9,11 @@ metadata:
   displayName: "AGENTS.md"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "AGENTS.md Specification GitHub Repository"
+    url: "https://github.com/anthropics/agent-skills"
+  - title: "Claude Code Documentation"
+    url: "https://docs.anthropic.com/en/docs/claude-code"
 ---
 
 # AGENTS.md

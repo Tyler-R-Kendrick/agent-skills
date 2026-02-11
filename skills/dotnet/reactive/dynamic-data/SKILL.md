@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "DynamicData GitHub Repository"
+    url: "https://github.com/reactivemarbles/DynamicData"
+  - title: "DynamicData NuGet Package"
+    url: "https://www.nuget.org/packages/DynamicData"
 ---
 
 # DynamicData

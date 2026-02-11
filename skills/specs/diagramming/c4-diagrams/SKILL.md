@@ -9,6 +9,11 @@ metadata:
   displayName: "C4 Diagrams"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "C4 Model — Simon Brown"
+    url: "https://c4model.com/"
+  - title: "Structurizr DSL Documentation"
+    url: "https://docs.structurizr.com/dsl"
 ---
 
 # C4 Model Diagrams

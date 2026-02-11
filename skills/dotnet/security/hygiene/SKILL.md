@@ -15,6 +15,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Prevent Cross-Site Scripting (XSS) in ASP.NET Core"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/security/cross-site-scripting"
+  - title: "ASP.NET Core Security Overview"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/security/"
 ---
 
 # Security Hygiene & Sanitization

@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    },
+    {
+      "title": "Docker Documentation",
+      "url": "https://docs.docker.com"
+    }
+  ]
 }

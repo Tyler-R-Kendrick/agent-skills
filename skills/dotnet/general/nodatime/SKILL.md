@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "NodaTime Documentation"
+    url: "https://nodatime.org/"
+  - title: "NodaTime GitHub Repository"
+    url: "https://github.com/nodatime/nodatime"
+  - title: "NodaTime NuGet Package"
+    url: "https://www.nuget.org/packages/NodaTime"
 ---
 
 # NodaTime

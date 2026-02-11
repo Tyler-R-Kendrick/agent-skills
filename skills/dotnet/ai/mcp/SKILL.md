@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Model Context Protocol Documentation"
+    url: "https://modelcontextprotocol.io"
+  - title: "MCP C# SDK GitHub Repository"
+    url: "https://github.com/modelcontextprotocol/csharp-sdk"
+  - title: "ModelContextProtocol NuGet Package"
+    url: "https://www.nuget.org/packages/ModelContextProtocol"
 ---
 
 # MCP (Model Context Protocol)

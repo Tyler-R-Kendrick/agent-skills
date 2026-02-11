@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "npm Documentation",
+      "url": "https://docs.npmjs.com"
+    },
+    {
+      "title": "pnpm Documentation",
+      "url": "https://pnpm.io"
+    },
+    {
+      "title": "Yarn Documentation",
+      "url": "https://yarnpkg.com"
+    }
+  ]
 }

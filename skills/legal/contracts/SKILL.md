@@ -9,6 +9,11 @@ metadata:
   displayName: "Contracts"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Uniform Commercial Code (UCC) — Cornell Law Institute"
+    url: "https://www.law.cornell.edu/ucc"
+  - title: "GDPR Data Processing Agreement Requirements (Article 28)"
+    url: "https://gdpr-info.eu/art-28-gdpr/"
 ---
 
 # Contracts

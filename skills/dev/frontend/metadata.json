@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "MDN Web Docs — Web Technology for Developers",
+      "url": "https://developer.mozilla.org/en-US/docs/Web"
+    },
+    {
+      "title": "web.dev — Building for the Modern Web",
+      "url": "https://web.dev/"
+    }
+  ]
 }

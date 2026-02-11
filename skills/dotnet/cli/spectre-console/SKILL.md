@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Spectre.Console Documentation"
+    url: "https://spectreconsole.net"
+  - title: "Spectre.Console GitHub Repository"
+    url: "https://github.com/spectreconsole/spectre.console"
+  - title: "Spectre.Console NuGet Package"
+    url: "https://www.nuget.org/packages/Spectre.Console"
 ---
 
 # Spectre.Console

@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Hyperion GitHub Repository"
+    url: "https://github.com/akkadotnet/Hyperion"
+  - title: "Hyperion NuGet Package"
+    url: "https://www.nuget.org/packages/Hyperion"
 ---
 
 # Hyperion

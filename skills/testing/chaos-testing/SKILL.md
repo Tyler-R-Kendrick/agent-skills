@@ -9,6 +9,13 @@ metadata:
   displayName: "Chaos Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Principles of Chaos Engineering"
+    url: "https://principlesofchaos.org"
+  - title: "Litmus Chaos Engineering GitHub Repository"
+    url: "https://github.com/litmuschaos/litmus"
+  - title: "Chaos Mesh Documentation"
+    url: "https://chaos-mesh.org/docs/"
 ---
 
 # Chaos Testing — Chaos Engineering

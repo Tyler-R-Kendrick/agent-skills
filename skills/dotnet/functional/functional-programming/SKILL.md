@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "C# Functional Programming Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/csharp/fundamentals/functional/pattern-matching"
+  - title: "C# Language Reference on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/csharp/"
 ---
 
 # Functional Programming in C#

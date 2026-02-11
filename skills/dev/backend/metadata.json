@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Martin Fowler — Patterns of Enterprise Application Architecture",
+      "url": "https://martinfowler.com/eaaCatalog/"
+    },
+    {
+      "title": "OpenAPI Specification",
+      "url": "https://www.openapis.org/"
+    }
+  ]
 }

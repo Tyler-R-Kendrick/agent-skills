@@ -9,6 +9,11 @@ metadata:
   displayName: "Sorting & Searching Algorithms"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Art of Computer Programming, Vol. 3: Sorting and Searching — Donald Knuth"
+    url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  - title: "Sorting Algorithm — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Sorting_algorithm"
 ---
 
 # Sorting & Searching Algorithms

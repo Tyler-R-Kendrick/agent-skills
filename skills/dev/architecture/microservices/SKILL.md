@@ -9,6 +9,11 @@ metadata:
   displayName: "Microservices"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Microservices Guide"
+    url: "https://martinfowler.com/microservices/"
+  - title: "Microservices — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Microservices"
 ---
 
 # Microservices Architecture

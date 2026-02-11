@@ -9,6 +9,11 @@ metadata:
   displayName: "Clean Code"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Clean Code — Robert C. Martin (Book)"
+    url: "https://www.oreilly.com/library/view/clean-code-a/9780136083238/"
+  - title: "Robert C. Martin (Uncle Bob) — Clean Coder"
+    url: "https://blog.cleancoder.com/"
 ---
 
 # Clean Code

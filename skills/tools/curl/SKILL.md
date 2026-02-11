@@ -9,6 +9,13 @@ metadata:
   displayName: "curl & HTTP Clients"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "curl Documentation"
+    url: "https://curl.se/docs/"
+  - title: "HTTPie Documentation"
+    url: "https://httpie.io/docs/cli"
+  - title: "GNU Wget Manual"
+    url: "https://www.gnu.org/software/wget/manual/"
 ---
 
 # curl & HTTP Clients

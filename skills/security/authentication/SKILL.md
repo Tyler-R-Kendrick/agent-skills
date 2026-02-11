@@ -9,6 +9,13 @@ metadata:
   displayName: "Authentication & Authorization"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OAuth 2.0 Authorization Framework (RFC 6749)"
+    url: "https://datatracker.ietf.org/doc/html/rfc6749"
+  - title: "OpenID Connect Specification"
+    url: "https://openid.net/developers/specs/"
+  - title: "OWASP Authentication Cheat Sheet"
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html"
 ---
 
 # Authentication & Authorization

@@ -15,6 +15,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "CryptoNet GitHub Repository"
+    url: "https://github.com/itbackyard/CryptoNet"
+  - title: "CryptoNet NuGet Package"
+    url: "https://www.nuget.org/packages/CryptoNet"
 ---
 
 # CryptoNet

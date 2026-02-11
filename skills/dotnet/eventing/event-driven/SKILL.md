@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Event-Driven Architecture Style"
+    url: "https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven"
+  - title: ".NET Microservices Architecture Guidance"
+    url: "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/"
 ---
 
 # Event-Driven Architecture

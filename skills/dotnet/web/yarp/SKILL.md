@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "YARP Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/yarp/getting-started"
+  - title: "YARP GitHub Repository"
+    url: "https://github.com/dotnet/yarp"
+  - title: "Yarp.ReverseProxy NuGet Package"
+    url: "https://www.nuget.org/packages/Yarp.ReverseProxy"
 ---
 
 # YARP

@@ -9,6 +9,13 @@ metadata:
   displayName: "Secure SDLC"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Software Assurance Maturity Model (SAMM)"
+    url: "https://owaspsamm.org"
+  - title: "NIST Secure Software Development Framework (SSDF)"
+    url: "https://csrc.nist.gov/projects/ssdf"
+  - title: "Microsoft Security Development Lifecycle"
+    url: "https://www.microsoft.com/en-us/securityengineering/sdl"
 ---
 
 # Secure SDLC

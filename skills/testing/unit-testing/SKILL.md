@@ -9,6 +9,15 @@ metadata:
   displayName: "Unit Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Vitest Documentation"
+    url: "https://vitest.dev"
+  - title: "Jest Documentation"
+    url: "https://jestjs.io/docs/getting-started"
+  - title: "pytest Documentation"
+    url: "https://docs.pytest.org"
+  - title: "xUnit.net Documentation"
+    url: "https://xunit.net/#documentation"
 ---
 
 # Unit Testing — Testing Isolated Functions and Classes

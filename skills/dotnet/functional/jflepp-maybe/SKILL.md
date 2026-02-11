@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "JFlepp.Maybe GitHub Repository"
+    url: "https://github.com/fl3pp/JFlepp.Maybe"
+  - title: "JFlepp.Maybe NuGet Package"
+    url: "https://www.nuget.org/packages/JFlepp.Maybe"
 ---
 
 # JFlepp.Maybe

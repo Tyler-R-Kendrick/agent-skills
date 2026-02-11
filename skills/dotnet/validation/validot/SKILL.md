@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Validot GitHub Repository"
+    url: "https://github.com/bartoszlenar/Validot"
+  - title: "Validot NuGet Package"
+    url: "https://www.nuget.org/packages/Validot"
 ---
 
 # Validot

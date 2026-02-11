@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Data Redaction in .NET Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/data-redaction"
+  - title: "Microsoft.Extensions.Compliance.Redaction NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Compliance.Redaction"
+  - title: "Microsoft.Extensions.Compliance.Abstractions NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Compliance.Abstractions"
 ---
 
 # Microsoft.Extensions.Compliance

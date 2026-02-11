@@ -9,6 +9,13 @@ metadata:
   displayName: "Package Managers"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Homebrew Documentation"
+    url: "https://docs.brew.sh"
+  - title: "Chocolatey Documentation"
+    url: "https://docs.chocolatey.org"
+  - title: "winget Documentation (Microsoft)"
+    url: "https://learn.microsoft.com/en-us/windows/package-manager/winget/"
 ---
 
 # Package Managers

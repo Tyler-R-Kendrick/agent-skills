@@ -9,6 +9,13 @@ metadata:
   displayName: "Well-Architected Frameworks"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "AWS Well-Architected Framework"
+    url: "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+  - title: "Microsoft Azure Well-Architected Framework"
+    url: "https://learn.microsoft.com/en-us/azure/well-architected/"
+  - title: "Google Cloud Architecture Framework"
+    url: "https://cloud.google.com/architecture/framework"
 ---
 
 # Cloud Well-Architected Frameworks

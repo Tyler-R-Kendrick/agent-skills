@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "System.Text.Json Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview"
+  - title: "JSON Serialization in .NET"
+    url: "https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/how-to"
 ---
 
 # Fluent Serializer

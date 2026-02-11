@@ -9,6 +9,13 @@ metadata:
   displayName: "Attribution"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Creative Commons Licenses"
+    url: "https://creativecommons.org/licenses/"
+  - title: "Open Source Initiative (OSI) — License List"
+    url: "https://opensource.org/licenses"
+  - title: "SPDX License List"
+    url: "https://spdx.org/licenses/"
 ---
 
 # Attribution

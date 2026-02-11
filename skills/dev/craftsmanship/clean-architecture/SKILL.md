@@ -9,6 +9,11 @@ metadata:
   displayName: "Clean Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Clean Architecture — Robert C. Martin (Uncle Bob)"
+    url: "https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"
+  - title: "Clean Architecture — Robert C. Martin (Book)"
+    url: "https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/"
 ---
 
 # Clean Architecture

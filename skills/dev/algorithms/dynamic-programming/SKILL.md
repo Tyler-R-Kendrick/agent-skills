@@ -9,6 +9,11 @@ metadata:
   displayName: "Dynamic Programming"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Art of Computer Programming — Donald Knuth"
+    url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  - title: "Dynamic Programming — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Dynamic_programming"
 ---
 
 # Dynamic Programming

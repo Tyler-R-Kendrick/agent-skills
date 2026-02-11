@@ -12,6 +12,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Parse, Don't Validate - Original Article by Alexis King"
+    url: "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
+  - title: "Parse, Don't Validate - DevIQ Reference"
+    url: "https://deviq.com/practices/parse-dont-validate/"
 ---
 
 # Parse Don't Validate

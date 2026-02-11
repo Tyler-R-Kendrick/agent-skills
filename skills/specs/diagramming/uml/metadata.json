@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "OMG Unified Modeling Language (UML) Specification",
+      "url": "https://www.omg.org/spec/UML/"
+    },
+    {
+      "title": "UML — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unified_Modeling_Language"
+    }
+  ]
 }

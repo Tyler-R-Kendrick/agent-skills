@@ -9,6 +9,11 @@ metadata:
   displayName: "Graph Algorithms"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "The Art of Computer Programming, Vol. 4B: Combinatorial Algorithms — Donald Knuth"
+    url: "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  - title: "Graph Algorithm — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Graph_algorithm"
 ---
 
 # Graph Algorithms

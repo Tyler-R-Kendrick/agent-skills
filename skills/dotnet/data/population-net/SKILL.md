@@ -15,6 +15,9 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Population.NET GitHub Repository"
+    url: "https://github.com/Authentic199/Population.NET"
 ---
 
 # Population.NET

@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "ASP.NET Core OpenAPI Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle"
+  - title: "Swashbuckle.AspNetCore GitHub Repository"
+    url: "https://github.com/domaindrivendev/Swashbuckle.AspNetCore"
+  - title: "Swashbuckle.AspNetCore NuGet Package"
+    url: "https://www.nuget.org/packages/Swashbuckle.AspNetCore"
 ---
 
 # OpenAPI (Swagger)

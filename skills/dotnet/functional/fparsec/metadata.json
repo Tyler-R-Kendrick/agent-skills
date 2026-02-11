@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "FParsec Documentation",
+      "url": "https://www.quanttec.com/fparsec/"
+    },
+    {
+      "title": "FParsec GitHub Repository",
+      "url": "https://github.com/stephan-tolksdorf/fparsec"
+    },
+    {
+      "title": "FParsec NuGet Package",
+      "url": "https://www.nuget.org/packages/FParsec"
+    }
+  ]
 }

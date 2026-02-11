@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MassTransit Official Documentation"
+    url: "https://masstransit.io/"
+  - title: "MassTransit GitHub Repository"
+    url: "https://github.com/MassTransit/MassTransit"
+  - title: "MassTransit NuGet Package"
+    url: "https://www.nuget.org/packages/MassTransit"
 ---
 
 # MassTransit

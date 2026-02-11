@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "RestSharp Documentation"
+    url: "https://restsharp.dev/"
+  - title: "RestSharp GitHub Repository"
+    url: "https://github.com/restsharp/RestSharp"
+  - title: "RestSharp NuGet Package"
+    url: "https://www.nuget.org/packages/RestSharp"
 ---
 
 # RestSharp

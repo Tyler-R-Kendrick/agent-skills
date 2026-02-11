@@ -7,5 +7,10 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Product Requirements Document — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Product_requirements_document"
+    }
+  ]
 }

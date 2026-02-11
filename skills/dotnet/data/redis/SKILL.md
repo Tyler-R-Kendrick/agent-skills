@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "StackExchange.Redis Documentation"
+    url: "https://stackexchange.github.io/StackExchange.Redis/"
+  - title: "StackExchange.Redis GitHub Repository"
+    url: "https://github.com/StackExchange/StackExchange.Redis"
+  - title: "StackExchange.Redis NuGet Package"
+    url: "https://www.nuget.org/packages/StackExchange.Redis"
 ---
 
 # Redis (StackExchange.Redis)

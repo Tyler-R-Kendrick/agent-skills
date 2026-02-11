@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Robert C. Martin — The Principles of OOD",
+      "url": "http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod"
+    },
+    {
+      "title": "SOLID — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SOLID"
+    }
+  ]
 }

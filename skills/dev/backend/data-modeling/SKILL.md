@@ -9,6 +9,11 @@ metadata:
   displayName: "Data Modeling & Database Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Patterns of Enterprise Application Architecture"
+    url: "https://martinfowler.com/eaaCatalog/"
+  - title: "Data Modeling — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Data_modeling"
 ---
 
 # Data Modeling & Database Architecture

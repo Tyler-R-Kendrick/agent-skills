@@ -9,6 +9,11 @@ metadata:
   displayName: "x402 (HTTP Payment Protocol)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "x402 Protocol GitHub Repository"
+    url: "https://github.com/coinbase/x402"
+  - title: "x402 Documentation"
+    url: "https://www.x402.org"
 ---
 
 # x402 — HTTP Payment Protocol

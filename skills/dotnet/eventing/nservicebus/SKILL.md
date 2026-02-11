@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "NServiceBus Official Documentation"
+    url: "https://docs.particular.net/nservicebus/"
+  - title: "NServiceBus GitHub Repository"
+    url: "https://github.com/Particular/NServiceBus"
+  - title: "NServiceBus NuGet Package"
+    url: "https://www.nuget.org/packages/NServiceBus"
 ---
 
 # NServiceBus

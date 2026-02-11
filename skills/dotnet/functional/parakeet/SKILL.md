@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Parakeet GitHub Repository"
+    url: "https://github.com/ara3d/parakeet"
+  - title: "Ara3D.Parakeet NuGet Package"
+    url: "https://www.nuget.org/packages/Ara3D.Parakeet"
 ---
 
 # Parakeet

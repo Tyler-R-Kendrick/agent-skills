@@ -9,6 +9,13 @@ metadata:
   displayName: "OWASP Standards"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Top Ten Project"
+    url: "https://owasp.org/www-project-top-ten/"
+  - title: "OWASP API Security Top 10"
+    url: "https://owasp.org/www-project-api-security/"
+  - title: "CWE/SANS Top 25 Most Dangerous Software Weaknesses"
+    url: "https://cwe.mitre.org/top25/"
 ---
 
 # OWASP Standards

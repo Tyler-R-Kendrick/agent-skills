@@ -9,6 +9,13 @@ metadata:
   displayName: "Authentication & Authorization Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OAuth 2.0 — RFC 6749"
+    url: "https://datatracker.ietf.org/doc/html/rfc6749"
+  - title: "OAuth.net — OAuth 2.0"
+    url: "https://oauth.net/2/"
+  - title: "JSON Web Tokens — jwt.io"
+    url: "https://jwt.io/introduction"
 ---
 
 # Authentication & Authorization Patterns

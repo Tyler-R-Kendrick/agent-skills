@@ -9,6 +9,13 @@ metadata:
   displayName: "API Design Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OpenAPI Specification"
+    url: "https://www.openapis.org/"
+  - title: "GraphQL Official Documentation"
+    url: "https://graphql.org/"
+  - title: "gRPC Official Documentation"
+    url: "https://grpc.io/"
 ---
 
 # API Design Patterns

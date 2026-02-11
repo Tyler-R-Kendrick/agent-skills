@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Mobius GitHub Repository"
+    url: "https://github.com/microsoft/Mobius"
+  - title: "Microsoft.SparkCLR NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.SparkCLR"
 ---
 
 # Mobius (C# Bindings for Apache Spark)

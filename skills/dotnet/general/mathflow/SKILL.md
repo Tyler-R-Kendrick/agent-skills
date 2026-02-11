@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "NCalc Documentation"
+    url: "https://ncalc.github.io/ncalc/"
+  - title: "NCalc GitHub Repository"
+    url: "https://github.com/ncalc/ncalc"
+  - title: "NCalcSync NuGet Package"
+    url: "https://www.nuget.org/packages/NCalcSync"
 ---
 
 # MathFlow (Mathematical Expression Evaluation)

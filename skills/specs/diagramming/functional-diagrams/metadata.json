@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "OMG Business Process Model and Notation (BPMN) Specification",
+      "url": "https://www.omg.org/spec/BPMN/"
+    },
+    {
+      "title": "Data-Flow Diagram — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Data-flow_diagram"
+    }
+  ]
 }

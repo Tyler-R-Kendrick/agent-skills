@@ -9,6 +9,13 @@ metadata:
   displayName: "Refactoring"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.com — Catalog of Refactorings"
+    url: "https://refactoring.com/catalog/"
+  - title: "Martin Fowler — Refactoring (2nd Edition)"
+    url: "https://martinfowler.com/books/refactoring.html"
+  - title: "Refactoring.Guru — Refactoring"
+    url: "https://refactoring.guru/refactoring"
 ---
 
 # Refactoring

@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "MediatR GitHub Repository",
+      "url": "https://github.com/jbogard/MediatR"
+    },
+    {
+      "title": "MediatR NuGet Package",
+      "url": "https://www.nuget.org/packages/MediatR"
+    }
+  ]
 }

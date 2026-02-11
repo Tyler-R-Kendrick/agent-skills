@@ -7,5 +7,10 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Software Requirements Specification — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Software_requirements_specification"
+    }
+  ]
 }

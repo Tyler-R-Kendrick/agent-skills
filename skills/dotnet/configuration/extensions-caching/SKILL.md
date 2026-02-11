@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Caching in .NET Documentation"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/caching"
+  - title: "Microsoft.Extensions.Caching.Memory NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Caching.Memory"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # Microsoft.Extensions.Caching

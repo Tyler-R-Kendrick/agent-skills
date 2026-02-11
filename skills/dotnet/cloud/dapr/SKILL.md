@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dapr Documentation"
+    url: "https://docs.dapr.io"
+  - title: "Dapr .NET SDK GitHub Repository"
+    url: "https://github.com/dapr/dotnet-sdk"
+  - title: "Dapr.Client NuGet Package"
+    url: "https://www.nuget.org/packages/Dapr.Client"
 ---
 
 # Dapr

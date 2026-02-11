@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Fody GitHub Repository"
+    url: "https://github.com/Fody/Fody"
+  - title: "Fody Home and Documentation"
+    url: "https://github.com/Fody/Home"
+  - title: "Fody NuGet Package"
+    url: "https://www.nuget.org/packages/Fody"
 ---
 
 # Fody IL Weaving Framework

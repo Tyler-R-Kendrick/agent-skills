@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Service Discovery in .NET Documentation"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/service-discovery"
+  - title: "Microsoft.Extensions.ServiceDiscovery NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.ServiceDiscovery"
+  - title: ".NET Aspire GitHub Repository"
+    url: "https://github.com/dotnet/aspire"
 ---
 
 # Service Discovery

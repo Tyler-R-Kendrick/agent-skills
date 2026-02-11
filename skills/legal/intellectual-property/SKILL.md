@@ -9,6 +9,13 @@ metadata:
   displayName: "Intellectual Property"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "World Intellectual Property Organization (WIPO)"
+    url: "https://www.wipo.int"
+  - title: "United States Patent and Trademark Office (USPTO)"
+    url: "https://www.uspto.gov"
+  - title: "U.S. Copyright Office"
+    url: "https://www.copyright.gov"
 ---
 
 # Intellectual Property

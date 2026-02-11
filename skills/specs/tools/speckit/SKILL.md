@@ -9,6 +9,11 @@ metadata:
   displayName: "GitHub Spec Kit"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GitHub Spec Kit — GitHub Repository"
+    url: "https://github.com/github/spec-kit"
+  - title: "Spec Kit — Official Documentation"
+    url: "https://speckit.org/"
 ---
 
 # GitHub Spec Kit

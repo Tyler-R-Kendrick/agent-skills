@@ -9,6 +9,13 @@ metadata:
   displayName: "Docker"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Docker Documentation"
+    url: "https://docs.docker.com"
+  - title: "Dockerfile Reference"
+    url: "https://docs.docker.com/reference/dockerfile/"
+  - title: "Docker Compose Documentation"
+    url: "https://docs.docker.com/compose/"
 ---
 
 # Docker

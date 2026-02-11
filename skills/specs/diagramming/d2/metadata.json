@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "D2 Language Documentation",
+      "url": "https://d2lang.com/"
+    },
+    {
+      "title": "D2 — GitHub Repository (Terrastruct)",
+      "url": "https://github.com/terrastruct/d2"
+    }
+  ]
 }

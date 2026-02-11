@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Fake JSON Server GitHub Repository"
+    url: "https://github.com/ttu/dotnet-fake-json-server"
+  - title: "FakeServer NuGet Package"
+    url: "https://www.nuget.org/packages/FakeServer"
 ---
 
 # Fake JSON Server

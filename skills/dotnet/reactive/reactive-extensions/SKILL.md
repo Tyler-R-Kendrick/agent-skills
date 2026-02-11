@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Rx.NET GitHub Repository"
+    url: "https://github.com/dotnet/reactive"
+  - title: "System.Reactive NuGet Package"
+    url: "https://www.nuget.org/packages/System.Reactive"
 ---
 
 # Reactive Extensions (Rx.NET)

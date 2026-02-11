@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Gauge Official Documentation",
+      "url": "https://docs.gauge.org/"
+    },
+    {
+      "title": "Gauge — GitHub Repository",
+      "url": "https://github.com/getgauge/gauge"
+    }
+  ]
 }

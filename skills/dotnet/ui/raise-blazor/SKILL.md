@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Radzen Blazor Components Official Site"
+    url: "https://blazor.radzen.com/"
+  - title: "Radzen Blazor GitHub Repository"
+    url: "https://github.com/radzenhq/radzen-blazor"
+  - title: "Radzen.Blazor NuGet Package"
+    url: "https://www.nuget.org/packages/Radzen.Blazor"
 ---
 
 # Radzen Blazor Components

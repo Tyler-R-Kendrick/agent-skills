@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "File Providers in ASP.NET Core Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/aspnet/core/fundamentals/file-providers"
+  - title: "Microsoft.Extensions.FileProviders.Physical NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.FileProviders.Physical"
+  - title: "Microsoft.Extensions.FileProviders.Abstractions NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.FileProviders.Abstractions"
 ---
 
 # Microsoft.Extensions.FileProviders

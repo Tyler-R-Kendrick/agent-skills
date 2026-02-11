@@ -9,6 +9,11 @@ metadata:
   displayName: "Mitosis"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Mitosis — GitHub Repository (Builder.io)"
+    url: "https://github.com/BuilderIO/mitosis"
+  - title: "Mitosis Documentation"
+    url: "https://mitosis.builder.io/"
 ---
 
 # Mitosis — Write Once, Compile Everywhere

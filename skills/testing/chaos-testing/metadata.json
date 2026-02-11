@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Principles of Chaos Engineering",
+      "url": "https://principlesofchaos.org"
+    },
+    {
+      "title": "Litmus Chaos Engineering GitHub Repository",
+      "url": "https://github.com/litmuschaos/litmus"
+    },
+    {
+      "title": "Chaos Mesh Documentation",
+      "url": "https://chaos-mesh.org/docs/"
+    }
+  ]
 }

@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Unity Documentation"
+    url: "https://docs.unity3d.com/Manual/index.html"
+  - title: "Unity Official Site"
+    url: "https://unity.com/"
+  - title: "Unity Scripting API Reference"
+    url: "https://docs.unity3d.com/ScriptReference/index.html"
 ---
 
 # Unity3D

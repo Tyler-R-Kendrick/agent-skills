@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: ".NET Community Toolkit Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/communitytoolkit/introduction"
+  - title: ".NET Community Toolkit GitHub Repository"
+    url: "https://github.com/CommunityToolkit/dotnet"
+  - title: "CommunityToolkit.Mvvm NuGet Package"
+    url: "https://www.nuget.org/packages/CommunityToolkit.Mvvm"
 ---
 
 # .NET Community Toolkit

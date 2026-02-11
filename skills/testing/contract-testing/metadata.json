@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Pact Documentation",
+      "url": "https://docs.pact.io"
+    },
+    {
+      "title": "PactFlow Documentation",
+      "url": "https://docs.pactflow.io"
+    },
+    {
+      "title": "Spring Cloud Contract Documentation",
+      "url": "https://spring.io/projects/spring-cloud-contract"
+    }
+  ]
 }

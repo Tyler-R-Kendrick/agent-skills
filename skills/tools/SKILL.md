@@ -9,6 +9,11 @@ metadata:
   displayName: "Developer Tools"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Git Documentation"
+    url: "https://git-scm.com/doc"
+  - title: "Docker Documentation"
+    url: "https://docs.docker.com"
 ---
 
 # Developer Tools

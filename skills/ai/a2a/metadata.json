@@ -7,5 +7,14 @@
   "license": "Apache-2.0",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "A2A Protocol GitHub Repository",
+      "url": "https://github.com/google/A2A"
+    },
+    {
+      "title": "A2A Protocol Specification",
+      "url": "https://google.github.io/A2A/"
+    }
+  ]
 }

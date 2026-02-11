@@ -9,6 +9,11 @@ metadata:
   displayName: "Mermaid.js"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Mermaid.js Official Documentation"
+    url: "https://mermaid.js.org/"
+  - title: "Mermaid.js — GitHub Repository"
+    url: "https://github.com/mermaid-js/mermaid"
 ---
 
 # Mermaid.js

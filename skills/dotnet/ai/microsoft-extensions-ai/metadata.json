@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": ".NET AI Documentation",
+      "url": "https://learn.microsoft.com/dotnet/ai"
+    },
+    {
+      "title": "Microsoft.Extensions.AI NuGet Package",
+      "url": "https://www.nuget.org/packages/Microsoft.Extensions.AI"
+    },
+    {
+      "title": ".NET Extensions GitHub Repository",
+      "url": "https://github.com/dotnet/extensions"
+    }
+  ]
 }

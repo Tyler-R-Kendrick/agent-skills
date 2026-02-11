@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Dev Containers Specification",
+      "url": "https://containers.dev/"
+    },
+    {
+      "title": "Dev Containers — GitHub Repository",
+      "url": "https://github.com/devcontainers/spec"
+    },
+    {
+      "title": "VS Code — Developing Inside a Container",
+      "url": "https://code.visualstudio.com/docs/devcontainers/containers"
+    }
+  ]
 }

@@ -9,6 +9,11 @@ metadata:
   displayName: "Dev Container — Python"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Dev Containers Specification"
+    url: "https://containers.dev/"
+  - title: "Python Official Documentation"
+    url: "https://docs.python.org/3/"
 ---
 
 # Dev Container — Python

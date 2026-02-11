@@ -9,6 +9,13 @@ metadata:
   displayName: "jq & Data Processing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "jq Documentation"
+    url: "https://jqlang.github.io/jq/manual/"
+  - title: "jq GitHub Repository"
+    url: "https://github.com/jqlang/jq"
+  - title: "yq GitHub Repository"
+    url: "https://github.com/mikefarah/yq"
 ---
 
 # jq & Data Processing

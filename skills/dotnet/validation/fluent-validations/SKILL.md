@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "FluentValidation Documentation"
+    url: "https://docs.fluentvalidation.net/"
+  - title: "FluentValidation GitHub Repository"
+    url: "https://github.com/FluentValidation/FluentValidation"
+  - title: "FluentValidation NuGet Package"
+    url: "https://www.nuget.org/packages/FluentValidation"
 ---
 
 # FluentValidation

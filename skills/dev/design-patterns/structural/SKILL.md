@@ -9,6 +9,11 @@ metadata:
   displayName: "Structural Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Refactoring.Guru — Structural Design Patterns"
+    url: "https://refactoring.guru/design-patterns/structural-patterns"
+  - title: "Structural Pattern — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Structural_pattern"
 ---
 
 # Structural Design Patterns

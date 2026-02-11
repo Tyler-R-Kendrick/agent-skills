@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Testcontainers Documentation",
+      "url": "https://testcontainers.com"
+    },
+    {
+      "title": "Martin Fowler — Integration Testing",
+      "url": "https://martinfowler.com/bliki/IntegrationTest.html"
+    },
+    {
+      "title": "ASP.NET Core Integration Testing (Microsoft)",
+      "url": "https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests"
+    }
+  ]
 }

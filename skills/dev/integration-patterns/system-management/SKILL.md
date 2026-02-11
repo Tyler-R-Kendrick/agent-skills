@@ -9,6 +9,11 @@ metadata:
   displayName: "System Management"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — System Management"
+    url: "https://www.enterpriseintegrationpatterns.com/patterns/messaging/SystemManagementIntro.html"
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
 ---
 
 # System Management

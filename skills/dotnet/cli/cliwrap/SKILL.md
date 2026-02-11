@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "CliWrap GitHub Repository"
+    url: "https://github.com/Tyrrrz/CliWrap"
+  - title: "CliWrap NuGet Package"
+    url: "https://www.nuget.org/packages/CliWrap"
 ---
 
 # CliWrap

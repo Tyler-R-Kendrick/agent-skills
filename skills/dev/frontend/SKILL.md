@@ -9,6 +9,11 @@ metadata:
   displayName: "Frontend Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "MDN Web Docs — Web Technology for Developers"
+    url: "https://developer.mozilla.org/en-US/docs/Web"
+  - title: "web.dev — Building for the Modern Web"
+    url: "https://web.dev/"
 ---
 
 # Frontend Architecture

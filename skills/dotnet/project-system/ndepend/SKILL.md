@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "NDepend Official Website"
+    url: "https://www.ndepend.com/"
+  - title: "NDepend Documentation"
+    url: "https://www.ndepend.com/docs/getting-started-with-ndepend"
+  - title: "NDepend Product Features"
+    url: "https://www.ndepend.com/features/"
 ---
 
 # NDepend

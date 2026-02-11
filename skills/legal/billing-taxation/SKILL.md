@@ -9,6 +9,13 @@ metadata:
   displayName: "Billing & Taxation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OECD International VAT/GST Guidelines"
+    url: "https://www.oecd.org/tax/consumption/international-vat-gst-guidelines.htm"
+  - title: "IFRS 15 Revenue from Contracts with Customers"
+    url: "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/"
+  - title: "FASB ASC 606 Revenue Recognition"
+    url: "https://asc.fasb.org/606"
 ---
 
 # Billing & Taxation

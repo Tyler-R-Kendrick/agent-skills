@@ -13,6 +13,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "NCrontab GitHub Repository"
+    url: "https://github.com/atifaziz/NCrontab"
+  - title: "NCrontab NuGet Package"
+    url: "https://www.nuget.org/packages/NCrontab"
 ---
 
 # NCrontab

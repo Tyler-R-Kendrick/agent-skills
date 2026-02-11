@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "System.CommandLine Documentation"
+    url: "https://learn.microsoft.com/dotnet/standard/commandline"
+  - title: "System.CommandLine GitHub Repository"
+    url: "https://github.com/dotnet/command-line-api"
+  - title: "System.CommandLine NuGet Package"
+    url: "https://www.nuget.org/packages/System.CommandLine"
 ---
 
 # Command-Line Cheatsheet

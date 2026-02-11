@@ -9,6 +9,11 @@ metadata:
   displayName: "ArchiMate"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "ArchiMate Specification — The Open Group"
+    url: "https://pubs.opengroup.org/architecture/archimate3-doc/"
+  - title: "ArchiMate — The Open Group Overview"
+    url: "https://www.opengroup.org/archimate-forum/archimate-overview"
 ---
 
 # ArchiMate - Enterprise Architecture Modeling Language

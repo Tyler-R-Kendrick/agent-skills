@@ -9,6 +9,13 @@ metadata:
   displayName: "TypeScript Runtimes"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Node.js Documentation"
+    url: "https://nodejs.org"
+  - title: "Deno Documentation"
+    url: "https://docs.deno.com"
+  - title: "Bun Documentation"
+    url: "https://bun.sh"
 ---
 
 # TypeScript Runtimes

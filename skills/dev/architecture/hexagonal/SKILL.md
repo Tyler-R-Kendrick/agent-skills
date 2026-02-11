@@ -9,6 +9,11 @@ metadata:
   displayName: "Hexagonal Architecture"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Alistair Cockburn — Hexagonal Architecture (Ports and Adapters)"
+    url: "https://alistair.cockburn.us/hexagonal-architecture/"
+  - title: "Hexagonal Architecture — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)"
 ---
 
 # Hexagonal Architecture (Ports and Adapters)

@@ -11,5 +11,14 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "DevExpress Documentation",
+      "url": "https://docs.devexpress.com/"
+    },
+    {
+      "title": "DevExpress Official Site",
+      "url": "https://www.devexpress.com/"
+    }
+  ]
 }

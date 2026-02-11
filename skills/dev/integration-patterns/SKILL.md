@@ -9,6 +9,11 @@ metadata:
   displayName: "Integration Patterns"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Enterprise Integration Patterns — Hohpe & Woolf"
+    url: "https://www.enterpriseintegrationpatterns.com/"
+  - title: "Enterprise Integration Patterns — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns"
 ---
 
 # Enterprise Integration Patterns

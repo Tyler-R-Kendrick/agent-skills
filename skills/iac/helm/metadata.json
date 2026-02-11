@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Helm Documentation",
+      "url": "https://helm.sh/docs/"
+    },
+    {
+      "title": "Helm GitHub Repository",
+      "url": "https://github.com/helm/helm"
+    }
+  ]
 }

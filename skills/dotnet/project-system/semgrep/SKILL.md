@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Semgrep Documentation"
+    url: "https://semgrep.dev/docs/"
+  - title: "Semgrep GitHub Repository"
+    url: "https://github.com/semgrep/semgrep"
+  - title: "Semgrep Community Rules"
+    url: "https://github.com/semgrep/semgrep-rules"
 ---
 
 # Semgrep for .NET

@@ -12,6 +12,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Peasy.NET GitHub Repository"
+    url: "https://github.com/peasy/Peasy.NET"
+  - title: "Peasy.NET Wiki"
+    url: "https://github.com/peasy/Peasy.NET/wiki"
+  - title: "Peasy NuGet Package"
+    url: "https://www.nuget.org/packages/Peasy"
 ---
 
 # Peasy

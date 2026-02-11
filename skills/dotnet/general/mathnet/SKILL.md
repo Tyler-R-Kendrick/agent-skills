@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Math.NET Numerics Documentation"
+    url: "https://numerics.mathdotnet.com/"
+  - title: "Math.NET Numerics GitHub Repository"
+    url: "https://github.com/mathnet/mathnet-numerics"
+  - title: "MathNet.Numerics NuGet Package"
+    url: "https://www.nuget.org/packages/MathNet.Numerics"
 ---
 
 # Math.NET Numerics

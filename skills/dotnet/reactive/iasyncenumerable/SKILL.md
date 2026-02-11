@@ -14,6 +14,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "IAsyncEnumerable API Reference"
+    url: "https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.iasyncenumerable-1"
+  - title: "Async Streams Tutorial"
+    url: "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/generate-consume-asynchronous-stream"
 ---
 
 # IAsyncEnumerable<T>

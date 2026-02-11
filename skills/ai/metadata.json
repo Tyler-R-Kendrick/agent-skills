@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Model Context Protocol Specification",
+      "url": "https://modelcontextprotocol.io"
+    },
+    {
+      "title": "Google A2A Protocol GitHub Repository",
+      "url": "https://github.com/google/A2A"
+    }
+  ]
 }

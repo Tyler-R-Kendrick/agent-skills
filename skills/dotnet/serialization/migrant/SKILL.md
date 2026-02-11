@@ -16,6 +16,11 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Migrant GitHub Repository"
+    url: "https://github.com/antmicro/Migrant"
+  - title: "Migrant Project Page"
+    url: "https://opensource.antmicro.com/projects/Migrant/"
 ---
 
 # Migrant

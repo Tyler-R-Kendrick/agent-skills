@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "gRPC for .NET Documentation"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/grpc/"
+  - title: "grpc-dotnet GitHub Repository"
+    url: "https://github.com/grpc/grpc-dotnet"
+  - title: "Grpc.AspNetCore NuGet Package"
+    url: "https://www.nuget.org/packages/Grpc.AspNetCore"
 ---
 
 # gRPC for .NET

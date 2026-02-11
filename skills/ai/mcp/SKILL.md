@@ -9,6 +9,13 @@ metadata:
   displayName: "MCP (Model Context Protocol)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Model Context Protocol Specification"
+    url: "https://modelcontextprotocol.io"
+  - title: "MCP GitHub Repository"
+    url: "https://github.com/modelcontextprotocol"
+  - title: "Anthropic MCP Documentation"
+    url: "https://docs.anthropic.com/en/docs/agents-and-tools/mcp"
 ---
 
 # MCP — Model Context Protocol

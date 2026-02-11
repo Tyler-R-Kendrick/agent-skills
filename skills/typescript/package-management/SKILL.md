@@ -9,6 +9,13 @@ metadata:
   displayName: "Package Management"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "npm Documentation"
+    url: "https://docs.npmjs.com"
+  - title: "pnpm Documentation"
+    url: "https://pnpm.io"
+  - title: "Yarn Documentation"
+    url: "https://yarnpkg.com"
 ---
 
 # Package Management

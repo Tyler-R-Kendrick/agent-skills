@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Cucumber Gherkin Reference"
+    url: "https://cucumber.io/docs/gherkin/reference/"
+  - title: "Reqnroll Official Documentation"
+    url: "https://docs.reqnroll.net/"
+  - title: "Cucumber BDD Introduction"
+    url: "https://cucumber.io/docs/"
 ---
 
 # BDD Cheatsheet

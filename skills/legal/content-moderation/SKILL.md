@@ -9,6 +9,13 @@ metadata:
   displayName: "Content Moderation"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "EU Digital Services Act (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2022/2065/oj"
+  - title: "U.S. Code Section 230 — Communications Decency Act"
+    url: "https://www.law.cornell.edu/uscode/text/47/230"
+  - title: "U.S. Copyright Office — DMCA"
+    url: "https://www.copyright.gov/dmca/"
 ---
 
 # Content Moderation

@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Mediator.NET GitHub Repository",
+      "url": "https://github.com/martinothamar/Mediator"
+    },
+    {
+      "title": "Mediator.SourceGenerator NuGet Package",
+      "url": "https://www.nuget.org/packages/Mediator.SourceGenerator"
+    },
+    {
+      "title": "Mediator.Abstractions NuGet Package",
+      "url": "https://www.nuget.org/packages/Mediator.Abstractions"
+    }
+  ]
 }

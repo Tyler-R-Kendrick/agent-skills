@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Python Packaging User Guide - pyproject.toml",
+      "url": "https://packaging.python.org/en/latest/guides/writing-pyproject-toml/"
+    },
+    {
+      "title": "PEP 621 - Storing Project Metadata in pyproject.toml",
+      "url": "https://peps.python.org/pep-0621/"
+    },
+    {
+      "title": "Setuptools Documentation",
+      "url": "https://setuptools.pypa.io/en/latest/"
+    }
+  ]
 }

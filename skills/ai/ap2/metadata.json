@@ -7,5 +7,14 @@
   "license": "Apache-2.0",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "AP2 (Agent Payments Protocol) GitHub Repository",
+      "url": "https://github.com/google/anthropic-agent-payments-protocol"
+    },
+    {
+      "title": "Google A2A Protocol (AP2 Extension)",
+      "url": "https://github.com/google/A2A"
+    }
+  ]
 }

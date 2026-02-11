@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Microsoft.Extensions.Primitives Documentation"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/primitives"
+  - title: "Microsoft.Extensions.Primitives NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Primitives"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # Microsoft.Extensions.Primitives

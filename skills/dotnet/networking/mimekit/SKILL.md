@@ -13,6 +13,15 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "MimeKit Documentation"
+    url: "https://mimekit.net/"
+  - title: "MimeKit GitHub Repository"
+    url: "https://github.com/jstedfast/MimeKit"
+  - title: "MailKit GitHub Repository"
+    url: "https://github.com/jstedfast/MailKit"
+  - title: "MimeKit NuGet Package"
+    url: "https://www.nuget.org/packages/MimeKit"
 ---
 
 # MimeKit and MailKit

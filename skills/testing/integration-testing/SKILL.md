@@ -9,6 +9,13 @@ metadata:
   displayName: "Integration Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Testcontainers Documentation"
+    url: "https://testcontainers.com"
+  - title: "Martin Fowler — Integration Testing"
+    url: "https://martinfowler.com/bliki/IntegrationTest.html"
+  - title: "ASP.NET Core Integration Testing (Microsoft)"
+    url: "https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests"
 ---
 
 # Integration Testing — Testing Multiple Units Working Together

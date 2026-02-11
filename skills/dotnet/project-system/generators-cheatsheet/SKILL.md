@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Source Generators Documentation"
+    url: "https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/"
+  - title: "Incremental Generators Cookbook"
+    url: "https://github.com/dotnet/roslyn/blob/main/docs/features/incremental-generators.cookbook.md"
+  - title: "Source Generators Cookbook"
+    url: "https://github.com/dotnet/roslyn/blob/main/docs/features/source-generators.cookbook.md"
 ---
 
 # Incremental Source Generators Cheatsheet

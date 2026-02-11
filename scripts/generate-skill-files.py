@@ -103,7 +103,7 @@ def generate_metadata_json(fm: dict, skill_dir: str) -> dict:
         "license": fm.get("license", "MIT"),
         "date": DATE,
         "compatibility": fm.get("compatibility", ""),
-        "references": [],
+        "references": fm.get("references", []),
     }
 
 

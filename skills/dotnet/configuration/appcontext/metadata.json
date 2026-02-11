@@ -11,5 +11,14 @@
     "copilot",
     "cursor"
   ],
-  "references": []
+  "references": [
+    {
+      "title": "AppContext Class API Reference",
+      "url": "https://learn.microsoft.com/dotnet/api/system.appcontext"
+    },
+    {
+      "title": ".NET Runtime GitHub Repository",
+      "url": "https://github.com/dotnet/runtime"
+    }
+  ]
 }

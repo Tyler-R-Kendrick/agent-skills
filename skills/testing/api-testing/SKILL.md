@@ -9,6 +9,13 @@ metadata:
   displayName: "API Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Bruno Documentation"
+    url: "https://docs.usebruno.com"
+  - title: "Postman Documentation"
+    url: "https://learning.postman.com/docs/getting-started/introduction/"
+  - title: "k6 Documentation"
+    url: "https://grafana.com/docs/k6/latest/"
 ---
 
 # API Testing

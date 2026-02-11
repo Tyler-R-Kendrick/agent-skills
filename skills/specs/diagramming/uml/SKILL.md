@@ -9,6 +9,11 @@ metadata:
   displayName: "UML"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OMG Unified Modeling Language (UML) Specification"
+    url: "https://www.omg.org/spec/UML/"
+  - title: "UML — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Unified_Modeling_Language"
 ---
 
 # UML — Unified Modeling Language

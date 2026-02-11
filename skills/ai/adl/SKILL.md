@@ -9,6 +9,11 @@ metadata:
   displayName: "ADL (Agent Definition Language)"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Agent Definition Language (ADL) GitHub Repository"
+    url: "https://github.com/nextmoca/agent-definition-language"
+  - title: "Eclipse LMOS Project"
+    url: "https://eclipse.dev/lmos/"
 ---
 
 # ADL — Agent Definition Language

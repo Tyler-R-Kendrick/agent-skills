@@ -9,6 +9,13 @@ metadata:
   displayName: "Privacy & Data Protection"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "GDPR Official Text"
+    url: "https://gdpr-info.eu"
+  - title: "California Consumer Privacy Act (CCPA) Official Text"
+    url: "https://oag.ca.gov/privacy/ccpa"
+  - title: "GDPR Full Regulation Text (EUR-Lex)"
+    url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
 ---
 
 # Privacy & Data Protection

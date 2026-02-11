@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "ImageSharp Documentation"
+    url: "https://docs.sixlabors.com/articles/imagesharp/"
+  - title: "ImageSharp GitHub Repository"
+    url: "https://github.com/SixLabors/ImageSharp"
+  - title: "SixLabors.ImageSharp NuGet Package"
+    url: "https://www.nuget.org/packages/SixLabors.ImageSharp"
 ---
 
 # ImageSharp

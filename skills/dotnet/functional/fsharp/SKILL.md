@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "F# Official Website"
+    url: "https://fsharp.org"
+  - title: "F# Documentation on Microsoft Learn"
+    url: "https://learn.microsoft.com/dotnet/fsharp"
+  - title: "F# GitHub Repository"
+    url: "https://github.com/dotnet/fsharp"
 ---
 
 # F#

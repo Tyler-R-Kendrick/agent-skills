@@ -9,6 +9,11 @@ metadata:
   displayName: "Domain-Driven Design"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Martin Fowler — Domain-Driven Design"
+    url: "https://martinfowler.com/bliki/DomainDrivenDesign.html"
+  - title: "Domain-Driven Design — Wikipedia"
+    url: "https://en.wikipedia.org/wiki/Domain-driven_design"
 ---
 
 # Domain-Driven Design (DDD)

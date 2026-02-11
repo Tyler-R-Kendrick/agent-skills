@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "ReactiveUI Official Documentation"
+    url: "https://www.reactiveui.net/docs/"
+  - title: "ReactiveUI GitHub Repository"
+    url: "https://github.com/reactiveui/ReactiveUI"
+  - title: "ReactiveUI NuGet Package"
+    url: "https://www.nuget.org/packages/ReactiveUI"
 ---
 
 # ReactiveUI

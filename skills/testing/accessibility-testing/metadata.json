@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "W3C Web Content Accessibility Guidelines (WCAG) 2.2",
+      "url": "https://www.w3.org/TR/WCAG22/"
+    },
+    {
+      "title": "Deque axe-core GitHub Repository",
+      "url": "https://github.com/dequelabs/axe-core"
+    },
+    {
+      "title": "Pa11y GitHub Repository",
+      "url": "https://github.com/pa11y/pa11y"
+    }
+  ]
 }

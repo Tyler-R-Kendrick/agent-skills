@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "W3C Design Tokens Community Group",
+      "url": "https://www.w3.org/community/design-tokens/"
+    },
+    {
+      "title": "Design Tokens Specification",
+      "url": "https://www.designtokens.org/"
+    },
+    {
+      "title": "Design Tokens Community Group — GitHub",
+      "url": "https://github.com/design-tokens/community-group"
+    }
+  ]
 }

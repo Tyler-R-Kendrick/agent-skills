@@ -9,6 +9,13 @@ metadata:
   displayName: "Security"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "OWASP Foundation"
+    url: "https://owasp.org"
+  - title: "NIST Cybersecurity Framework"
+    url: "https://www.nist.gov/cyberframework"
+  - title: "OWASP Top Ten Project"
+    url: "https://owasp.org/www-project-top-ten/"
 ---
 
 # Security

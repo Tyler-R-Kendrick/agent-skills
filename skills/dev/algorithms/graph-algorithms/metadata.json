@@ -7,5 +7,14 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "The Art of Computer Programming, Vol. 4B: Combinatorial Algorithms — Donald Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+    },
+    {
+      "title": "Graph Algorithm — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Graph_algorithm"
+    }
+  ]
 }

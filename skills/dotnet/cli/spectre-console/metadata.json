@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "Spectre.Console Documentation",
+      "url": "https://spectreconsole.net"
+    },
+    {
+      "title": "Spectre.Console GitHub Repository",
+      "url": "https://github.com/spectreconsole/spectre.console"
+    },
+    {
+      "title": "Spectre.Console NuGet Package",
+      "url": "https://www.nuget.org/packages/Spectre.Console"
+    }
+  ]
 }

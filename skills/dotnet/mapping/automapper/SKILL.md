@@ -13,6 +13,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "AutoMapper Documentation"
+    url: "https://docs.automapper.io/"
+  - title: "AutoMapper GitHub Repository"
+    url: "https://github.com/AutoMapper/AutoMapper"
+  - title: "AutoMapper NuGet Package"
+    url: "https://www.nuget.org/packages/AutoMapper"
 ---
 
 # AutoMapper

@@ -9,6 +9,13 @@ metadata:
   displayName: "Docker & Containers"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Docker Documentation"
+    url: "https://docs.docker.com"
+  - title: "Podman Documentation"
+    url: "https://podman.io/docs"
+  - title: "Dockerfile Reference"
+    url: "https://docs.docker.com/reference/dockerfile/"
 ---
 
 # Docker & Containers

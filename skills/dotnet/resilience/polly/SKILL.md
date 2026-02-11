@@ -14,6 +14,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Polly Documentation"
+    url: "https://www.pollydocs.org/"
+  - title: "Polly GitHub Repository"
+    url: "https://github.com/App-vNext/Polly"
+  - title: "Polly NuGet Package"
+    url: "https://www.nuget.org/packages/Polly"
 ---
 
 # Polly

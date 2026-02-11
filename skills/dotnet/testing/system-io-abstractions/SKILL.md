@@ -16,6 +16,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "System.IO.Abstractions GitHub Repository"
+    url: "https://github.com/TestableIO/System.IO.Abstractions"
+  - title: "System.IO.Abstractions NuGet Package"
+    url: "https://www.nuget.org/packages/System.IO.Abstractions"
+  - title: "System.IO.Abstractions TestingHelpers NuGet Package"
+    url: "https://www.nuget.org/packages/System.IO.Abstractions.TestingHelpers"
 ---
 
 # System.IO.Abstractions

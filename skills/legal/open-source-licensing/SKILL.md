@@ -9,6 +9,13 @@ metadata:
   displayName: "Open-Source Licensing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Open Source Initiative (OSI) — License List"
+    url: "https://opensource.org/licenses"
+  - title: "Choose an Open Source License"
+    url: "https://choosealicense.com"
+  - title: "SPDX License List"
+    url: "https://spdx.org/licenses/"
 ---
 
 # Open-Source Licensing

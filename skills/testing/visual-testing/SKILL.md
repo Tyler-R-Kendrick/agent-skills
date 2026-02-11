@@ -9,6 +9,13 @@ metadata:
   displayName: "Visual Regression Testing"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Chromatic Documentation"
+    url: "https://www.chromatic.com/docs/"
+  - title: "Percy Documentation (BrowserStack)"
+    url: "https://www.browserstack.com/docs/percy"
+  - title: "BackstopJS GitHub Repository"
+    url: "https://github.com/garris/BackstopJS"
 ---
 
 # Visual Regression Testing

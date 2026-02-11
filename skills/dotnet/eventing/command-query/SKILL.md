@@ -10,6 +10,11 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "CQRS Pattern Documentation"
+    url: "https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"
+  - title: ".NET Architecture Guidance"
+    url: "https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/"
 ---
 
 # Command Query Separation (CQS / CQRS)

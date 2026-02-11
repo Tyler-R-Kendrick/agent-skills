@@ -10,6 +10,13 @@ metadata:
   author: "Tyler-R-Kendrick"
   version: "1.0.0"
 compatibility: claude, copilot, cursor
+references:
+  - title: "ONNX Runtime Documentation"
+    url: "https://onnxruntime.ai"
+  - title: "ONNX Runtime GitHub Repository"
+    url: "https://github.com/microsoft/onnxruntime"
+  - title: "Microsoft.ML.OnnxRuntime NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.ML.OnnxRuntime"
 ---
 
 # ONNX Runtime

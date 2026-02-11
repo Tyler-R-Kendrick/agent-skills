@@ -7,5 +7,18 @@
   "license": "MIT",
   "date": "February 2026",
   "compatibility": "claude, copilot, cursor",
-  "references": []
+  "references": [
+    {
+      "title": "OpenAPI Specification",
+      "url": "https://www.openapis.org/"
+    },
+    {
+      "title": "GraphQL Official Documentation",
+      "url": "https://graphql.org/"
+    },
+    {
+      "title": "gRPC Official Documentation",
+      "url": "https://grpc.io/"
+    }
+  ]
 }

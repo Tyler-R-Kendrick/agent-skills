@@ -9,6 +9,11 @@ metadata:
   displayName: "AI Agent Protocols & Standards"
   author: "Tyler-R-Kendrick"
 compatibility: claude, copilot, cursor
+references:
+  - title: "Model Context Protocol Specification"
+    url: "https://modelcontextprotocol.io"
+  - title: "Google A2A Protocol GitHub Repository"
+    url: "https://github.com/google/A2A"
 ---
 
 # AI Agent Protocols & Standards

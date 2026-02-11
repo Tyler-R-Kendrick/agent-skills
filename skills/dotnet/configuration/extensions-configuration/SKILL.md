@@ -15,6 +15,13 @@ compatibility:
   - claude
   - copilot
   - cursor
+references:
+  - title: "Configuration in .NET Documentation"
+    url: "https://learn.microsoft.com/dotnet/core/extensions/configuration"
+  - title: "Microsoft.Extensions.Configuration NuGet Package"
+    url: "https://www.nuget.org/packages/Microsoft.Extensions.Configuration"
+  - title: ".NET Runtime GitHub Repository"
+    url: "https://github.com/dotnet/runtime"
 ---
 
 # Microsoft.Extensions.Configuration
