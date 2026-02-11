@@ -42,7 +42,9 @@
       "Bash(find:*)",
       "Bash(awk:*)",
       "Bash(xargs:*)",
-      "Bash(shuf:*)"
+      "Bash(shuf:*)",
+      "Bash(for dir in \"C:\\\\src\\\\agent-skills\\\\skills\\\\dotnet\"/{ai,cli,cloud,configuration,data,dependency-injection,documentation,eventing,functional,general,localization,logging,mapping,networking,observability,project-system,reactive,resilience,security,serialization,testing,ui,validation,web})",
+      "Bash(do [ -f \"$dir/SKILL.md\" ])"
     ]
   }
 }
