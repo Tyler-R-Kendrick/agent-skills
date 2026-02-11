@@ -1,4 +1,5 @@
 ---
+name: stateless
 description: Guidance for Stateless state machine library.
 metadata:
   displayName: Stateless

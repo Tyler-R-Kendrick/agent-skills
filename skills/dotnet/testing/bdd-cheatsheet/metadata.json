@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "bdd-cheatsheet",
+  "displayName": "BDD Cheatsheet",
+  "description": "Guidance for Behavior-Driven Development (BDD) patterns and practices.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

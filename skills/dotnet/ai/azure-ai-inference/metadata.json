@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "azure-ai-inference",
+  "displayName": "Azure.AI.Inference",
+  "description": "Guidance for Azure.AI.Inference usage. Use when working with azure ai inference.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

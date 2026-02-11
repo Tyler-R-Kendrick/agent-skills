@@ -1,0 +1,23 @@
+# Hygiene
+
+Use when enforcing defensive coding practices that treat all data as untrusted — regardless of source. Covers sanitization, canonicalization, encoding, and validation of inputs AND outputs at every component boundary, including internal databases, caches, message queues, and inter-service calls.
+
+## Structure
+
+| File | Purpose |
+|------|---------|
+| `SKILL.md` | Agent skill definition (frontmatter + instructions) |
+| `metadata.json` | Machine-readable metadata and versioning |
+| `AGENTS.md` | Agent-optimized quick reference (generated) |
+| `README.md` | This file |
+| `rules/` | 10 individual best practice rules |
+
+## Usage
+
+```bash
+npx agentskills add Tyler-R-Kendrick/agent-skills/skills/security/hygiene
+```
+
+## License
+
+MIT

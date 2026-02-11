@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "a2a",
+  "displayName": "A2A (Agent-to-Agent Protocol)",
+  "description": "Use when implementing the Agent-to-Agent (A2A) protocol for inter-agent communication, task delegation, and multi-agent collaboration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "Apache-2.0",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

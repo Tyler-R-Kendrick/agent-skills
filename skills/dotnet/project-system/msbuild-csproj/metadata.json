@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "msbuild-csproj",
+  "displayName": "Msbuild Csproj",
+  "description": "Guidance for MSBuild .csproj structuring with dotnet CLI. Use when creating or modifying .csproj files.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

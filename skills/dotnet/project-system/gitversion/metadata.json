@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "gitversion",
+  "displayName": "GitVersion",
+  "description": "Guidance for GitVersion semantic versioning from Git history.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

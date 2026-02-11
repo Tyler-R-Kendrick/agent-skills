@@ -1,4 +1,5 @@
 ---
+name: restsharp
 description: Guidance for RestSharp REST client library.
 metadata:
   displayName: RestSharp

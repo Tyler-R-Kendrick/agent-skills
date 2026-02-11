@@ -1,4 +1,5 @@
 ---
+name: refit
 description: Guidance for Refit type-safe REST library.
 metadata:
   displayName: Refit

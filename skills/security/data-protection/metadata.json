@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "data-protection",
+  "displayName": "Data Protection",
+  "description": "Use when implementing data protection controls for compliance and privacy. Covers encryption at rest and in transit, PII handling, data classification, GDPR, CCPA, HIPAA requirements, and data retention policies.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

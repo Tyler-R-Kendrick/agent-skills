@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "speckit",
+  "displayName": "GitHub Spec Kit",
+  "description": "Use when setting up or using GitHub Spec Kit for spec-driven development — where specifications define the \"what\" before the \"how.\" Covers slash commands for constitution definition, specification generation, clarification, implementation planning, task breakdown, analysis, and implementation execution.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

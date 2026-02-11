@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "avalonia",
+  "displayName": "Avalonia",
+  "description": "Guidance for Avalonia cross-platform UI framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

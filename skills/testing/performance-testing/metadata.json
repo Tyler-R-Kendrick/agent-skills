@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "performance-testing",
+  "displayName": "Performance Testing",
+  "description": "Use for load, stress, and scalability testing of applications and APIs. Covers k6 (Grafana), JMeter, Gatling, Artillery, and Lighthouse for web performance audits. Includes test type definitions, key metrics, thresholds, CI integration patterns, and performance budgets.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

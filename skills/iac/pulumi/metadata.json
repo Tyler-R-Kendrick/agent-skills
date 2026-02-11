@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "pulumi",
+  "displayName": "Pulumi",
+  "description": "Use when writing Pulumi programs for cloud infrastructure using TypeScript, Python, Go, or C#. Covers resource declarations, stacks, Outputs, component resources, and preview/up workflow.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

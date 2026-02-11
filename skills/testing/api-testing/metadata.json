@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "api-testing",
+  "displayName": "API Testing",
+  "description": "Use for testing HTTP endpoints directly using cross-platform API testing tools. Covers .http files (VS Code REST Client, JetBrains HTTP Client), Bruno collections, Postman/Newman, k6 for functional API verification, environment management, and CI integration patterns.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

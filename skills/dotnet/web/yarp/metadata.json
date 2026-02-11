@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "yarp",
+  "displayName": "YARP",
+  "description": "Guidance for YARP (Yet Another Reverse Proxy).",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mathnet",
+  "displayName": "Math.NET",
+  "description": "Guidance for Math.NET Numerics library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

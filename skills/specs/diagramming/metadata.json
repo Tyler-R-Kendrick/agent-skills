@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "diagramming",
+  "displayName": "Diagramming",
+  "description": "Use when creating software architecture diagrams, system visualizations, or technical drawings. Covers text-based and visual diagramming approaches for architecture communication.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "system-io-abstractions",
+  "displayName": "System.IO.Abstractions",
+  "description": "Guidance for System.IO.Abstractions usage. Use when working with system io abstractions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dotnetty",
+  "displayName": "DotNetty",
+  "description": "Guidance for DotNetty event-driven network framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

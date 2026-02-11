@@ -1,4 +1,5 @@
 ---
+name: yarp
 description: Guidance for YARP (Yet Another Reverse Proxy).
 metadata:
   displayName: YARP

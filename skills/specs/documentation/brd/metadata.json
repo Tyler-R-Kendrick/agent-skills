@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "brd",
+  "displayName": "BRD (Business Requirements Document)",
+  "description": "Use when writing Business Requirements Documents that justify why a project should be undertaken. Covers executive summaries, business objectives, stakeholder analysis, current state analysis, proposed solutions, business rules, cost-benefit analysis, success criteria, timelines, and risk assessment.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

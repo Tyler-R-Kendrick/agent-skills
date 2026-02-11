@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dev",
+  "displayName": "Development Fundamentals",
+  "description": "Use when working with fundamental software development knowledge — patterns, algorithms, architecture, and craftsmanship principles drawn from canonical published works.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

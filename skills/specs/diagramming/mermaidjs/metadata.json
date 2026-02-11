@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mermaidjs",
+  "displayName": "Mermaid.js",
+  "description": "Use when creating text-based diagrams that render in Markdown environments. Mermaid.js is the most widely supported diagrams-as-code tool, with native rendering in GitHub, GitLab, Notion, and many documentation platforms.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

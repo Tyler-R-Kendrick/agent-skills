@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "security-testing",
+  "displayName": "Security Testing Tools",
+  "description": "Use when selecting and configuring security testing tools for your CI/CD pipeline. Covers SAST, DAST, SCA, container scanning, secrets detection, and infrastructure-as-code security scanning with cross-platform tool recommendations.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

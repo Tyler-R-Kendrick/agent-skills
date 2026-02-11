@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "data-modeling",
+  "displayName": "Data Modeling & Database Architecture",
+  "description": "Use when designing database schemas, choosing data modeling strategies, or making decisions about data storage architecture across relational, document, graph, key-value, and time-series paradigms.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

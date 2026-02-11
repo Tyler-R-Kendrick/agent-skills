@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "togaf",
+  "displayName": "TOGAF",
+  "description": "Use when applying The Open Group Architecture Framework (TOGAF) for enterprise architecture development. Covers the Architecture Development Method (ADM), Architecture Repository, Enterprise Continuum, content metamodel, and key deliverables per phase.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

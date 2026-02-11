@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "clean-architecture",
+  "displayName": "Clean Architecture",
+  "description": "Use when designing system boundaries, dependency direction, and layered architecture — based on Robert C. Martin's \"Clean Architecture.\"",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ai",
+  "displayName": "AI Agent Protocols & Standards",
+  "description": "Use when working with AI agent protocols, standards, and interoperability specifications. Covers MCP, A2A, ACP, Agent Skills, AGENTS.md, ADL, x402, AP2, MCP Apps, and cagent.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

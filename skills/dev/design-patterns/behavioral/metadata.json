@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "behavioral",
+  "displayName": "Behavioral Patterns",
+  "description": "Behavioral design patterns from the Gang of Four — Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, and Visitor. Patterns that manage algorithms, relationships, and responsibilities between objects.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

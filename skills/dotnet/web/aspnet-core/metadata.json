@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "aspnet-core",
+  "displayName": "ASP.NET Core",
+  "description": "Guidance for ASP.NET Core usage. Use when working with aspnet core.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

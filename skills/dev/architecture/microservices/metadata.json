@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "microservices",
+  "displayName": "Microservices",
+  "description": "Microservice architecture patterns and practices based on Sam Newman's \"Building Microservices\" -- covering service decomposition, inter-service communication, data management, and operational patterns.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

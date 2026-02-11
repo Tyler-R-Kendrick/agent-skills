@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "message-routing",
+  "displayName": "Message Routing",
+  "description": "Use when designing how messages are directed, split, aggregated, and orchestrated across enterprise systems based on Enterprise Integration Patterns (Hohpe & Woolf).",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

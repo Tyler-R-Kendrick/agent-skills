@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "generic-host",
+  "displayName": "Generic Host",
+  "description": "Guidance for the .NET Generic Host. Use when working with generic host.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

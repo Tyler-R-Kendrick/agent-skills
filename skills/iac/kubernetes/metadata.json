@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "kubernetes",
+  "displayName": "Kubernetes",
+  "description": "Use when writing Kubernetes manifests for deploying and managing containerized applications. Covers Deployments, Services, ConfigMaps, Secrets, Ingress, and resource management.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ndepend",
+  "displayName": "NDepend",
+  "description": "Guidance for NDepend static code analysis tool.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

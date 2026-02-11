@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "twelve-factor",
+  "displayName": "Twelve-Factor App",
+  "description": "Use when designing, deploying, or evaluating cloud-native applications — based on the Twelve-Factor App methodology from Heroku.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

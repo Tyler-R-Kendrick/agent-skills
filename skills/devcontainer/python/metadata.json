@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "python",
+  "displayName": "Dev Container — Python",
+  "description": "Use when configuring dev containers for Python projects. Covers the Python feature, virtual environments, tool installation, JupyterLab, and linter/formatter setup.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

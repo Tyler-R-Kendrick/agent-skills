@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "accessibility",
+  "displayName": "Accessibility",
+  "description": "Use when identifying digital accessibility laws and standards that apply to software products. Covers ADA, Section 508, European Accessibility Act, WCAG standards, and emerging accessibility regulations globally with compliance requirements and litigation risks.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

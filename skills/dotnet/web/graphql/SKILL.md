@@ -1,4 +1,5 @@
 ---
+name: graphql
 description: Guidance for GraphQL API development in .NET.
 metadata:
   displayName: GraphQL

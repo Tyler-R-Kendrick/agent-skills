@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "architecture",
+  "displayName": "Architecture",
+  "description": "Use when selecting architecture styles, evaluating system decomposition strategies, or analyzing architecture characteristics (quality attributes) for a system.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

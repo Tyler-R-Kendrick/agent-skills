@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "adr",
+  "displayName": "ADR (Architecture Decision Records)",
+  "description": "Use when writing Architecture Decision Records to capture significant technical decisions with their context, rationale, and consequences. Covers the Nygard format, MADR format, ADR numbering, linking, lifecycle management, and adr-tools CLI.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

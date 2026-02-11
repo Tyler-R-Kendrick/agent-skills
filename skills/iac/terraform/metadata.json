@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "terraform",
+  "displayName": "Terraform",
+  "description": "Use when writing Terraform configurations for multi-cloud infrastructure. Covers HCL resources, modules, state management, providers, and plan/apply workflow.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

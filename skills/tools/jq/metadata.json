@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "jq",
+  "displayName": "jq & Data Processing",
+  "description": "Use when processing JSON or YAML data from the command line. Covers jq for JSON and yq for YAML — filtering, transforming, and extracting data from structured outputs of APIs, config files, and CLI tools.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

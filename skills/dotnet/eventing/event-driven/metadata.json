@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "event-driven",
+  "displayName": "Event-Driven Architecture",
+  "description": "Guidance for event-driven architecture patterns and best practices.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

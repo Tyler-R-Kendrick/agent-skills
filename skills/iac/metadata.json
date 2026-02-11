@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "iac",
+  "displayName": "Infrastructure as Code",
+  "description": "Use when working with Infrastructure as Code tools and platforms. Covers Terraform, Pulumi, CloudFormation, Bicep, ARM, Kubernetes, Helm, Docker, Crossplane, and Dagger.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

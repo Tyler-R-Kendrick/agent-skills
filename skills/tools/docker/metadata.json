@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "docker",
+  "displayName": "Docker & Containers",
+  "description": "Use when building, running, or managing containers with Docker or Podman. Covers Dockerfiles, multi-stage builds, Docker Compose, image optimization, security, registries, and container networking for development and CI/CD.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

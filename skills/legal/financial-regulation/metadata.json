@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "financial-regulation",
+  "displayName": "Financial Regulation",
+  "description": "Use when identifying financial regulations that apply to software handling payments, banking, or financial data. Covers PCI DSS, PSD2/PSD3, SOX, AML/KYC, Dodd-Frank, MiFID II, open banking, and fintech licensing across jurisdictions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "tools",
+  "displayName": "Specification Tools",
+  "description": "Use when working with specification tooling that automates the spec-driven development workflow — from generating specs to creating plans and tasks from specifications.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "regex",
+  "displayName": "Regular Expressions",
+  "description": "Use when writing or debugging regular expressions for pattern matching, validation, search, and text transformation. Covers regex syntax, common patterns, lookahead/lookbehind, character classes, quantifiers, and differences between regex flavors (PCRE, JavaScript, Python, .NET, POSIX).",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

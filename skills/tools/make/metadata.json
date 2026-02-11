@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "make",
+  "displayName": "Make & Task Runners",
+  "description": "Use when automating build, test, and development tasks with language-agnostic task runners. Covers GNU Make, Just, and Task (Taskfile) — tools that provide a consistent interface for project commands across any tech stack.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

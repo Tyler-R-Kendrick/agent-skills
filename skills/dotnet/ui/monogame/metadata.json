@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "monogame",
+  "displayName": "MonoGame",
+  "description": "Guidance for MonoGame game development framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

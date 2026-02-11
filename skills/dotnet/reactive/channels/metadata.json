@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "channels",
+  "displayName": "System.Threading.Channels",
+  "description": "Guidance for System.Threading.Channels usage. Use when working with channels.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

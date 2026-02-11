@@ -1,4 +1,5 @@
 ---
+name: validot
 description: Guidance for Validot validation library.
 metadata:
   displayName: Validot

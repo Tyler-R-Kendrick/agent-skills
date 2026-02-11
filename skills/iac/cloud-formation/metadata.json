@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cloud-formation",
+  "displayName": "AWS CloudFormation",
+  "description": "Use when writing or managing AWS CloudFormation templates. Covers stack resources, parameters, outputs, intrinsic functions, nested stacks, and change sets.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

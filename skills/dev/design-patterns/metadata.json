@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "design-patterns",
+  "displayName": "Design Patterns (GoF)",
+  "description": "Gang of Four (GoF) design patterns — 23 proven object-oriented solutions organized into Creational, Structural, and Behavioral categories, drawn from Gamma, Helm, Johnson, and Vlissides.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

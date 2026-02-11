@@ -1,4 +1,5 @@
 ---
+name: ocelot
 description: Guidance for Ocelot API Gateway.
 metadata:
   displayName: Ocelot

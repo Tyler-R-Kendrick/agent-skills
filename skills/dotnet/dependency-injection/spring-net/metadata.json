@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "spring-net",
+  "displayName": "Spring.NET",
+  "description": "Guidance for Spring.NET dependency injection and AOP framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

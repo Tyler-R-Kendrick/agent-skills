@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "bond",
+  "displayName": "Bond",
+  "description": "Guidance for Bond schematized data serialization framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

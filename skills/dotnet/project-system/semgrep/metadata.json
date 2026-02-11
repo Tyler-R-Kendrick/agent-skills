@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "semgrep",
+  "displayName": "Semgrep",
+  "description": "Guidance for Semgrep static analysis tool.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "messageformat-net",
+  "displayName": "MessageFormat.NET",
+  "description": "Guidance for MessageFormat.NET localization library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

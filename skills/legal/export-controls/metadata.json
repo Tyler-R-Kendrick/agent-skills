@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "export-controls",
+  "displayName": "Export Controls",
+  "description": "Use when identifying export control and sanctions laws that affect software distribution and encryption. Covers US EAR and ITAR, EU Dual-Use Regulation, Wassenaar Arrangement, OFAC sanctions, and encryption export rules that apply to software products distributed internationally.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

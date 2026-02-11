@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "functional-programming",
+  "displayName": "Functional Programming",
+  "description": "Guidance for functional programming patterns in .NET.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

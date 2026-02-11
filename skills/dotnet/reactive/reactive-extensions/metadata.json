@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "reactive-extensions",
+  "displayName": "Reactive Extensions",
+  "description": "Guidance for Reactive Extensions usage. Use when working with reactive extensions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

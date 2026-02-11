@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "blazor",
+  "displayName": "Blazor",
+  "description": "Guidance for Blazor usage. Use when working with blazor.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

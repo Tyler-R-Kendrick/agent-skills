@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "extensions-configuration",
+  "displayName": "Configuration",
+  "description": "Guidance for Microsoft.Extensions.Configuration. Use when working with extensions configuration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

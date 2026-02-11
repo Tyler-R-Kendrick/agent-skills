@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "unity3d",
+  "displayName": "Unity3D",
+  "description": "Guidance for Unity3D game development using C#.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

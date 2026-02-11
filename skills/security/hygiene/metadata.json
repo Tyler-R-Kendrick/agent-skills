@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "hygiene",
+  "displayName": "Hygiene",
+  "description": "Use when enforcing defensive coding practices that treat all data as untrusted — regardless of source. Covers sanitization, canonicalization, encoding, and validation of inputs AND outputs at every component boundary, including internal databases, caches, message queues, and inter-service calls.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "authentication",
+  "displayName": "Authentication & Authorization",
+  "description": "Use when designing or implementing authentication and authorization systems. Covers OAuth 2.0, OpenID Connect, RBAC, ABAC, Zero Trust architecture, session management, and multi-factor authentication across all platforms.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

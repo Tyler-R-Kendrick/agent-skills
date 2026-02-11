@@ -1,4 +1,5 @@
 ---
+name: stripe
 description: Guidance for Stripe payment processing SDK.
 metadata:
   displayName: Stripe

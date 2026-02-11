@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "helm",
+  "displayName": "Helm",
+  "description": "Use when creating or managing Helm charts for Kubernetes applications. Covers chart structure, values files, templates, Go template functions, dependencies, and release management.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

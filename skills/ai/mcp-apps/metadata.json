@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mcp-apps",
+  "displayName": "MCP Apps",
+  "description": "Use when building MCP Apps that serve interactive UI from MCP servers. Covers the ui:// URI scheme, HTML rendering in sandboxed iframes, and bidirectional communication between UI and host.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

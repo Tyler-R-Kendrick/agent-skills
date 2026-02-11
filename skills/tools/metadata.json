@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "tools",
+  "displayName": "Developer Tools",
+  "description": "Use when working with fundamental CLI tools and utilities that are essential for software development across all languages and platforms. Covers shells, version control, system package managers, containers, remote access, HTTP clients, data processing, and build runners.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

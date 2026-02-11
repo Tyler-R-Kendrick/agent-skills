@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "evaluations",
+  "displayName": "AI Evaluations",
+  "description": "Guidance for AI model evaluations and testing in .NET.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

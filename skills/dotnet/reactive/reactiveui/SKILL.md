@@ -1,4 +1,5 @@
 ---
+name: reactiveui
 description: Guidance for ReactiveUI MVVM framework.
 metadata:
   displayName: ReactiveUI

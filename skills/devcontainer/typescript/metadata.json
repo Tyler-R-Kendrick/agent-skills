@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "typescript",
+  "displayName": "Dev Container — TypeScript",
+  "description": "Use when configuring dev containers for TypeScript or Node.js projects. Covers the Node feature, package managers, ESLint/Prettier extensions, and frontend dev server setup.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

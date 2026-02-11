@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "storybook",
+  "displayName": "Storybook",
+  "description": "Use when documenting, developing, or testing UI components with Storybook. Covers CSF3, CSF Factories, play functions, Args, interaction testing, and addon configuration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

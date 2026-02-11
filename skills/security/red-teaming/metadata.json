@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "red-teaming",
+  "displayName": "Red Teaming",
+  "description": "Use when planning or conducting adversarial red team engagements that test an organization's detection, response, and resilience capabilities beyond traditional penetration testing. Covers red team vs pen test distinctions, adversary simulation frameworks (MITRE ATT&CK, Cyber Kill Chain), purple teaming, C2 frameworks, and AI/LLM red teaming.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ai-security",
+  "displayName": "AI Security",
+  "description": "Use when addressing security risks specific to AI and LLM applications. Covers OWASP Top 10 for LLM Applications (2025), prompt injection, model poisoning, excessive agency, insecure output handling, AI red teaming, and responsible AI frameworks.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

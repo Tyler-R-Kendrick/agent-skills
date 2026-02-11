@@ -1,4 +1,5 @@
 ---
+name: dotnet-web-apps
 description: Guidance for building .NET web applications.
 metadata:
   displayName: .NET Web Apps

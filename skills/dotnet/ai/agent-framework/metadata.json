@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "agent-framework",
+  "displayName": "Agent Framework",
+  "description": "Guidance for Agent Framework usage. Use when working with agent framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

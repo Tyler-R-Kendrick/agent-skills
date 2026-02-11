@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "specs",
+  "displayName": "Specifications & Architecture Documentation",
+  "description": "Use when working with software specifications, architecture documentation, and diagramming. Covers the full spectrum of spec-driven development — from architectural diagrams to requirements documents to specification tooling.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "attribution",
+  "displayName": "Attribution",
+  "description": "Use when identifying attribution requirements that apply to software products — open-source license notices, third-party asset credits, API usage attribution, font licensing, media licensing, and data source attribution. Covers what must be attributed, how, and where across different asset types and jurisdictions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

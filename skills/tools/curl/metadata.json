@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "curl",
+  "displayName": "curl & HTTP Clients",
+  "description": "Use when making HTTP requests from the command line for API testing, debugging, and automation. Covers curl, wget, and HTTPie with common patterns for REST APIs, authentication, file uploads, and response inspection.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

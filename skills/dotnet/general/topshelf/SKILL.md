@@ -1,4 +1,5 @@
 ---
+name: topshelf
 description: Guidance for Topshelf Windows service hosting framework.
 metadata:
   displayName: Topshelf

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "aspnet-identity",
+  "displayName": "ASP.NET Core Identity",
+  "description": "Guidance for ASP.NET Core Identity. Use when working with aspnet identity.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "solid",
+  "displayName": "SOLID Principles",
+  "description": "Use when applying or evaluating SOLID object-oriented design principles — Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

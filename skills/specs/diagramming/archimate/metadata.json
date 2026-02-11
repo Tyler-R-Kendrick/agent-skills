@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "archimate",
+  "displayName": "ArchiMate",
+  "description": "Use when modeling enterprise architecture with ArchiMate, the Open Group standard visual notation (v3.2). Covers Business, Application, and Technology layers, element types, relationship types, viewpoints, and modeling best practices.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

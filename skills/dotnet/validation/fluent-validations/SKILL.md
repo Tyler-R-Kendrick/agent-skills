@@ -1,4 +1,5 @@
 ---
+name: fluent-validations
 description: Guidance for FluentValidation validation library.
 metadata:
   displayName: FluentValidation

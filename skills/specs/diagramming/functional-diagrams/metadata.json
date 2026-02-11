@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "functional-diagrams",
+  "displayName": "Functional Diagrams",
+  "description": "Use when creating data flow diagrams (DFD), functional decomposition trees, IDEF0 diagrams, or BPMN process models. Covers process-oriented and data-oriented diagram types for analyzing system behavior and data transformation.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

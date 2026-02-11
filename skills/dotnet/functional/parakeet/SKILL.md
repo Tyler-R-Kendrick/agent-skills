@@ -1,4 +1,5 @@
 ---
+name: parakeet
 description: Guidance for Parakeet parser combinator library.
 metadata:
   displayName: Parakeet

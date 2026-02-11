@@ -1,4 +1,5 @@
 ---
+name: plastic
 description: Guidance for Plastic rules engine using command pattern.
 metadata:
   displayName: Plastic

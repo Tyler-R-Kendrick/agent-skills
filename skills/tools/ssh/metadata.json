@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ssh",
+  "displayName": "SSH",
+  "description": "Use when configuring or using SSH for remote access, secure file transfer, tunneling, and key management. Covers ssh, scp, sftp, ssh-keygen, SSH config, agent forwarding, port forwarding, and ProxyJump for jump hosts.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "extensions-primitives",
+  "displayName": "Microsoft.Extensions.Primitives",
+  "description": "Guidance for Microsoft.Extensions.Primitives and change tokens. Use when working with extensions primitives.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

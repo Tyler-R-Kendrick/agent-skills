@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "sorting-searching",
+  "displayName": "Sorting & Searching Algorithms",
+  "description": "Use when implementing or selecting sorting and searching algorithms. Covers comparison sorts (Quicksort, Mergesort, Heapsort, Insertion sort, Timsort), linear sorts (Counting, Radix, Bucket), and searching techniques (binary search, interpolation search, two pointers, sliding window). Based on Knuth's TAOCP Vol. 3.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

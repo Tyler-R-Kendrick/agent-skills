@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "acp",
+  "displayName": "ACP (Agent Communication Protocol)",
+  "description": "Use when implementing the Agent Communication Protocol (ACP) for REST-based agent-to-agent communication, task delegation, and multimodal message exchange.",
+  "author": "Tyler-R-Kendrick",
+  "license": "Apache-2.0",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

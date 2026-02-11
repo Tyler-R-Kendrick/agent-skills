@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "serilog",
+  "displayName": "Serilog",
+  "description": "Guidance for Serilog structured logging library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

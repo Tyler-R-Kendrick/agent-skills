@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "aspire",
+  "displayName": "Dev Container — Aspire",
+  "description": "Use when configuring dev containers for .NET Aspire projects. Covers the Aspire workload, Docker-in-Docker requirement, dashboard port forwarding, and multi-service orchestration in Codespaces.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,4 +1,5 @@
 ---
+name: peasy
 description: Guidance for Peasy business rules engine.
 metadata:
   displayName: Peasy

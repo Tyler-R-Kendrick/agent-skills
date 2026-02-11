@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dotnet-web-apps",
+  "displayName": ".NET Web Apps",
+  "description": "Guidance for building .NET web applications.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

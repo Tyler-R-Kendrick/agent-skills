@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "api-design",
+  "displayName": "API Design Patterns",
+  "description": "Use when designing APIs — REST endpoints, GraphQL schemas, gRPC services, or WebSocket protocols — including resource naming, versioning, pagination, error handling, and API gateway patterns.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

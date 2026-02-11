@@ -1,4 +1,5 @@
 ---
+name: orchard-cms
 description: Guidance for Orchard CMS content management system.
 metadata:
   displayName: Orchard CMS

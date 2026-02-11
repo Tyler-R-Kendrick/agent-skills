@@ -1,4 +1,5 @@
 ---
+name: webapicontrib
 description: Guidance for WebApiContrib extensions for ASP.NET Web API.
 metadata:
   displayName: WebApiContrib

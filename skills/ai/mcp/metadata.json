@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mcp",
+  "displayName": "MCP (Model Context Protocol)",
+  "description": "Use when implementing or integrating with the Model Context Protocol (MCP) for AI tool servers, resources, prompts, and context management.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

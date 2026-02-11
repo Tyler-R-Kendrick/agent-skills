@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "privacy-data-protection",
+  "displayName": "Privacy & Data Protection",
+  "description": "Use when identifying data privacy and protection laws that apply to your software product. Covers GDPR, CCPA/CPRA, LGPD, PIPL, PIPA, DPDPA, PIPEDA, and other global privacy regulations with jurisdiction mapping, key obligations, and compliance triggers.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

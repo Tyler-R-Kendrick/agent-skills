@@ -1,4 +1,5 @@
 ---
+name: polly
 description: Guidance for Polly resilience and transient fault handling library.
 metadata:
   displayName: Polly

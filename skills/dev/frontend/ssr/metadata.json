@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ssr",
+  "displayName": "Server-Side Rendering",
+  "description": "Server-Side Rendering, Static Site Generation, Incremental Static Regeneration, Islands Architecture, Streaming SSR, and React Server Components. Covers Next.js, Nuxt, Remix, SvelteKit, and Astro in depth.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

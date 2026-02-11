@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "rfc",
+  "displayName": "RFC (Request for Comments)",
+  "description": "Use when writing RFC (Request for Comments) design documents to propose significant technical changes for team review and feedback. Covers RFC structure, motivation, detailed design, alternatives analysis, risk assessment, the RFC workflow, and when to use RFC vs ADR.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

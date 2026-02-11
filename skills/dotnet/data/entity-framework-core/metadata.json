@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "entity-framework-core",
+  "displayName": "Entity Framework Core",
+  "description": "Guidance for Entity Framework Core usage. Use when working with entity framework core.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

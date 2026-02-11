@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "fluent-serializer",
+  "displayName": "Fluent Serializer",
+  "description": "Guidance for fluent API serialization patterns in .NET.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

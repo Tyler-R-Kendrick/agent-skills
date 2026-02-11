@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "documentation",
+  "displayName": "Documentation & Requirements",
+  "description": "Use when writing or structuring software specifications, requirements documents, and architecture decision records. Covers PRDs, TRDs, BRDs, ADRs, RFCs, and executable spec formats.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

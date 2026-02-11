@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "refit",
+  "displayName": "Refit",
+  "description": "Guidance for Refit type-safe REST library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

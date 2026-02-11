@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "gauge",
+  "displayName": "Gauge",
+  "description": "Use when writing markdown-based test specifications with the Gauge framework (ThoughtWorks). Covers specification files, scenarios, steps, concepts, data tables, tags, step implementations, data-driven testing, and reporting.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

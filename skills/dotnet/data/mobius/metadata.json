@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mobius",
+  "displayName": "Mobius",
+  "description": "Guidance for Mobius - C# bindings for Apache Spark.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,4 +1,5 @@
 ---
+name: pidgin
 description: Guidance for Pidgin parser combinator library.
 metadata:
   displayName: Pidgin

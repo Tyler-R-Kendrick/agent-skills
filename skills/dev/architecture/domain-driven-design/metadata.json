@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "domain-driven-design",
+  "displayName": "Domain-Driven Design",
+  "description": "Domain-Driven Design (DDD) strategic and tactical patterns based on Eric Evans' \"Domain-Driven Design\" -- covering bounded contexts, aggregates, context maps, and ubiquitous language for modeling complex domains.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

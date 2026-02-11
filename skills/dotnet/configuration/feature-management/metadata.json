@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "feature-management",
+  "displayName": "Feature Management",
+  "description": "Guidance for Microsoft.FeatureManagement feature flag library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

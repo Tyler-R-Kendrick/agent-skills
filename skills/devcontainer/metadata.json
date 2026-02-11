@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "devcontainer",
+  "displayName": "Dev Containers",
+  "description": "Use when configuring dev containers or GitHub Codespaces. Covers devcontainer.json schema, features, lifecycle hooks, port forwarding, and customizations.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

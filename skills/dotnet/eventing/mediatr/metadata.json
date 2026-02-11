@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mediatr",
+  "displayName": "MediatR",
+  "description": "Guidance for MediatR usage. Use when working with mediatr.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "package-management",
+  "displayName": "Package Management",
+  "description": "Use when choosing or configuring JavaScript/TypeScript package managers, managing dependencies, setting up workspaces, or publishing packages. Covers npm, yarn, pnpm, and bun.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

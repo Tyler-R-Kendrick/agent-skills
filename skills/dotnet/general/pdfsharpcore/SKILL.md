@@ -1,4 +1,5 @@
 ---
+name: pdfsharpcore
 description: Guidance for PdfSharpCore PDF generation library.
 metadata:
   displayName: PdfSharpCore

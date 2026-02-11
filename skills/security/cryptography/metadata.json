@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cryptography",
+  "displayName": "Cryptography",
+  "description": "Use when selecting or implementing cryptographic controls for data protection. Covers TLS configuration, password hashing algorithms, key management, secrets management, and encryption standards across all platforms.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

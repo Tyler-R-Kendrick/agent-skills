@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "topaz",
+  "displayName": "Topaz",
+  "description": "Guidance for Topaz fine-grained authorization.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

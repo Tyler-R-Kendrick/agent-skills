@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "docker-in-docker",
+  "displayName": "Docker-in-Docker",
+  "description": "Use when configuring Docker-in-Docker inside a dev container or Codespace. Covers the DinD feature, Docker Compose, building images, and running containers from within the dev environment.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

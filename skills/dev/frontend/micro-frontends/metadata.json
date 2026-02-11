@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "micro-frontends",
+  "displayName": "Micro-Frontend Architecture",
+  "description": "Micro-frontend architecture — composition approaches, Module Federation, single-spa, web components, shared state, and inter-app communication. Covers the patterns and tradeoffs for splitting a frontend across independent teams.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

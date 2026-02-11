@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "c4-diagrams",
+  "displayName": "C4 Diagrams",
+  "description": "Use when modeling software architecture using the C4 model (Context, Container, Component, Code) by Simon Brown. Covers hierarchical system decomposition, Structurizr DSL, and C4 diagramming best practices.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

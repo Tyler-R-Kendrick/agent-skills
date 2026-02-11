@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "fparsec",
+  "displayName": "FParsec",
+  "description": "Guidance for FParsec parser combinator library for F#.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "static-analysis",
+  "displayName": "Static Analysis",
+  "description": "Use when setting up or improving static analysis tooling — type checking, linting, security scanning (SAST), and code formatting. Covers cross-platform tools including TypeScript, mypy, ESLint, Biome, Ruff, Semgrep, CodeQL, Roslyn analyzers, Prettier, Black, and dotnet format with configuration examples and CI integration patterns.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

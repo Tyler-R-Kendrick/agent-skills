@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dynamic-programming",
+  "displayName": "Dynamic Programming",
+  "description": "Use when solving optimization problems with overlapping subproblems and optimal substructure. Covers memoization (top-down) vs tabulation (bottom-up), classic DP problems (Knapsack, LCS, LIS, Edit Distance, Coin Change, Matrix Chain, Rod Cutting), and the DP framework. Based on Knuth's TAOCP.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "algorithms",
+  "displayName": "Algorithms & Data Structures",
+  "description": "Use when selecting algorithms, analyzing complexity, or reasoning about data structure choices. Covers Big-O notation, space vs time tradeoffs, amortized analysis, and algorithmic problem-solving strategy based on Knuth's \"The Art of Computer Programming.\"",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

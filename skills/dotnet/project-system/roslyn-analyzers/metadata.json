@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "roslyn-analyzers",
+  "displayName": "Roslyn Analyzers",
+  "description": "Guidance for Roslyn analyzers for custom code analysis.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

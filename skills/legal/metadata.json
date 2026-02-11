@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "legal",
+  "displayName": "Legal & Compliance",
+  "description": "Use when identifying legal, regulatory, and compliance considerations that affect software companies operating globally. Covers data privacy, intellectual property, open-source licensing, AI regulation, accessibility, export controls, financial regulation, healthcare, cybersecurity compliance, and more.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

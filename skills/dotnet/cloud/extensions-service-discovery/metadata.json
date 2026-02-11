@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "extensions-service-discovery",
+  "displayName": "Service Discovery",
+  "description": "Guidance for Microsoft.Extensions.ServiceDiscovery. Use when working with extensions service discovery.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

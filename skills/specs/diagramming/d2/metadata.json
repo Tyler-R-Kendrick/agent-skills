@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "d2",
+  "displayName": "D2",
+  "description": "Use when creating architecture diagrams with the D2 declarative diagramming language by Terrastruct. D2 offers advanced layout control, nested containers, scenarios, and multiple rendering engines.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

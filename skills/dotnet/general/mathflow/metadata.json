@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mathflow",
+  "displayName": "MathFlow",
+  "description": "Guidance for mathematical expression evaluation in .NET.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

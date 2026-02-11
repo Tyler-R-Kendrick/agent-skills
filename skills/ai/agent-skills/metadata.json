@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "agent-skills",
+  "displayName": "Agent Skills Standard",
+  "description": "Use when creating, packaging, or distributing Agent Skills. Covers the SKILL.md specification, frontmatter schema, naming conventions, marketplace publishing, and the skills-ref validator.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

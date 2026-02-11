@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "nlog",
+  "displayName": "NLog",
+  "description": "Guidance for NLog logging library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

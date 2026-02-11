@@ -1,4 +1,5 @@
 ---
+name: testcontainers
 description: Guidance for Testcontainers integration testing library.
 metadata:
   displayName: Testcontainers

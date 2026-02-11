@@ -35,7 +35,14 @@
       "WebFetch(domain:mitosis.builder.io)",
       "Bash(pip show:*)",
       "Bash(pip install:*)",
-      "Bash(agentskills validate:*)"
+      "Bash(agentskills validate:*)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:vercel.com)",
+      "Bash(gh api:*)",
+      "Bash(find:*)",
+      "Bash(awk:*)",
+      "Bash(xargs:*)",
+      "Bash(shuf:*)"
     ]
   }
 }

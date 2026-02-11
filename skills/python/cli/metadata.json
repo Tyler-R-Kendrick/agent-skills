@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cli",
+  "displayName": "Python CLI Development",
+  "description": "Guidance for building command-line interfaces and terminal applications in Python.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

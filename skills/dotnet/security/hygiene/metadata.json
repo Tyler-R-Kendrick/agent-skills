@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "hygiene",
+  "displayName": "Hygiene & Sanitizers",
+  "description": "Guidance for input sanitization and hygiene best practices.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

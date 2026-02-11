@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "contracts",
+  "displayName": "Contracts",
+  "description": "Use when identifying contractual considerations for software companies — SLAs, DPAs, MSAs, licensing agreements, and liability allocation. Covers key contract types, essential clauses, jurisdiction-specific requirements, and negotiation considerations for software products and services.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

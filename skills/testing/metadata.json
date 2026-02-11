@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "testing",
+  "displayName": "Testing Strategy",
+  "description": "Use when choosing a testing strategy, right-sizing test coverage, or understanding test categories. Covers the Test Trophy model, test type tradeoffs, and guidance on balancing static analysis, unit, integration, and end-to-end tests.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

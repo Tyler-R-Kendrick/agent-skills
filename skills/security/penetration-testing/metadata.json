@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "penetration-testing",
+  "displayName": "Penetration Testing",
+  "description": "Use when planning or conducting authorized penetration tests against web applications, APIs, networks, and mobile apps. Covers pen testing methodologies (OWASP, PTES, OSSTMM), scoping and rules of engagement, tool selection, reporting, and remediation verification.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

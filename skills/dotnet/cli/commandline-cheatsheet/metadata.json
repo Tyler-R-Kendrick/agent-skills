@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "commandline-cheatsheet",
+  "displayName": "Command-Line Cheatsheet",
+  "description": "Guidance for command-line argument parsing patterns and libraries.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

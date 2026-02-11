@@ -1,4 +1,5 @@
 ---
+name: optional
 description: Guidance for Optional/Maybe pattern to handle null values.
 metadata:
   displayName: Optional Pattern

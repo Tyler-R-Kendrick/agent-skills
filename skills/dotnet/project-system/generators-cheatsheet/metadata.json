@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "generators-cheatsheet",
+  "displayName": "Source Generators",
+  "description": "Guidance for incremental source generators in .NET.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

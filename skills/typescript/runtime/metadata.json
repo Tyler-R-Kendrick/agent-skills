@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "runtime",
+  "displayName": "TypeScript Runtimes",
+  "description": "Use when choosing or configuring a TypeScript/JavaScript runtime environment. Covers the runtime landscape including Node.js, Deno, and Bun with feature comparisons, architectural differences, and selection guidance.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

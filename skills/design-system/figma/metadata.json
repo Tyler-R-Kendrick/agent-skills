@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "figma",
+  "displayName": "Figma",
+  "description": "Use when working with Figma as the design source for a design system — including Variables, Dev Mode, Code Connect, the REST API, and MCP-based design-to-code workflows.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

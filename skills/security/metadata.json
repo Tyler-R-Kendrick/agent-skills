@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "security",
+  "displayName": "Security",
+  "description": "Use when addressing cross-cutting security concerns that apply to all languages, frameworks, and platforms. Covers OWASP standards, threat modeling, authentication, cryptography, supply chain security, and AI security.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

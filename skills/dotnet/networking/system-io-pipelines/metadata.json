@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "system-io-pipelines",
+  "displayName": "System.IO.Pipelines",
+  "description": "Guidance for System.IO.Pipelines usage. Use when working with system io pipelines.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

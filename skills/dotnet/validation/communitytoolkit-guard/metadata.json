@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "communitytoolkit-guard",
+  "displayName": "CommunityToolkit Guard",
+  "description": "Guidance for CommunityToolkit.Diagnostics Guard usage. Use when working with communitytoolkit guard.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

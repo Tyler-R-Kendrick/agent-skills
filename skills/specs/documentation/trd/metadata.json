@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "trd",
+  "displayName": "TRD (Technical Requirements Document)",
+  "description": "Use when writing Technical Requirements Documents that define how to build a system. Covers system architecture, API specifications, data models, security requirements, performance requirements, dependencies, technical constraints, and deployment plans.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

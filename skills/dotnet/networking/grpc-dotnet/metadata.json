@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "grpc-dotnet",
+  "displayName": "gRPC for .NET",
+  "description": "Guidance for gRPC in .NET. Use when working with grpc dotnet.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

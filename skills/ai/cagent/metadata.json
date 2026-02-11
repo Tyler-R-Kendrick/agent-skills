@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cagent",
+  "displayName": "cagent (Docker Agent Runtime)",
+  "description": "Use when building or running multi-agent systems with Docker cagent. Covers YAML agent configuration, MCP tool integration, sub-agents, Docker MCP Gateway, and the cagent CLI.",
+  "author": "Tyler-R-Kendrick",
+  "license": "Apache-2.0",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

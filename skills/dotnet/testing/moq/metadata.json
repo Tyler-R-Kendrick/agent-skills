@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "moq",
+  "displayName": "Moq",
+  "description": "Guidance for Moq mocking framework for unit testing.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

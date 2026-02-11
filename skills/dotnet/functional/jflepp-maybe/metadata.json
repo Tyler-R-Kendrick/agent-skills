@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "jflepp-maybe",
+  "displayName": "JFlepp.Maybe",
+  "description": "Guidance for JFlepp.Maybe library for handling optional values.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

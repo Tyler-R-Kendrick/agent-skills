@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "creational",
+  "displayName": "Creational Patterns",
+  "description": "Creational design patterns from the Gang of Four — Factory Method, Abstract Factory, Builder, Prototype, and Singleton. Patterns that abstract the instantiation process to make systems independent of how objects are created, composed, and represented.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

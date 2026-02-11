@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dynamic-data",
+  "displayName": "DynamicData",
+  "description": "Guidance for DynamicData reactive collections library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

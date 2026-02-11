@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "plantuml",
+  "displayName": "PlantUML",
+  "description": "Use when creating UML and architecture diagrams using PlantUML's text-based DSL. Covers all major diagram types, syntax, skinparam theming, C4-PlantUML integration, and preprocessing directives.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

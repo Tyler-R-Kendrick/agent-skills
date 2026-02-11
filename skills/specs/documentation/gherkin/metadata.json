@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "gherkin",
+  "displayName": "Gherkin",
+  "description": "Use when writing Behavior-Driven Development specifications in Gherkin syntax. Covers Feature files, Scenario/Scenario Outline, Given/When/Then steps, Background, Examples tables, tags, data tables, doc strings, and step definition patterns.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "craftsmanship",
+  "displayName": "Software Craftsmanship",
+  "description": "Use when applying software craftsmanship principles — code quality, professional practices, and continuous improvement drawn from canonical works.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

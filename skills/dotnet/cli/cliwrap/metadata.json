@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cliwrap",
+  "displayName": "CliWrap",
+  "description": "Guidance for CliWrap library for wrapping command-line processes.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

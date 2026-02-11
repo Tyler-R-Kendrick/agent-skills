@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "spectre-console",
+  "displayName": "Spectre.Console",
+  "description": "Guidance for Spectre.Console library for beautiful console applications.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

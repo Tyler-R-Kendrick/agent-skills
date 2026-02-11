@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "open-source-licensing",
+  "displayName": "Open-Source Licensing",
+  "description": "Use when selecting, using, or distributing open-source software and understanding license obligations. Covers permissive vs copyleft licenses, license compatibility, compliance obligations, and SCA tools for license auditing.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

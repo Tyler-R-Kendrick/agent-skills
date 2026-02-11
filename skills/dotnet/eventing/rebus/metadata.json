@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "rebus",
+  "displayName": "Rebus",
+  "description": "Guidance for Rebus service bus library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

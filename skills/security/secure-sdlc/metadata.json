@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "secure-sdlc",
+  "displayName": "Secure SDLC",
+  "description": "Use when integrating security into the software development lifecycle. Covers security gates, shift-left security, DevSecOps practices, security champions programs, and security review processes.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

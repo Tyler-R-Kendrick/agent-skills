@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "message-construction",
+  "displayName": "Message Construction",
+  "description": "Use when designing message structure, intent, and metadata for enterprise messaging systems based on Enterprise Integration Patterns (Hohpe & Woolf).",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

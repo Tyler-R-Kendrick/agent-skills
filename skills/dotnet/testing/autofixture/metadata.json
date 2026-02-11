@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "autofixture",
+  "displayName": "AutoFixture",
+  "description": "Guidance for AutoFixture test data generation library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

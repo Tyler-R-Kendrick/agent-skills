@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "python",
+  "displayName": "Python",
+  "description": "Guidance for Python software development across the ecosystem. Covers project configuration, package management, CLI development, and popular libraries.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

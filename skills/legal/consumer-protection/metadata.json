@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "consumer-protection",
+  "displayName": "Consumer Protection",
+  "description": "Use when identifying consumer protection laws that apply to software products and digital services. Covers terms of service, EULAs, refund policies, dark patterns regulation, subscription practices, the EU Digital Markets Act, and consumer rights across jurisdictions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

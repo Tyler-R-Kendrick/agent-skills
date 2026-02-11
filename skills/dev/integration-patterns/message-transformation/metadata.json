@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "message-transformation",
+  "displayName": "Message Transformation",
+  "description": "Use when designing how messages are reshaped, enriched, filtered, or normalised as they flow between systems based on Enterprise Integration Patterns (Hohpe & Woolf).",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

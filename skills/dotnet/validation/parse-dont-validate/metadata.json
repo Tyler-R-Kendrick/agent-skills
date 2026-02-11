@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "parse-dont-validate",
+  "displayName": "Parse Don't Validate",
+  "description": "Guidance for \"Parse, Don't Validate\" using dependent type theory principles.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

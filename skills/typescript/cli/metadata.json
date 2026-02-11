@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "cli",
+  "displayName": "TypeScript CLI Development",
+  "description": "Use when building command-line interface tools with TypeScript. Covers argument parsing, interactive prompts, terminal UI, output formatting, and CLI packaging.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

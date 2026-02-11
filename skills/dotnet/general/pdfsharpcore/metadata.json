@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "pdfsharpcore",
+  "displayName": "PdfSharpCore",
+  "description": "Guidance for PdfSharpCore PDF generation library.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

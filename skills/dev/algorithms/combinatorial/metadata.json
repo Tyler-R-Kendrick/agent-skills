@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "combinatorial",
+  "displayName": "Combinatorial Algorithms",
+  "description": "Use when solving problems involving permutations, combinations, backtracking, branch and bound, subset generation, and constraint satisfaction. Covers N-Queens, Sudoku solving, generating functions, and pruning strategies. Based on Knuth's TAOCP Vol. 4A.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

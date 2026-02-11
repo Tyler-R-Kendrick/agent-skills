@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "backend",
+  "displayName": "Backend Architecture",
+  "description": "Use when making backend architecture decisions — choosing API styles, database types, caching strategies, authentication mechanisms, and server-side design patterns for scalable, maintainable systems.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

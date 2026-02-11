@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "appcontext",
+  "displayName": "AppContext",
+  "description": "Guidance for AppContext switches and feature flags. Use when working with appcontext.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

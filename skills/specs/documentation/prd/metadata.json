@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "prd",
+  "displayName": "PRD (Product Requirements Document)",
+  "description": "Use when writing Product Requirements Documents that define what to build and why. Covers problem statements, goals/non-goals, user stories, success metrics, functional and non-functional requirements, milestones, prioritization frameworks, and the relationship to BRD and TRD.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

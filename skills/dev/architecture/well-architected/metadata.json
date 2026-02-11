@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "well-architected",
+  "displayName": "Well-Architected Frameworks",
+  "description": "Cloud well-architected frameworks from AWS, Azure, and GCP -- covering pillars, design principles, review processes, and cross-cloud comparison for building reliable, secure, cost-effective cloud workloads.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

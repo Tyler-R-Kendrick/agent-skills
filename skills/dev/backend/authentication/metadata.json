@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "authentication",
+  "displayName": "Authentication & Authorization Patterns",
+  "description": "Use when designing authentication and authorization systems — OAuth 2.0 flows, JWT handling, session management, RBAC/ABAC models, multi-tenancy patterns, and security header configuration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

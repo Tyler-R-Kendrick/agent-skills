@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ai-regulation",
+  "displayName": "AI Regulation",
+  "description": "Use when identifying AI-specific regulations and compliance requirements that apply to AI/ML-powered software products. Covers the EU AI Act, US AI executive orders, China's AI regulations, and emerging global frameworks with risk classification and compliance obligations.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

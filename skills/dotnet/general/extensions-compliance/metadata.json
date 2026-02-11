@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "extensions-compliance",
+  "displayName": "Compliance",
+  "description": "Guidance for Microsoft.Extensions.Compliance. Use when working with extensions compliance.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

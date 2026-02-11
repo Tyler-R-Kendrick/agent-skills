@@ -1,4 +1,5 @@
 ---
+name: parse-dont-validate
 description: Guidance for "Parse, Don't Validate" using dependent type theory principles.
 metadata:
   displayName: Parse Don't Validate

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "structural",
+  "displayName": "Structural Patterns",
+  "description": "Structural design patterns from the Gang of Four — Adapter, Bridge, Composite, Decorator, Facade, Flyweight, and Proxy. Patterns that compose classes and objects into larger structures while keeping those structures flexible and efficient.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

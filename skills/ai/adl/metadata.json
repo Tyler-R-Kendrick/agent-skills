@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "adl",
+  "displayName": "ADL (Agent Definition Language)",
+  "description": "Use when defining AI agents declaratively with Agent Definition Language (ADL). Covers agent identity, LLM configuration, tools, permissions, RAG inputs, and governance metadata.",
+  "author": "Tyler-R-Kendrick",
+  "license": "Apache-2.0",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

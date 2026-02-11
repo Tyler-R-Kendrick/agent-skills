@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "powershell-core",
+  "displayName": "PowerShell Core",
+  "description": "Use when writing PowerShell scripts or automating tasks with PowerShell 7+ (the cross-platform edition). Covers cmdlet patterns, pipeline, objects vs text, modules, error handling, remoting, and differences from Windows PowerShell 5.1.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

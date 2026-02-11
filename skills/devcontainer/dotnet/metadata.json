@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dotnet",
+  "displayName": "Dev Container — .NET",
+  "description": "Use when configuring dev containers for .NET projects. Covers the dotnet feature, SDK versions, workloads, C# Dev Kit extensions, and NuGet configuration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

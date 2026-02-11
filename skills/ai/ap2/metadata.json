@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "ap2",
+  "displayName": "AP2 (Agent Payments Protocol)",
+  "description": "Use when implementing the Agent Payments Protocol (AP2) for secure, compliant AI-driven commerce. Covers intent mandates, cart mandates, payment flows, and merchant integration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "Apache-2.0",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "threat-modeling",
+  "displayName": "Threat Modeling",
+  "description": "Use when identifying and prioritizing security threats during system design. Covers STRIDE and DREAD frameworks, threat modeling processes, data flow diagrams for security, and integrating threat analysis into the SDLC.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

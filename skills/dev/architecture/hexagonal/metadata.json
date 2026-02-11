@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "hexagonal",
+  "displayName": "Hexagonal Architecture",
+  "description": "Hexagonal Architecture (Ports and Adapters), Onion Architecture, and their relationship to Clean Architecture -- enabling technology-independent domain logic with high testability.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

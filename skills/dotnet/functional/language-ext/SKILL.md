@@ -1,4 +1,5 @@
 ---
+name: language-ext
 description: Guidance for language-ext functional programming library.
 metadata:
   displayName: language-ext

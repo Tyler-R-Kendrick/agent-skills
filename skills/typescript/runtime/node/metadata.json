@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "node",
+  "displayName": "Node.js",
+  "description": "Use when building applications with Node.js, the most widely deployed JavaScript/TypeScript runtime. Covers the event loop, module system (CommonJS and ESM), core modules (fs, path, http, crypto, streams, worker_threads, child_process), async patterns, diagnostics, error handling, security, native addons, and TypeScript integration.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

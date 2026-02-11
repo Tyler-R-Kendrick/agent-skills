@@ -1,4 +1,5 @@
 ---
+name: reqnroll
 description: Guidance for Reqnroll BDD testing framework (SpecFlow successor).
 metadata:
   displayName: Reqnroll

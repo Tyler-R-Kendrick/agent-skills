@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "agents-md",
+  "displayName": "AGENTS.md",
+  "description": "Use when creating or updating AGENTS.md files to guide AI coding agents. Covers file structure, placement, content guidelines, and best practices for project-level agent instructions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

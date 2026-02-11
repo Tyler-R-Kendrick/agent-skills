@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "content-moderation",
+  "displayName": "Content Moderation",
+  "description": "Use when identifying legal obligations for platforms hosting user-generated content. Covers intermediary liability (Section 230, EU DSA), DMCA takedown procedures, illegal content obligations, CSAM reporting requirements, and content moderation transparency mandates.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

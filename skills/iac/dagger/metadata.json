@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "dagger",
+  "displayName": "Dagger",
+  "description": "Use when building CI/CD pipelines as code with Dagger. Covers Dagger Functions, modules, container-based execution, caching, and SDK usage in TypeScript, Python, and Go.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

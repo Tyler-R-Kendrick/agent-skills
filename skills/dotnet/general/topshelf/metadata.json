@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "topshelf",
+  "displayName": "Topshelf",
+  "description": "Guidance for Topshelf Windows service hosting framework.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

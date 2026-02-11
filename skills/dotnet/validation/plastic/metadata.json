@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "plastic",
+  "displayName": "Plastic",
+  "description": "Guidance for Plastic rules engine using command pattern.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "",
+  "references": []
+}

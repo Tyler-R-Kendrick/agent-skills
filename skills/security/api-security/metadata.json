@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "api-security",
+  "displayName": "API Security",
+  "description": "Use when securing APIs against common attack vectors. Covers rate limiting, CORS configuration, Content Security Policy, security headers, API gateway patterns, and API authentication strategies.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

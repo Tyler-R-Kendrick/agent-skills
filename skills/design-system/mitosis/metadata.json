@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "mitosis",
+  "displayName": "Mitosis",
+  "description": "Use when writing cross-framework UI components with Mitosis (Builder.io). Write components once in a JSX subset, compile to React, Vue, Angular, Svelte, Solid, Qwik, and more.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

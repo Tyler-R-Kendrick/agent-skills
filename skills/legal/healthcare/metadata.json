@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "healthcare",
+  "displayName": "Healthcare Regulation",
+  "description": "Use when identifying healthcare regulations that apply to software handling health data or functioning as a medical device. Covers HIPAA, HITECH, FDA SaMD regulation, EU MDR, HITRUST, and health data privacy across jurisdictions.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "data-structures",
+  "displayName": "Data Structures",
+  "description": "Use when selecting, implementing, or reasoning about data structures. Covers arrays, linked lists, stacks, queues, hash tables, trees (BST, AVL, Red-Black, B-Tree, Trie), heaps, and graphs (adjacency list, adjacency matrix). Based on Knuth's TAOCP Vol. 1.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}
