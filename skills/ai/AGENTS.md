@@ -17,6 +17,7 @@ This skill covers the emerging ecosystem of open standards and protocols for AI 
 | **AP2** | Secure agent-driven commerce and purchases | Google |
 | **MCP Apps** | Rich interactive UI served by MCP servers | Anthropic |
 | **cagent** | Multi-agent runtime with YAML configuration | Docker |
+| **learn** | Feedback-to-steering workflow for generalized agent reasoning preferences | Local |
 
 ## How They Relate
 ```
@@ -51,3 +52,4 @@ This skill covers the emerging ecosystem of open standards and protocols for AI 
 - **Guiding coding agents in a repo?** Add an AGENTS.md file.
 - **Serving rich UI from an MCP server?** Use MCP Apps.
 - **Running multi-agent systems locally?** Use Docker cagent.
+- **Turning a user correction into durable reasoning guidance?** Use learn to update `STEERING.md` and linked RDF entries.
