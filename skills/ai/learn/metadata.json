@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "learn",
+  "displayName": "Learn",
+  "description": "Use when a user corrects, rejects, edits, or redirects an LLM/agent response and the correction should become a reusable reasoning strategy. Converts feedback into generalized learnings for ~/.agents/STEERING.md with linked RDF/Turtle evidence.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}

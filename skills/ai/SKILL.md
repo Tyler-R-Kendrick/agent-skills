@@ -1,8 +1,8 @@
 ---
 name: ai
 description: |
-    Use when working with AI agent protocols, standards, and interoperability specifications. Covers MCP, A2A, ACP, Agent Skills, AGENTS.md, ADL, x402, AP2, MCP Apps, and cagent.
-    USE FOR: agent protocol selection, comparing MCP vs A2A vs ACP, understanding agent standards ecosystem, choosing payment protocols
+    Use when working with AI agent protocols, standards, interoperability specifications, and agent steering workflows. Covers MCP, A2A, ACP, Agent Skills, AGENTS.md, ADL, x402, AP2, MCP Apps, cagent, and learn.
+    USE FOR: agent protocol selection, comparing MCP vs A2A vs ACP, understanding agent standards ecosystem, choosing payment protocols, steering from user feedback
     DO NOT USE FOR: specific protocol implementation details (use the sub-skills: mcp, a2a, acp, x402, etc.)
 license: MIT
 metadata:
@@ -35,6 +35,7 @@ This skill covers the emerging ecosystem of open standards and protocols for AI 
 | **AP2** | Secure agent-driven commerce and purchases | Google |
 | **MCP Apps** | Rich interactive UI served by MCP servers | Anthropic |
 | **cagent** | Multi-agent runtime with YAML configuration | Docker |
+| **learn** | Feedback-to-steering workflow for generalized agent reasoning preferences | Local |
 
 ## How They Relate
 ```
@@ -69,3 +70,4 @@ This skill covers the emerging ecosystem of open standards and protocols for AI 
 - **Guiding coding agents in a repo?** Add an AGENTS.md file.
 - **Serving rich UI from an MCP server?** Use MCP Apps.
 - **Running multi-agent systems locally?** Use Docker cagent.
+- **Turning a user correction into durable reasoning guidance?** Use learn to update `STEERING.md` and linked RDF entries.
