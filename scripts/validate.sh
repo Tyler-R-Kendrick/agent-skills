@@ -19,9 +19,9 @@ ERRORS=()
 validate_skill() {
   local dir="$1"
   if agentskills validate "$dir"; then
-    ((PASS++))
+    PASS=$((PASS + 1))
   else
-    ((FAIL++))
+    FAIL=$((FAIL + 1))
     ERRORS+=("$dir")
   fi
 }

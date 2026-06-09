@@ -90,10 +90,28 @@ def find_sub_skills(skill_dir: str) -> list:
     return subs
 
 
-def generate_metadata_json(fm: dict, skill_dir: str) -> dict:
+def extract_references_from_body(body: str) -> list:
+    """Extract markdown links from a top-level References section."""
+    match = re.search(r"^## References\s*\n(.*?)(?=^## |\Z)", body, re.DOTALL | re.MULTILINE)
+    if not match:
+        return []
+    refs = []
+    seen = set()
+    for title, url in re.findall(r"-\s+\[([^\]]+)\]\((https?://[^)]+)\)", match.group(1)):
+        if url in seen:
+            continue
+        seen.add(url)
+        refs.append({"title": title.strip(), "url": url.strip()})
+    return refs
+
+
+def generate_metadata_json(fm: dict, skill_dir: str, body: str = "") -> dict:
     """Build metadata.json content from frontmatter."""
     name = fm.get("name", os.path.basename(skill_dir))
     metadata = fm.get("metadata") or {}
+    references = fm.get("references", [])
+    if not references:
+        references = extract_references_from_body(body)
     return {
         "version": "1.0.0",
         "name": name,
@@ -103,7 +121,7 @@ def generate_metadata_json(fm: dict, skill_dir: str) -> dict:
         "license": fm.get("license", "MIT"),
         "date": DATE,
         "compatibility": fm.get("compatibility", ""),
-        "references": fm.get("references", []),
+        "references": references,
     }
 
 
@@ -186,24 +204,24 @@ def process_skill(skill_dir: str, dry_run: bool = False) -> dict:
     sub_skills = find_sub_skills(skill_dir)
 
     # 1. metadata.json
-    meta = generate_metadata_json(fm, skill_dir)
+    meta = generate_metadata_json(fm, skill_dir, body)
     meta_path = os.path.join(skill_dir, "metadata.json")
     if not dry_run:
-        with open(meta_path, "w", encoding="utf-8") as f:
+        with open(meta_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(meta, f, indent=2, ensure_ascii=False)
             f.write("\n")
 
     # 2. AGENTS.md — body content from SKILL.md
     agents_path = os.path.join(skill_dir, "AGENTS.md")
     if not dry_run:
-        with open(agents_path, "w", encoding="utf-8") as f:
+        with open(agents_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(body.lstrip("\n"))
 
     # 3. README.md
     readme = generate_readme(fm, skill_dir, sub_skills)
     readme_path = os.path.join(skill_dir, "README.md")
     if not dry_run:
-        with open(readme_path, "w", encoding="utf-8") as f:
+        with open(readme_path, "w", encoding="utf-8", newline="\n") as f:
             f.write(readme)
 
     return {

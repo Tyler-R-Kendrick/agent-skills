@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "improve",
+  "displayName": "Self-Improvement Pipelines",
+  "description": "Use when producing agent/LLM evals, synthetic simulation data, or self-improvement pipelines for prompts, code, skills, agents, harnesses, and workflows. Covers AgentEvals/AgentV, Agent Skills evals, ASSERT, GEPA, Trace, VISTA, Agent Lightning, SkillOpt, Simula-style data design, progressive disclosure, deterministic workspaces, and release evidence.",
+  "author": "Tyler-R-Kendrick",
+  "license": "MIT",
+  "date": "February 2026",
+  "compatibility": "claude, copilot, cursor",
+  "references": []
+}
