@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Agent-skill generated workspaces
+.improve/
+.simulate/
+**/.improve/
+**/.simulate/
