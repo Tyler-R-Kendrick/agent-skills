@@ -4,7 +4,10 @@
   "description": "My personal agent-skills marketplace",
   "scripts": {
     "validate": "bash scripts/validate.sh",
-    "test": "bash scripts/validate.sh"
+    "test": "bash scripts/validate.sh && npm run learn:test",
+    "learn:build": "tsc -p skills/ai/learn/scripts/tsconfig.json",
+    "learn:test": "npm run learn:build --silent && node --test skills/ai/learn/scripts/test/*.test.js",
+    "learn:template": "npm run learn:build --silent && node skills/ai/learn/scripts/dist/learn.js template"
   },
   "repository": {
     "type": "git",
@@ -20,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Tyler-R-Kendrick/agent-skills/issues"
   },
-  "homepage": "https://github.com/Tyler-R-Kendrick/agent-skills#readme"
+  "homepage": "https://github.com/Tyler-R-Kendrick/agent-skills#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "typescript": "^6.0.3"
+  }
 }

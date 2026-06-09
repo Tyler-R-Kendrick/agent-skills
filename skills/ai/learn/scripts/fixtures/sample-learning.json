@@ -1,0 +1,18 @@
+{
+  "title": "Prefer executable proof over screenshots",
+  "category": "evidence",
+  "trigger": "UI completion claims",
+  "correction": "Screenshots alone are not accepted proof for workflows with a canonical recording contract.",
+  "preferredStrategy": "Run the executable recording or validation flow before claiming completion.",
+  "generalizedRule": "When a workflow has a canonical proof command, use it before declaring success.",
+  "zpdScaffold": "Pause before final summary and ask which proof contract applies to the changed surface.",
+  "evidence": [
+    "memory://MEMORY.md:1375"
+  ],
+  "scope": "global",
+  "confidence": 0.9,
+  "avoid": [
+    "Do not treat visual inspection as the full evidence contract."
+  ],
+  "createdAt": "2026-06-08T00:00:00.000Z"
+}

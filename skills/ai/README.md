@@ -1,6 +1,6 @@
 # AI Agent Protocols & Standards
 
-Use when working with AI agent protocols, standards, interoperability specifications, evaluation contracts, synthetic simulation data, and improvement pipelines. Covers MCP, A2A, ACP, Agent Skills, AGENTS.md, ADL, Improve, x402, AP2, MCP Apps, and cagent.
+Use when working with AI agent protocols, standards, interoperability specifications, evaluation contracts, synthetic simulation data, improvement pipelines, and agent steering workflows. Covers MCP, A2A, ACP, Agent Skills, AGENTS.md, ADL, Improve, x402, AP2, MCP Apps, cagent, and learn.
 
 ## Structure
 
@@ -23,6 +23,7 @@ Use when working with AI agent protocols, standards, interoperability specificat
 | [`ap2/`](ap2/) | Use when implementing the Agent Payments Protocol (AP2) for secure, compliant AI-driven commerce. Covers intent mandates... |
 | [`cagent/`](cagent/) | Use when building or running multi-agent systems with Docker cagent. Covers YAML agent configuration, MCP tool integrati... |
 | [`improve/`](improve/) | Use when producing agent/LLM evals, synthetic simulation data, or self-improvement pipelines for prompts, code, skills, ... |
+| [`learn/`](learn/) | Use when a user corrects, rejects, edits, or redirects an LLM/agent response and the correction should become a reusable... |
 | [`mcp/`](mcp/) | Use when implementing or integrating with the Model Context Protocol (MCP) for AI tool servers, resources, prompts, and ... |
 | [`mcp-apps/`](mcp-apps/) | Use when building MCP Apps that serve interactive UI from MCP servers. Covers the ui:// URI scheme, HTML rendering in sa... |
 | [`x402/`](x402/) | Use when implementing the x402 protocol for HTTP-native micropayments. Covers server middleware, client payment flows, f... |
